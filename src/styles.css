@@ -56,8 +56,8 @@ h1,h2,h3{ font-family: 'Press Start 2P', cursive; letter-spacing:0.5px; line-hei
 .resource.optional{ opacity: 0.95; }
 .notes{ color: var(--muted); margin-top: 4px; }
 
-.tooltip{ position: relative; display:inline-block; }
-.tooltip-content{ position:absolute; left:50%; transform: translateX(-50%) translateY(-8px); bottom:100%; white-space:nowrap; background: #0b0f1a; color: var(--fg); border:1px solid rgba(255,255,255,0.2); padding:6px 8px; border-radius:6px; z-index: 20; }
+.tooltip{ position: relative; display:inline-block; padding: 2px 8px 2px 0; }
+.tooltip-content{ position:absolute; left:50%; transform: translateX(-50%) translateY(-8px); bottom:100%; white-space:normal; background: #0b0f1a; color: var(--fg); border:1px solid rgba(255,255,255,0.2); padding:6px 8px; border-radius:6px; z-index: 20; width: max-content; max-width: 300px; }
 
 @media (max-width: 640px){
   .navbar nav{ gap:10px; }
