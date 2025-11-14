@@ -1,4 +1,5 @@
 import Tooltip from './Tooltip'
+import { Link } from 'react-router-dom'
 
 export default function ResourceItem({ resource, loMap }) {
   const {
@@ -27,7 +28,7 @@ export default function ResourceItem({ resource, loMap }) {
         <div className="los">
           {learningOutcomes.map((id) => (
             <Tooltip key={id} label={loMap[id]?.outcome || loMap[id]?.title || ''}>
-              <span className="badge lo">LO {id}</span>
+              <Link to={`/outcomes/${id}`} className="badge lo">LO {id}</Link>
             </Tooltip>
           ))}
         </div>

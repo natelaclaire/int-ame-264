@@ -52,6 +52,7 @@ h1,h2,h3{ font-family: 'Press Start 2P', cursive; letter-spacing:0.5px; line-hei
 .badge.type{ border-color: var(--accent); color: var(--accent); }
 .badge.duration{ border-color: var(--accent2); color: var(--accent2); }
 .badge.lo{ border-color: #f7cf00; color: #f7cf00; cursor: help; }
+.badge.lo:hover{ background: rgba(247, 207, 0, 0.1); }
 .resource.required{ box-shadow: inset 0 0 0 1px rgba(0,255,156,0.15); }
 .resource.optional{ opacity: 0.95; }
 .notes{ color: var(--muted); margin-top: 4px; }
