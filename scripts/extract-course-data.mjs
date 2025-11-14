@@ -85,15 +85,70 @@ function extractModules(weekSections){
 }
 
 function parseBullets(text, required, module){
-  const lines = text.split(/\r?\n/)
-  const bullets = []
+  // Normalize line endings: convert CRLF and bare CR to LF
+  const normalizedText = text.replace(/\r\n/g, "\n").replace(/\r/g, "\n")
+  const lines = normalizedText.split(/\n/)
+  
+    // Pre-process lines to join any that are continuations of markdown links
+    // If a line has an unclosed markdown link [...]( without matching ), join with next line
+    const joinedLines = []
+    let i = 0
+    while(i < lines.length) {
+      let line = lines[i]
+      // Check if this line has an unclosed markdown link
+      const openBracket = line.indexOf('[')
+      if(openBracket !== -1) {
+        const closeBracket = line.indexOf(']', openBracket)
+        if(closeBracket !== -1 && line[closeBracket + 1] === '(') {
+            if(line.includes('History of Video Games Documentary')){
+              
+            }
+          // Count parens to see if URL is complete
+          let parenDepth = 0
+          for(let j = closeBracket + 1; j < line.length; j++) {
+            if(line[j] === '(') parenDepth++
+            else if(line[j] === ')') parenDepth--
+          }
+              if(line.includes('History of Video Games Documentary')){
+                
+              }
+          // If parens don't balance, URL continues on next line(s)
+          if(line.includes('History of Video Games Documentary')){
+            
+          }
+          while(parenDepth > 0 && i + 1 < lines.length) {
+            const nextLine = lines[i + 1]
+            if(!nextLine) break
+            
+            line += nextLine  // Join without space - markdown already has line break
+            // Update paren count
+            for(let j = 0; j < nextLine.length; j++) {
+              if(nextLine[j] === '(') parenDepth++
+              else if(nextLine[j] === ')') parenDepth--
+            }
+            i++
+          }
+        }
+      }
+      if(line.includes('History of Video Games Documentary')){
+        
+      }
+      joinedLines.push(line)
+      i++
+    }
+
+    const bullets = []
   const bulletRegex = /^\*\s+(.+)/
-  for(const raw of lines){
+    for(const raw of joinedLines){
+    
     const b = raw.match(bulletRegex)
     if(!b) continue
-    const line = b[1].trim()
+    let line = b[1].trim()
     // Skip empty or navigation-only bullets
     if(!line) continue
+    
+    // Remove escaped markdown characters (e.g., `\)` -> `)`, `\!` -> `!`)
+    line = line.replace(/\\([)!:])/g, '$1')
 
     // Extract type
     let type = ''
@@ -103,28 +158,44 @@ function parseBullets(text, required, module){
       type = typeMatch[1].trim()
       rest = typeMatch[2].trim()
     }
+    
 
-    // Extract first markdown link
+    // Extract first markdown link - need to handle URLs with parentheses
     let title = rest
     let url = null
-    const linkMatch = rest.match(/\[([^\]]+)\]\(([^)]+)\)/)
-    if(linkMatch){
-      title = linkMatch[1].trim()
-      url = linkMatch[2].trim()
-    } else {
+    // Find opening [
+    const openBracket = rest.indexOf('[')
+    if(openBracket !== -1){
+      const closeBracket = rest.indexOf(']', openBracket)
+      if(closeBracket !== -1 && rest[closeBracket + 1] === '('){
+        // Found a markdown link
+        title = rest.slice(openBracket + 1, closeBracket).trim()
+        // Find matching closing paren for URL - scan forward
+        let parenDepth = 1
+        let urlStart = closeBracket + 2
+        let urlEnd = urlStart
+        while(urlEnd < rest.length && parenDepth > 0){
+          if(rest[urlEnd] === '(') parenDepth++
+          else if(rest[urlEnd] === ')') parenDepth--
+          if(parenDepth > 0) urlEnd++
+        }
+        url = rest.slice(urlStart, urlEnd).trim()
+        
+      }
+    }
+    if(!url){
       // Title may be plain text, trim trailing comments
       title = rest.replace(/\s*\(.+?\)\s*$/,'').trim()
     }
 
-    // Extract LO tags
+    // Extract LO tags - format is (LO 1, LO 2, LO 3) with repeated LO prefix
     const loNumbers = []
-    const loRe = /\(\s*LO\s*([0-9,\s]+)\s*\)/gi
-    let lom
+    // Match individual LO N patterns
+    const loMatches = [...line.matchAll(/LO\s*(\d+)/gi)]
     let consumedLO = []
-    while((lom = loRe.exec(line))){
+    for(const lom of loMatches){
       consumedLO.push(lom[0])
-      const nums = lom[1].split(',').map(s => Number(s.trim())).filter(n => !isNaN(n))
-      loNumbers.push(...nums)
+      loNumbers.push(Number(lom[1]))
     }
 
     // Extract duration (last parenthetical with 'min')
@@ -136,9 +207,27 @@ function parseBullets(text, required, module){
 
     // Notes: remove link, LO tags, duration from original; keep any trailing descriptors
     let notes = line
-    if(linkMatch) notes = notes.replace(linkMatch[0], title)
-    for(const c of consumedLO){ notes = notes.replace(c, '') }
-    if(duration) notes = notes.replace(new RegExp(`\\(${duration.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')}\\)`), '')
+    // If we extracted a link, replace the full markdown with just the title
+    if(url){
+      const linkStart = line.indexOf('[')
+      const linkEnd = line.indexOf(')', linkStart)
+      if(linkStart !== -1 && linkEnd !== -1){
+        const fullLink = line.slice(linkStart, linkEnd + 1)
+        notes = notes.replace(fullLink, title)
+      }
+    }
+  for(const c of consumedLO){ notes = notes.replace(c, '') }
+  if(duration) notes = notes.replace(new RegExp(`\\(${duration.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')}\\)`), '')
+  // Remove any leftover markdown link tails like "](...)": strip "](" to matching ")"
+  notes = notes.replace(/\]\([^)]*\)/g, '')
+  // Remove parentheses that contain only commas and/or whitespace
+  notes = notes.replace(/\(\s*,[\s,]*\)/g, '')
+  // Remove empty parentheses
+  notes = notes.replace(/\(\s*\)/g, '')
+  // Collapse multiple spaces
+  notes = notes.replace(/\s{2,}/g, ' ')
+  // Trim stray trailing punctuation like colon or dash if alone
+  notes = notes.replace(/^[-:]+\s*/, '').replace(/\s*[-:]+$/, '')
     // Remove type prefix safely using plain string ops
     if(type && notes.startsWith(type)) {
       const prefix = type + ':'
@@ -172,12 +261,14 @@ function extractResources(md, weekSections, modules){
   for(const section of weekSections){
     const module = modules.find(m => m.week === section.week)
     const body = section.body
+    
     // Required: between Readings/Media and Additional/Journal/next
-    const reqMatch = body.match(/\*\*Readings\/Media:?\*\*[\s\S]*?(?=(\*\*Additional|\*\*Journal|##\s+\*\*Week|\Z))/i)
+  const reqMatch = body.match(/\*\*Readings\/Media:?\*\*[\s\S]*?(?=(\*\*Additional|\*\*Journal|##\s+\*\*Week|$))/i)
     if(reqMatch){
+      
       resources.push(...parseBullets(reqMatch[0], true, module))
     }
-    const addMatch = body.match(/\*\*Additional[\s\S]*?(?=(\*\*Journal|##\s+\*\*Week|\Z))/i)
+  const addMatch = body.match(/\*\*Additional[\s\S]*?(?=(\*\*Journal|##\s+\*\*Week|$))/i)
     if(addMatch){
       resources.push(...parseBullets(addMatch[0], false, module))
     }
