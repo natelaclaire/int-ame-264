@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Understand the History and Evolution of Video Games",
+    "outcome": "Students will be able to explain the historical development of video games, from early arcade games to contemporary digital gaming platforms.",
+    "indicators": "Demonstrates knowledge of key milestones in video game history, identifies major technological advancements, and explains the shift from public arcades to home consoles and mobile gaming.",
+    "slug": "lo-1"
+  },
+  {
+    "id": 2,
+    "title": "Analyze the Cultural and Social Impact of Video Games",
+    "outcome": "Students will be able to critically assess how video games reflect and shape cultural values, norms, and societal issues.",
+    "indicators": "Analyzes representations of gender, race, and identity in video games, and evaluates the role of video games in promoting or challenging societal stereotypes and beliefs.",
+    "slug": "lo-2"
+  },
+  {
+    "id": 3,
+    "title": "Evaluate the Use of Video Games in Non-Entertainment Contexts",
+    "outcome": "Students will explore the applications of video games beyond entertainment, including their use in medicine, education, and social engagement.",
+    "indicators": "Demonstrates understanding of “serious games” and evaluates the effectiveness of games used in therapeutic, educational, or civic contexts.",
+    "slug": "lo-3"
+  },
+  {
+    "id": 4,
+    "title": "Critically Assess the Ethical Dimensions of Gaming",
+    "outcome": "Students will be able to discuss ethical concerns surrounding gaming, including issues related to violence, addiction, monetization practices, labor concerns, and virtual identities.",
+    "indicators": "Identifies ethical issues in gaming, articulates various viewpoints on these issues, and demonstrates the ability to engage in thoughtful discussion on gaming ethics.",
+    "slug": "lo-4"
+  },
+  {
+    "id": 5,
+    "title": "Understand and Evaluate the Role of Technology in Gaming",
+    "outcome": "Students will gain insights into how technologies like artificial intelligence, virtual reality, and online connectivity shape gaming experiences.",
+    "indicators": "Describes technological advancements in gaming, discusses the potential impacts of AI and VR on immersion, and explains the technical and social dimensions of multiplayer and competitive gaming.",
+    "slug": "lo-5"
+  },
+  {
+    "id": 6,
+    "title": "Appreciate the Diversity of the Gaming Ecosystem",
+    "outcome": "Students will understand the variety of gaming experiences, from indie games to eSports, and will recognize the contributions of diverse communities within the gaming industry.",
+    "indicators": "Identifies key characteristics of indie games, explains the influence of modding and private servers on gaming communities, and describes the impact of community contributions on gaming culture.",
+    "slug": "lo-6"
+  },
+  {
+    "id": 7,
+    "title": "Communicate Insights and Reflections on Gaming",
+    "outcome": "Students will be able to express informed perspectives on gaming in written reflections and class discussions, connecting course content to broader social and cultural contexts.",
+    "indicators": "Produces well-structured reflections on weekly topics, engages in thoughtful discussions, and demonstrates the ability to apply critical thinking skills to personal gaming experiences.",
+    "slug": "lo-7"
+  },
+  {
+    "id": 8,
+    "title": "Identify Future Directions and Opportunities in the Gaming Industry",
+    "outcome": "Students will be able to discuss potential future trends in gaming, reflecting on emerging technologies, cultural shifts, and player expectations.",
+    "indicators": "Articulates a vision for the future of gaming, identifies potential areas for improvement in the industry, and connects current trends to historical and social insights.",
+    "slug": "lo-8"
+  }
+]

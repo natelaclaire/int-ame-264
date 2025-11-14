@@ -1,0 +1,4391 @@
+[
+  {
+    "id": "week-1-introduction:-your-video-game-story-audio-maine-calling:-video-games",
+    "moduleSlug": "week-1-introduction:-your-video-game-story",
+    "moduleWeek": 1,
+    "title": "Maine Calling: Video Games",
+    "url": "https://www.mainepublic.org/show/maine-calling/2024-12-02/video-games",
+    "type": "Audio",
+    "duration": "51 min",
+    "notes": "",
+    "learningOutcomes": [
+      2,
+      3,
+      4,
+      7
+    ],
+    "required": true
+  },
+  {
+    "id": "week-1-introduction:-your-video-game-story-youtube-the-history-of-video-games-do",
+    "moduleSlug": "week-1-introduction:-your-video-game-story",
+    "moduleWeek": 1,
+    "title": "The History of Video Games Documentary",
+    "url": "https://www.youtube.com/watch?v=z7-BN0qdZDk&ab_channel=TheUpliftingGuy",
+    "type": "YouTube",
+    "duration": "91 min",
+    "notes": "",
+    "learningOutcomes": [
+      1
+    ],
+    "required": true
+  },
+  {
+    "id": "week-1-introduction:-your-video-game-story-infographic-and-article-50-years-of-g",
+    "moduleSlug": "week-1-introduction:-your-video-game-story",
+    "moduleWeek": 1,
+    "title": "50 Years of Gaming History, by Revenue Stream (1970-2020)",
+    "url": "https://www.visualcapitalist.com/50-years-gaming-history-revenue-stream/",
+    "type": "Infographic and Article",
+    "duration": "6 min",
+    "notes": "",
+    "learningOutcomes": [
+      1,
+      4,
+      8
+    ],
+    "required": true
+  },
+  {
+    "id": "week-1-introduction:-your-video-game-story-youtube-i-played-100-years-of-video-g",
+    "moduleSlug": "week-1-introduction:-your-video-game-story",
+    "moduleWeek": 1,
+    "title": "I Played 100 Years Of Video Games",
+    "url": "https://www.youtube.com/watch?v=FBmybY8W8uU",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-1-introduction:-your-video-game-story-article-the-definitive-guide-to-video",
+    "moduleSlug": "week-1-introduction:-your-video-game-story",
+    "moduleWeek": 1,
+    "title": "The Definitive Guide to Video Game Genres and Game Types",
+    "url": "https://codakid.com/video-game-genres/",
+    "type": "Article",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-1-introduction:-your-video-game-story-youtube-the-birth-of-basic",
+    "moduleSlug": "week-1-introduction:-your-video-game-story",
+    "moduleWeek": 1,
+    "title": "The Birth of BASIC",
+    "url": "https://youtu.be/WYPNjSoDrqw?si=TVzqzV7JnbDy_VUn",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-1-introduction:-your-video-game-story-youtube-1981:-how-computer-graphics-w",
+    "moduleSlug": "week-1-introduction:-your-video-game-story",
+    "moduleWeek": 1,
+    "title": "1981: How Computer Graphics will Change the World",
+    "url": "https://youtu.be/W8-54-9J9ns?si=GtVJ2EWE-1PZGWfg",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-2-arcade-and-location-based-games-article-history-of-coin-operated-arcade-g",
+    "moduleSlug": "week-2-arcade-and-location-based-games",
+    "moduleWeek": 2,
+    "title": "History of Coin-Operated Arcade Games",
+    "url": "https://www.betson.com/the-history-of-arcade-games/",
+    "type": "Article",
+    "duration": "10 min",
+    "notes": "",
+    "learningOutcomes": [
+      1
+    ],
+    "required": true
+  },
+  {
+    "id": "week-2-arcade-and-location-based-games-youtube-insert-coin",
+    "moduleSlug": "week-2-arcade-and-location-based-games",
+    "moduleWeek": 2,
+    "title": "Insert Coin",
+    "url": "https://youtu.be/GUN2bP8XQKI?si=i_2qOJQig0sj3Hsy&t=2036",
+    "type": "YouTube",
+    "duration": "10 min",
+    "notes": "Insert Coin, from 33:56 to 43:55 (Documentary on Midway Games)",
+    "learningOutcomes": [
+      4
+    ],
+    "required": true
+  },
+  {
+    "id": "week-2-arcade-and-location-based-games-youtube-how-arcades-are-reinventing-fun",
+    "moduleSlug": "week-2-arcade-and-location-based-games",
+    "moduleWeek": 2,
+    "title": "How Arcades Are Reinventing Fun",
+    "url": "https://youtu.be/LFaxqJJLOZc?si=gVuHUssWo2kROvGq",
+    "type": "YouTube",
+    "duration": "47 min",
+    "notes": "",
+    "learningOutcomes": [
+      1,
+      5,
+      8
+    ],
+    "required": true
+  },
+  {
+    "id": "week-2-arcade-and-location-based-games-article-what-is-location-based-entertainm",
+    "moduleSlug": "week-2-arcade-and-location-based-games",
+    "moduleWeek": 2,
+    "title": "What is Location-Based Entertainment - A Clear Explanation",
+    "url": "https://drawandcode.com/learning-zone/what-is-location-based-entertainment/",
+    "type": "Article",
+    "duration": "12 min",
+    "notes": "",
+    "learningOutcomes": [
+      1,
+      8
+    ],
+    "required": true
+  },
+  {
+    "id": "week-2-arcade-and-location-based-games-youtube-what-is-location-based-vr",
+    "moduleSlug": "week-2-arcade-and-location-based-games",
+    "moduleWeek": 2,
+    "title": "What is \"location-based\" VR?",
+    "url": "https://www.youtube.com/watch?v=JCKwAznXaSM&ab_channel=MakayplaysVR",
+    "type": "YouTube",
+    "duration": "4 min",
+    "notes": "",
+    "learningOutcomes": [
+      1,
+      8
+    ],
+    "required": true
+  },
+  {
+    "id": "week-2-arcade-and-location-based-games-article-the-history-of-atari:-1971-1977",
+    "moduleSlug": "week-2-arcade-and-location-based-games",
+    "moduleWeek": 2,
+    "title": "The History of Atari: 1971-1977",
+    "url": "https://www.gamedeveloper.com/business/the-history-of-atari-1971-1977",
+    "type": "Article",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-2-arcade-and-location-based-games-comic-rise-and-fall-of-atari:-atari-backs",
+    "moduleSlug": "week-2-arcade-and-location-based-games",
+    "moduleWeek": 2,
+    "title": "Rise and fall of Atari: Atari backstory",
+    "url": "https://consolers.webcomic.ws/archive/18245",
+    "type": "Comic",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-2-arcade-and-location-based-games-article-coin-op-century:-a-brief-history-",
+    "moduleSlug": "week-2-arcade-and-location-based-games",
+    "moduleWeek": 2,
+    "title": "Coin-Op Century: A Brief History of the American Arcade",
+    "url": "https://www.museumofplay.org/blog/coin-op-century-a-brief-history-of-the-american-arcade/",
+    "type": "Article",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-2-arcade-and-location-based-games-the-ted-dabney-experience-podcasthttps-ww",
+    "moduleSlug": "week-2-arcade-and-location-based-games",
+    "moduleWeek": 2,
+    "title": "The Ted Dabney Experience Podcast",
+    "url": "https://www.teddabneyexperience.com/",
+    "type": "Podcast",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-2-arcade-and-location-based-games-article-space-invaders:-tomohiro-nishikad",
+    "moduleSlug": "week-2-arcade-and-location-based-games",
+    "moduleWeek": 2,
+    "title": "Space Invaders: Tomohiro Nishikado Reveals Why the Main Villains Were Octopuses",
+    "url": "https://www.cbr.com/space-invaders-octopus-villains-war-worlds/",
+    "type": "Article",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-2-arcade-and-location-based-games-book-replay:-the-history-of-video-games",
+    "moduleSlug": "week-2-arcade-and-location-based-games",
+    "moduleWeek": 2,
+    "title": "*Replay: The History of Video Games*",
+    "url": "https://www.amazon.com/Replay-History-Video-Tristan-Donovan/dp/0956507204",
+    "type": "Book",
+    "duration": "",
+    "notes": "*Replay: The History of Video Games* by Tristan Donovan (especially chapters 1-3 and 18)",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-2-arcade-and-location-based-games-youtube-1971:-the-video-game-arcade-is-bo",
+    "moduleSlug": "week-2-arcade-and-location-based-games",
+    "moduleWeek": 2,
+    "title": "1971: The Video Game Arcade is Born! Galaxy Game and Computer Space!",
+    "url": "https://www.youtube.com/watch?v=flV7x26wp0U&ab_channel=ChronologicallyGaming",
+    "type": "YouTube",
+    "duration": "https://www.youtube.com/watch?v=flV7x26wp0U&ab_channel=ChronologicallyGaming",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-2-arcade-and-location-based-games-youtube-arcades-:-the-universal-language-",
+    "moduleSlug": "week-2-arcade-and-location-based-games",
+    "moduleWeek": 2,
+    "title": "Arcades : The Universal Language : 1970-1999 (Directors Cut)",
+    "url": "https://www.youtube.com/watch?v=v8rhq5YKJPg&ab_channel=BastichB64K",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-2-arcade-and-location-based-games-youtube-the-arcade-project:-a-cultural-hi",
+    "moduleSlug": "week-2-arcade-and-location-based-games",
+    "moduleWeek": 2,
+    "title": "The Arcade Project: A Cultural History of Gaming Spaces",
+    "url": "https://www.youtube.com/watch?v=nkm8_2hb9VQ&ab_channel=CSULBCenterfortheHistoryofVideoGamesandCriticalPlay",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-2-arcade-and-location-based-games-youtube-the-infinite-immersive-experience",
+    "moduleSlug": "week-2-arcade-and-location-based-games",
+    "moduleWeek": 2,
+    "title": "'The Infinite' immersive experience takes guests to space",
+    "url": "https://www.youtube.com/watch?v=pkIa859O49o&ab_channel=FOX13Seattle",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-2-arcade-and-location-based-games-youtube-vr-gym-and-vr-gaming-arena-all-in",
+    "moduleSlug": "week-2-arcade-and-location-based-games",
+    "moduleWeek": 2,
+    "title": "VR Gym and VR Gaming Arena All In One: ThriVR!",
+    "url": "https://www.youtube.com/watch?v=3FI4q5I4Ik4&list=PLIpvHCj8Tnt2spgTRQqbPEdNiayRBbmT8&index=2&ab_channel=JayBratt",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-2-arcade-and-location-based-games-youtube-nomadic-location-based-vr-experie",
+    "moduleSlug": "week-2-arcade-and-location-based-games",
+    "moduleWeek": 2,
+    "title": "Nomadic Location-Based VR Experience Trailer",
+    "url": "https://www.youtube.com/watch?v=GR4xj0dftnc&ab_channel=UploadVR",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-2-arcade-and-location-based-games-youtube-about-vrcave-vr-for-location-base",
+    "moduleSlug": "week-2-arcade-and-location-based-games",
+    "moduleWeek": 2,
+    "title": "About vrCAVE - VR for Location-Based Entertainment",
+    "url": "https://www.youtube.com/watch?v=EdhDd6FNWJI&ab_channel=vrCAVEInc.",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-2-arcade-and-location-based-games-high-scorehttps-wwwnetflixcomtitle8101908",
+    "moduleSlug": "week-2-arcade-and-location-based-games",
+    "moduleWeek": 2,
+    "title": "High Score (Netflix series)",
+    "url": "https://www.netflix.com/title/81019087",
+    "type": "Netflix",
+    "duration": "",
+    "notes": "High Score (Netflix series)",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-2-arcade-and-location-based-games-visit-an-arcade",
+    "moduleSlug": "week-2-arcade-and-location-based-games",
+    "moduleWeek": 2,
+    "title": "Visit an arcade",
+    "url": null,
+    "type": "",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-3-gaming-consoles-and-pc-gaming-youtube-the-evolution-of-gaming-pcs",
+    "moduleSlug": "week-3-gaming-consoles-and-pc-gaming",
+    "moduleWeek": 3,
+    "title": "The Evolution Of Gaming PC's",
+    "url": "https://www.youtube.com/watch?v=uhFcxcoP5rE&ab_channel=TheGamer",
+    "type": "YouTube",
+    "duration": "11 min",
+    "notes": "",
+    "learningOutcomes": [
+      1
+    ],
+    "required": true
+  },
+  {
+    "id": "week-3-gaming-consoles-and-pc-gaming-youtube-evolution-of-video-game-graphics-19",
+    "moduleSlug": "week-3-gaming-consoles-and-pc-gaming",
+    "moduleWeek": 3,
+    "title": "Evolution of Video Game Graphics (1947-2023)",
+    "url": "https://www.youtube.com/watch?v=RNvYGcgoGcs&ab_channel=Flatlife",
+    "type": "YouTube",
+    "duration": "19 min",
+    "notes": "Evolution of Video Game Graphics (1947-2023)",
+    "learningOutcomes": [
+      1,
+      5
+    ],
+    "required": true
+  },
+  {
+    "id": "week-3-gaming-consoles-and-pc-gaming-article-the-evolution-of-game-genres:-nes-g",
+    "moduleSlug": "week-3-gaming-consoles-and-pc-gaming",
+    "moduleWeek": 3,
+    "title": "The Evolution of Game Genres: NES, Gameboy, and SNES",
+    "url": "https://www.fortressofdoors.com/the-evolution-of-game-genres-early-nintendo-consoles/",
+    "type": "Article",
+    "duration": "11 min",
+    "notes": "",
+    "learningOutcomes": [
+      1,
+      5
+    ],
+    "required": true
+  },
+  {
+    "id": "week-3-gaming-consoles-and-pc-gaming-youtube-atari:-game-over",
+    "moduleSlug": "week-3-gaming-consoles-and-pc-gaming",
+    "moduleWeek": 3,
+    "title": "Atari: Game Over",
+    "url": "https://www.youtube.com/watch?v=03oC6-zPZHQ",
+    "type": "YouTube",
+    "duration": "66 min",
+    "notes": "",
+    "learningOutcomes": [
+      1,
+      2,
+      4
+    ],
+    "required": true
+  },
+  {
+    "id": "week-3-gaming-consoles-and-pc-gaming-article-the-birth-of-video-games",
+    "moduleSlug": "week-3-gaming-consoles-and-pc-gaming",
+    "moduleWeek": 3,
+    "title": "The Birth of Video Games",
+    "url": "https://www.classicarcademuseum.org/the-birth-of-video-games",
+    "type": "Article",
+    "duration": "8 min",
+    "notes": "",
+    "learningOutcomes": [
+      1,
+      5
+    ],
+    "required": true
+  },
+  {
+    "id": "week-3-gaming-consoles-and-pc-gaming-youtube-how-four-friends-invented-modern-fp",
+    "moduleSlug": "week-3-gaming-consoles-and-pc-gaming",
+    "moduleWeek": 3,
+    "title": "How four friends invented (modern) FPS games | An idSoftware Documentary Doom, Quake & Wolfenstein",
+    "url": "https://www.youtube.com/watch?v=WIuCOsB4nHs",
+    "type": "YouTube",
+    "duration": "74 min",
+    "notes": "How four friends invented (modern) FPS games | An idSoftware Documentary Doom, Quake & Wolfenstein FPS games | An idSoftware Documentary Doom, Quake & Wolfenstein",
+    "learningOutcomes": [
+      1,
+      5
+    ],
+    "required": true
+  },
+  {
+    "id": "week-3-gaming-consoles-and-pc-gaming-youtube-the-history-of-myst:-how-it-changed",
+    "moduleSlug": "week-3-gaming-consoles-and-pc-gaming",
+    "moduleWeek": 3,
+    "title": "The History of Myst: How It Changed Video Games Forever & Defined a Genre",
+    "url": "https://www.youtube.com/watch?v=dhwFqH7IBEU",
+    "type": "YouTube",
+    "duration": "12 min",
+    "notes": "",
+    "learningOutcomes": [
+      1,
+      5
+    ],
+    "required": true
+  },
+  {
+    "id": "week-3-gaming-consoles-and-pc-gaming-article-the-joy-of-sticks",
+    "moduleSlug": "week-3-gaming-consoles-and-pc-gaming",
+    "moduleWeek": 3,
+    "title": "The Joy of Sticks",
+    "url": "https://romchip.org/index.php/romchip-journal/article/view/204",
+    "type": "Article",
+    "duration": "35 min",
+    "notes": "",
+    "learningOutcomes": [
+      1,
+      5
+    ],
+    "required": true
+  },
+  {
+    "id": "week-3-gaming-consoles-and-pc-gaming-youtube-colossal-cave-a-deeper-look",
+    "moduleSlug": "week-3-gaming-consoles-and-pc-gaming",
+    "moduleWeek": 3,
+    "title": "Colossal Cave - A Deeper Look",
+    "url": "https://www.youtube.com/watch?v=VJhxVTvyxIA",
+    "type": "YouTube",
+    "duration": "8 min",
+    "notes": "",
+    "learningOutcomes": [
+      1,
+      5
+    ],
+    "required": true
+  },
+  {
+    "id": "week-3-gaming-consoles-and-pc-gaming-youtube-the-10-most-important-game-engines-",
+    "moduleSlug": "week-3-gaming-consoles-and-pc-gaming",
+    "moduleWeek": 3,
+    "title": "The 10 Most Important Game Engines of ALL TIME",
+    "url": "https://www.youtube.com/watch?v=zvftgKI8tXA",
+    "type": "YouTube",
+    "duration": "20 min",
+    "notes": "",
+    "learningOutcomes": [
+      1,
+      5
+    ],
+    "required": true
+  },
+  {
+    "id": "week-3-gaming-consoles-and-pc-gaming-youtube-the-creators-of-tetris-didnt-know-a",
+    "moduleSlug": "week-3-gaming-consoles-and-pc-gaming",
+    "moduleWeek": 3,
+    "title": "The creators of Tetris didn't know about this...",
+    "url": "https://www.youtube.com/watch?v=u9RYzx2me0E",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-3-gaming-consoles-and-pc-gaming-youtube-how-prince-of-persia-defeated-apple",
+    "moduleSlug": "week-3-gaming-consoles-and-pc-gaming",
+    "moduleWeek": 3,
+    "title": "How Prince of Persia Defeated Apple II's Memory Limitations",
+    "url": "https://www.youtube.com/watch?v=sw0VfmXKq54&ab_channel=ArsTechnica",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-3-gaming-consoles-and-pc-gaming-book-game-over:-how-nintendo-conquered-the-",
+    "moduleSlug": "week-3-gaming-consoles-and-pc-gaming",
+    "moduleWeek": 3,
+    "title": "*Game Over: How Nintendo Conquered the World*",
+    "url": "https://www.amazon.com/Game-Over-Nintendo-Conquered-World/dp/0679736220",
+    "type": "Book",
+    "duration": "",
+    "notes": "*Game Over: How Nintendo Conquered the World* by David Sheff",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-3-gaming-consoles-and-pc-gaming-book-hackers:-heroes-of-the-computer-revolu",
+    "moduleSlug": "week-3-gaming-consoles-and-pc-gaming",
+    "moduleWeek": 3,
+    "title": "*Hackers: Heroes of the Computer Revolution*",
+    "url": "https://maine.primo.exlibrisgroup.com/permalink/01MAINE_INST/2sp9f6/alma991045345259708681",
+    "type": "Book",
+    "duration": "",
+    "notes": "*Hackers: Heroes of the Computer Revolution* by Steven Leary",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-3-gaming-consoles-and-pc-gaming-book-not-all-fairy-tales-have-happy-endings",
+    "moduleSlug": "week-3-gaming-consoles-and-pc-gaming",
+    "moduleWeek": 3,
+    "title": "*Not All Fairy Tales Have Happy Endings: The rise and fall of Sierra On-Line*",
+    "url": "https://www.amazon.com/Fairy-Tales-Happy-Endings-Line-ebook/dp/B08KG2XLMR",
+    "type": "Book",
+    "duration": "",
+    "notes": "*Not All Fairy Tales Have Happy Endings: The rise and fall of Sierra On-Line* by Ken Williams",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-3-gaming-consoles-and-pc-gaming-book-the-apple-ii-age:-how-the-computer-bec",
+    "moduleSlug": "week-3-gaming-consoles-and-pc-gaming",
+    "moduleWeek": 3,
+    "title": "*The Apple II Age: How the Computer Became Personal*",
+    "url": "https://www.lainenooney.com/the-apple-ii-age.html",
+    "type": "Book",
+    "duration": "",
+    "notes": "*The Apple II Age: How the Computer Became Personal* by Laine Nooney",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-3-gaming-consoles-and-pc-gaming-book-the-perfect-game-tetris:-from-russia-w",
+    "moduleSlug": "week-3-gaming-consoles-and-pc-gaming",
+    "moduleWeek": 3,
+    "title": "*The Perfect Game Tetris: From Russia With Love*",
+    "url": "https://www.diangelopublications.com/shop/p/the-perfect-game",
+    "type": "Book",
+    "duration": "",
+    "notes": "*The Perfect Game Tetris: From Russia With Love* by Henk Rogers",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-3-gaming-consoles-and-pc-gaming-tetrishttps-tvapplecomusmovietetrisumccmc4e",
+    "moduleSlug": "week-3-gaming-consoles-and-pc-gaming",
+    "moduleWeek": 3,
+    "title": "Tetris",
+    "url": "https://tv.apple.com/us/movie/tetris/umc.cmc.4evmgcam356pzgxs2l7a18d7b?action=play",
+    "type": "Apple TV+ Movie",
+    "duration": "",
+    "notes": "Tetris (Apple TV+ movie)",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-3-gaming-consoles-and-pc-gaming-halt-and-catch-firehttps-wwwamcpluscomshows",
+    "moduleSlug": "week-3-gaming-consoles-and-pc-gaming",
+    "moduleWeek": 3,
+    "title": "Halt and Catch Fire",
+    "url": "https://www.amcplus.com/shows/halt-and-catch-fire--1002226",
+    "type": "AMC+ Series",
+    "duration": "",
+    "notes": "Halt and Catch Fire (AMC series)",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-3-gaming-consoles-and-pc-gaming-console-warshttps-wwwyoutubecomwatchvghpfln",
+    "moduleSlug": "week-3-gaming-consoles-and-pc-gaming",
+    "moduleWeek": 3,
+    "title": "Console Wars",
+    "url": "https://www.youtube.com/watch?v=gHpfLnQW8y8&ab_channel=ParamountPlus",
+    "type": "Paramount+ Documentary",
+    "duration": "",
+    "notes": "Console Wars (Paramount+ documentary)",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-3-gaming-consoles-and-pc-gaming-mythic-questhttps-wwwubisoftcomen-usenterta",
+    "moduleSlug": "week-3-gaming-consoles-and-pc-gaming",
+    "moduleWeek": 3,
+    "title": "Mythic Quest",
+    "url": "https://www.ubisoft.com/en-us/entertainment/film-tv/mythic-quest",
+    "type": "Apple TV+ Series",
+    "duration": "",
+    "notes": "Mythic Quest (Apple TV+ series from Ubisoft)",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-3-gaming-consoles-and-pc-gaming-youtube-history-of-pc-gaming",
+    "moduleSlug": "week-3-gaming-consoles-and-pc-gaming",
+    "moduleWeek": 3,
+    "title": "History of PC Gaming",
+    "url": "https://www.youtube.com/watch?v=PEukRq5_c_8&ab_channel=NVIDIA",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-3-gaming-consoles-and-pc-gaming-podcast-beyond-solitaire-podcast-184:-laine",
+    "moduleSlug": "week-3-gaming-consoles-and-pc-gaming",
+    "moduleWeek": 3,
+    "title": "Beyond Solitaire Podcast 184: Laine Nooney on the Apple II Age",
+    "url": "https://beyondsolitaire.buzzsprout.com/1091807/episodes/16627148-episode-184-laine-nooney-on-the-apple-ii-age",
+    "type": "Podcast",
+    "duration": "",
+    "notes": "Beyond Solitaire Podcast 184: Laine Nooney on the Apple II Age (also on [YouTube)",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-3-gaming-consoles-and-pc-gaming-podcast-the-internet-history-podcast:-the-h",
+    "moduleSlug": "week-3-gaming-consoles-and-pc-gaming",
+    "moduleWeek": 3,
+    "title": "The Internet History Podcast: The History of Sierra Online With Laine Nooney",
+    "url": "https://www.internethistorypodcast.com/2016/06/the-history-of-sierra-online-with-laine-nooney/",
+    "type": "Podcast",
+    "duration": "",
+    "notes": "The Internet History Podcast: The History of Sierra Online With Laine Nooney (also on [YouTube)",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-3-gaming-consoles-and-pc-gaming-article-lets-begin-again:-sierra-on-line-an",
+    "moduleSlug": "week-3-gaming-consoles-and-pc-gaming",
+    "moduleWeek": 3,
+    "title": "Let's Begin Again: Sierra On-Line and the Origins of the Graphical Adventure Game",
+    "url": "https://files.eric.ed.gov/fulltext/EJ1166784.pdf",
+    "type": "Article",
+    "duration": "",
+    "notes": "Let's Begin Again: Sierra On-Line and the Origins of the Graphical Adventure Game by Laine Nooney",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-3-gaming-consoles-and-pc-gaming-book-series-the-ultimate-history-of-video-g",
+    "moduleSlug": "week-3-gaming-consoles-and-pc-gaming",
+    "moduleWeek": 3,
+    "title": "*The Ultimate History of Video Games*",
+    "url": "https://www.penguinrandomhouse.com/series/UHV/ultimate-history-of-video-games/",
+    "type": "Book Series",
+    "duration": "",
+    "notes": "*The Ultimate History of Video Games* by Steven Kent",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-3-gaming-consoles-and-pc-gaming-youtube-classic-postmortem:-the-making-of-m",
+    "moduleSlug": "week-3-gaming-consoles-and-pc-gaming",
+    "moduleWeek": 3,
+    "title": "Classic Postmortem: The Making Of Myst",
+    "url": "https://www.youtube.com/watch?v=7cULHgP8tmo",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-3-gaming-consoles-and-pc-gaming-youtube-how-myst-almost-couldnt-run-on-cd-r",
+    "moduleSlug": "week-3-gaming-consoles-and-pc-gaming",
+    "moduleWeek": 3,
+    "title": "How Myst Almost Couldn't Run on CD-ROM | War Stories | Ars Technica",
+    "url": "https://www.youtube.com/watch?v=EWX5B6cD4_4",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-3-gaming-consoles-and-pc-gaming-youtube-cyan-and-myst-series-memories-with-",
+    "moduleSlug": "week-3-gaming-consoles-and-pc-gaming",
+    "moduleWeek": 3,
+    "title": "Cyan and Myst - Series Memories with Rand Miller / MY LIFE IN GAMING",
+    "url": "https://www.youtube.com/watch?v=Zx1a1boLQxU",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-3-gaming-consoles-and-pc-gaming-youtube-the-entire-history-of-rpgs",
+    "moduleSlug": "week-3-gaming-consoles-and-pc-gaming",
+    "moduleWeek": 3,
+    "title": "The Entire History of RPGs",
+    "url": "https://www.youtube.com/watch?v=8o3i10OuMFQ",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-4-portable-gaming-youtube-the-evolution-of-handheld-gaming",
+    "moduleSlug": "week-4-portable-gaming",
+    "moduleWeek": 4,
+    "title": "The Evolution of Handheld Gaming",
+    "url": "https://www.youtube.com/watch?v=cj5bNlXk17Q&ab_channel=Boo",
+    "type": "YouTube",
+    "duration": "25 min",
+    "notes": "",
+    "learningOutcomes": [
+      1
+    ],
+    "required": true
+  },
+  {
+    "id": "week-4-portable-gaming-article-the-history-evolution-and-future-of-mobile-gaming",
+    "moduleSlug": "week-4-portable-gaming",
+    "moduleWeek": 4,
+    "title": "The History, Evolution, and Future of Mobile Gaming",
+    "url": "https://gameopedia.com/blogs/the-history-evolution-and-future-of-mobile-gaming",
+    "type": "Article",
+    "duration": "20 min",
+    "notes": "",
+    "learningOutcomes": [
+      1,
+      8
+    ],
+    "required": true
+  },
+  {
+    "id": "week-4-portable-gaming-youtube-the-summer-of-pokemon-go",
+    "moduleSlug": "week-4-portable-gaming",
+    "moduleWeek": 4,
+    "title": "The Summer of Pokemon Go",
+    "url": "https://www.youtube.com/watch?v=Gm-_UVS7ETc",
+    "type": "YouTube",
+    "duration": "18 min",
+    "notes": "",
+    "learningOutcomes": [
+      1,
+      4,
+      8
+    ],
+    "required": true
+  },
+  {
+    "id": "week-4-portable-gaming-youtube-how-free-games-trick-you-into-spending-money",
+    "moduleSlug": "week-4-portable-gaming",
+    "moduleWeek": 4,
+    "title": "How Free Games Trick You Into Spending Money",
+    "url": "https://www.youtube.com/watch?v=uvjjOtxSKdQ&ab_channel=GoingIndie",
+    "type": "YouTube",
+    "duration": "17 min",
+    "notes": "",
+    "learningOutcomes": [
+      4
+    ],
+    "required": true
+  },
+  {
+    "id": "week-4-portable-gaming-article-fortnite-players-get-millions-in-refunds-for-unwa",
+    "moduleSlug": "week-4-portable-gaming",
+    "moduleWeek": 4,
+    "title": "Fortnite Players Get Millions in Refunds for Unwanted Purchases",
+    "url": "https://maine.primo.exlibrisgroup.com/permalink/01MAINE_INST/1oa9cn5/cdi_proquest_miscellaneous_3143877489",
+    "type": "Article",
+    "duration": "4 min",
+    "notes": "",
+    "learningOutcomes": [
+      4
+    ],
+    "required": true
+  },
+  {
+    "id": "week-4-portable-gaming-youtube-free-to-share-games-just-got-serious",
+    "moduleSlug": "week-4-portable-gaming",
+    "moduleWeek": 4,
+    "title": "Free To Share Games Just Got SERIOUS",
+    "url": "https://www.youtube.com/watch?v=rbhBsZwiJIM",
+    "type": "YouTube",
+    "duration": "16 min",
+    "notes": "",
+    "learningOutcomes": [
+      1,
+      8
+    ],
+    "required": true
+  },
+  {
+    "id": "week-4-portable-gaming-youtube-buying-tiger-handheld-lcd-games-in-the-90s-we-wer",
+    "moduleSlug": "week-4-portable-gaming",
+    "moduleWeek": 4,
+    "title": "Buying Tiger Handheld LCD Games in The 90s \\- We Were Duped ! | Retro Mysteries",
+    "url": "https://www.youtube.com/watch?v=xsmsS5ejb2Q&ab_channel=GenerationGapGaming",
+    "type": "YouTube",
+    "duration": "9 min",
+    "notes": "",
+    "learningOutcomes": [
+      1
+    ],
+    "required": true
+  },
+  {
+    "id": "week-4-portable-gaming-article-mass-market-mystery-boxes-and-metric-driven-desig",
+    "moduleSlug": "week-4-portable-gaming",
+    "moduleWeek": 4,
+    "title": "Mass market, mystery boxes and metric-driven design: The legacy of FarmVille",
+    "url": "https://www.gamesindustry.biz/mass-market-mystery-boxes-and-metric-driven-design-the-legacy-of-farmville",
+    "type": "Article",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [
+      1,
+      4
+    ],
+    "required": true
+  },
+  {
+    "id": "week-4-portable-gaming-youtube-the-game-boy-advance-chronicles-a-brutally-sacrif",
+    "moduleSlug": "week-4-portable-gaming",
+    "moduleWeek": 4,
+    "title": "The Game Boy Advance Chronicles, a brutally sacrificed console | A Game Boy Advance Documentary",
+    "url": "https://www.youtube.com/watch?v=92YpXg738ps",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-4-portable-gaming-youtube-nintendo-switch-2-hands-on-hidden-costs",
+    "moduleSlug": "week-4-portable-gaming",
+    "moduleWeek": 4,
+    "title": "Nintendo Switch 2 Hands on - Hidden Costs!",
+    "url": "https://www.youtube.com/watch?v=_5hSp3pHHjg",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-4-portable-gaming-youtube-dude-just-get-a-steam-deck",
+    "moduleSlug": "week-4-portable-gaming",
+    "moduleWeek": 4,
+    "title": "Dude, Just Get a Steam Deck",
+    "url": "https://www.youtube.com/watch?v=NnZzvvqTEwk",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-4-portable-gaming-podcast-the-indie-game-development-podcast-may-8-2024:-ho",
+    "moduleSlug": "week-4-portable-gaming",
+    "moduleWeek": 4,
+    "title": "The Indie Game Development Podcast, May 8, 2024: How Free Games Trick You Into Spending Money",
+    "url": "https://sasquatchbstudios.podbean.com/e/how-free-games-trick-you-into-spending-money/",
+    "type": "Podcast",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-4-portable-gaming-press-release-ftc-finalizes-order-requiring-fortnite-make",
+    "moduleSlug": "week-4-portable-gaming",
+    "moduleWeek": 4,
+    "title": "FTC Finalizes Order Requiring Fortnite maker Epic Games to Pay $245 Million for Tricking Users into Making Unwanted Charges",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2023/03/ftc-finalizes-order-requiring-fortnite-maker-epic-games-pay-245-million-tricking-users-making",
+    "type": "Press Release",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-4-portable-gaming-article-monetisation-in-video-games",
+    "moduleSlug": "week-4-portable-gaming",
+    "moduleWeek": 4,
+    "title": "Monetisation In Video Games",
+    "url": "https://gameopedia.com/blogs/monetisation-in-video-games",
+    "type": "Article",
+    "duration": "~22 min",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-4-portable-gaming-video-where-the-whales-live:-the-pyramid-model-of-f2p-des",
+    "moduleSlug": "week-4-portable-gaming",
+    "moduleWeek": 4,
+    "title": "Where the Whales Live: The Pyramid Model of F2P Design",
+    "url": "https://www.gdcvault.com/play/1019671/Where-the-Whales-Live-The",
+    "type": "Video",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-4-portable-gaming-book-masters-of-doom:-how-two-guys-created-an-empire-and-",
+    "moduleSlug": "week-4-portable-gaming",
+    "moduleWeek": 4,
+    "title": "*Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture*",
+    "url": "https://maine.primo.exlibrisgroup.com/permalink/01MAINE_INST/1i25tbk/alma991045717659708681",
+    "type": "Book",
+    "duration": "",
+    "notes": "*Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture* by David Kushner",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-youtube-playlist-tropes-vs-women-in-vi",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "Tropes vs. Women in Video Games",
+    "url": "https://www.youtube.com/playlist?list=PLn4ob_5_ttEaZWIYcx7VKiFheMSEp1gbq",
+    "type": "YouTube Playlist",
+    "duration": "12 min",
+    "notes": "Tropes vs. Women in Video Games (83 min) or [The Lady Sidekick \\- Tropes vs. Women in Video Games",
+    "learningOutcomes": [
+      2
+    ],
+    "required": true
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-article-the-gaming-industry-needs-more",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "The gaming industry needs more women developers",
+    "url": "https://moonshot.news/news/diversity-inclusion/the-gaming-industry-needs-more-women-developers/",
+    "type": "Article",
+    "duration": "4 min",
+    "notes": "",
+    "learningOutcomes": [
+      2
+    ],
+    "required": true
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-youtube-inclusive-character-creator",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "Inclusive Character Creator",
+    "url": "https://www.youtube.com/watch?v=FPJQk88G8Ks&ab_channel=GameDevsofColorExpo",
+    "type": "YouTube",
+    "duration": "18 min",
+    "notes": "",
+    "learningOutcomes": [
+      2
+    ],
+    "required": true
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-book-excerpt-the-power-of-play:-the-po",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "The Power of Play: The Portrayal and Performance of Race in Video Games",
+    "url": "https://com427spring2017ncsu.wordpress.com/wp-content/uploads/2017/01/2007-everett__watkins-powerofplay-raceingames.pdf",
+    "type": "Book excerpt",
+    "duration": "63 min",
+    "notes": "",
+    "learningOutcomes": [
+      2
+    ],
+    "required": true
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-article-the-video-game-industrys-probl",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "The Video Game Industry's Problem With Racial Diversity",
+    "url": "https://www.newsweek.com/2016/10/21/video-games-race-black-protagonists-509328.html",
+    "type": "Article",
+    "duration": "5 min",
+    "notes": "",
+    "learningOutcomes": [
+      2
+    ],
+    "required": true
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-article-gdc-2024-report:-more-of-the-s",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "GDC 2024 Report: More Of The Same…",
+    "url": "https://www.womeningames.org/gdc-2024-report-more-of-the-same/",
+    "type": "Article",
+    "duration": "3 min",
+    "notes": "",
+    "learningOutcomes": [
+      2
+    ],
+    "required": true
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-youtube-beyond-solitaire-podcast-103:-",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "Beyond Solitaire Podcast 103: Adrienne Shaw on LGBTQ+ Representation in Video Games",
+    "url": "https://www.youtube.com/watch?v=3qFptT--IC0&ab_channel=BeyondSolitaire",
+    "type": "YouTube",
+    "duration": "54 min",
+    "notes": "",
+    "learningOutcomes": [
+      2
+    ],
+    "required": true
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-article-the-history-of-lgbtq-represent",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "The history of LGBTQ representation in video games",
+    "url": "https://outinjersey.net/the-history-of-lgbtq-representation-in-video-games/",
+    "type": "Article",
+    "duration": "11 min",
+    "notes": "",
+    "learningOutcomes": [
+      2
+    ],
+    "required": true
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-articletranscript-how-the-first-lgbtq-",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "How the first LGBTQ+ video game was given a second life",
+    "url": "https://www.npr.org/2023/01/27/1151702216/how-the-first-lgbtq-video-game-was-given-a-second-life",
+    "type": "Article/transcript",
+    "duration": "5 min",
+    "notes": "",
+    "learningOutcomes": [
+      2
+    ],
+    "required": true
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-audiotranscript-video-game-creators-ar",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "Video game creators are working to make games more accessible for disabled people",
+    "url": "https://www.npr.org/2024/06/09/nx-s1-4995567/video-game-creators-are-working-to-make-games-more-accessible-for-disabled-people",
+    "type": "Audio/transcript",
+    "duration": "6 min",
+    "notes": "",
+    "learningOutcomes": [
+      2
+    ],
+    "required": true
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-article-another-world-conquered-by-vid",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "Another World Conquered by Video Games: Retirees",
+    "url": "https://maine.primo.exlibrisgroup.com/permalink/01MAINE_INST/1oa9cn5/cdi_proquest_newspapers_433527823",
+    "type": "Article",
+    "duration": "8 min",
+    "notes": "",
+    "learningOutcomes": [
+      2
+    ],
+    "required": true
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-review-gaming-representation:-race-gen",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "Gaming Representation: Race, Gender, and Sexuality in Video Games ed. by Jennifer Malkowski and TreaAndrea M. Russworm, and: Woke Gaming: Digital Challenges to Oppression and Social Injustice ed. by Kishonna L. Gray and David J. Leonard",
+    "url": "https://maine.primo.exlibrisgroup.com/permalink/01MAINE_INST/1oa9cn5/cdi_crossref_primary_10_1353_cj_2020_0052",
+    "type": "Review",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-game-devs-of-color-expo-website",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "Game Devs of Color Expo Website",
+    "url": "https://www.gamedevsofcolorexpo.com/",
+    "type": "Web Site",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-game-devs-of-color-expo-youtube-channe",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "Game Devs of Color Expo YouTube Channel",
+    "url": "https://www.youtube.com/@GDoCExpo",
+    "type": "YouTube Channel",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  }, 
+  {
+    "id": "week-5-gender-and-minority-representation-lgbtq-video-game-archivehttps-lgbtqgam",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "LGBTQ Video Game Archive",
+    "url": "https://lgbtqgamearchive.com/",
+    "type": "Web Site",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-article-pac-man-was-developed-with-wom",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "Pac-Man Was Developed With Women in Mind",
+    "url": "https://www.cbr.com/pac-man-created-for-women/",
+    "type": "Article",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-book-woke-gaming-:-digital-challenges-",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "*Woke Gaming : Digital Challenges to Oppression and Social Injustice*",
+    "url": "https://maine.primo.exlibrisgroup.com/permalink/01MAINE_INST/1i25tbk/alma991033681649708681",
+    "type": "Book",
+    "duration": "",
+    "notes": "*Woke Gaming : Digital Challenges to Oppression and Social Injustice* edited by Kishonna L. Gray and David J. Leonard",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-book-gaming-representation:-race-gende",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "*Gaming Representation: Race, Gender, and Sexuality in Video Games*",
+    "url": "https://maine.primo.exlibrisgroup.com/permalink/01MAINE_INST/1i25tbk/alma991046438239708681",
+    "type": "Book",
+    "duration": "",
+    "notes": "*Gaming Representation: Race, Gender, and Sexuality in Video Games* by Jennifer Malkowski and TreaAndrea M. Russworm",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-book-gaming-at-the-edge-:-sexuality-an",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "*Gaming at the edge : sexuality and gender at the margins of gamer culture*",
+    "url": "https://maine.primo.exlibrisgroup.com/permalink/01MAINE_INST/2sp9f6/alma991038598309708681",
+    "type": "Book",
+    "duration": "",
+    "notes": "*Gaming at the edge : sexuality and gender at the margins of gamer culture* by Adrienne Shaw",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-polygamer-podcasthttps-wwwpolygamernet",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "Polygamer Podcast",
+    "url": "https://www.polygamer.net/",
+    "type": "Podcast",
+    "duration": "",
+    "notes": "Polygamer Podcast",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-report-2024-state-of-the-game-industry",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "2024 State of the Game Industry",
+    "url": "https://drive.google.com/file/d/1GfmeYIVkpSuBDue8X5RShlG6sV4DMGK_/view?usp=sharing",
+    "type": "Report",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-women-in-gameshttps-wwwwomeningamesorg",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "Women in Games",
+    "url": "https://www.womeningames.org/",
+    "type": "Web Site",
+    "duration": "",
+    "notes": "Women in Games",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-article-10-games-with-the-most-inclusi",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "10 Games With The Most Inclusive Character Creators",
+    "url": "https://www.cbr.com/games-with-inclusive-character-creators/",
+    "type": "Article",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-article-activision-increased-represent",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "Activision increased representation of women and non-binary people by 2 percentage points as it faces 2025 goal",
+    "url": "https://www.cnbc.com/2023/03/23/activision-increased-representation-of-women-and-non-binary-people-by-2-percentage-points.html",
+    "type": "Article",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-article-activision-blizzard-to-pay-54m",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "Activision Blizzard to pay $54M to settle gender discrimination lawsuit, agrees to ensure ‘fair pay and promotion practices’",
+    "url": "https://fortune.com/2023/12/17/activision-blizzard-settles-gender-discrimination-lawsuit/",
+    "type": "Article",
+    "duration": "https://fortune.com/2023/12/17/activision-blizzard-settles-gender-discrimination-lawsuit/",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-reddit-thread-what-do-you-think-about-",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "What do you think about gender inequality in GameDev?",
+    "url": "https://www.reddit.com/r/GirlGamers/comments/1cdxuls/what_do_you_think_about_gender_inequality_in/",
+    "type": "Reddit thread",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-qweerty-gamershttps-wwwqweertygamersor",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "Qweerty Gamers",
+    "url": "https://www.qweertygamers.org/",
+    "type": "Web Site",
+    "duration": "",
+    "notes": "Qweerty Gamers",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-article-8-oldest-games-with-queer-repr",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "8 Oldest Games With Queer Representation",
+    "url": "https://www.thegamer.com/oldest-games-queer-lgbtq-representation/",
+    "type": "Article",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-youtube-they-found-gayblade-from-netfl",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "They found GayBlade! (from Netflix's High Score series)",
+    "url": "https://www.youtube.com/watch?v=cWKtGJm60I8&ab_channel=Al%27sRetroGeekLab",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "They found GayBlade! (from Netflix's High Score series) (or [play GayBlade! in your Web browser on The Internet Archive)",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-youtube-caper-in-the-castro-overview-a",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "Caper in the Castro - Overview & Analysis of the First LGBT+ Video Game. Built in HyperCard for Mac",
+    "url": "https://www.youtube.com/watch?v=YTm92X47Q00&ab_channel=YesterYear%27sMacGames",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "Caper in the Castro - Overview & Analysis of the First LGBT+ Video Game. Built in HyperCard for Mac (or [play Caper in the Castro in your Web browser on The Internet Archive)",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-tell-me-why",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "Tell Me Why",
+    "url": "https://store.steampowered.com/app/1180660/Tell_Me_Why/",
+    "type": "Game",
+    "duration": "",
+    "notes": "Full game (all 3 episodes) on Steam - generally available for free during the month of June",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-tell-me-why-playthrough",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "Commentary-free playthrough of Tell Me Why",
+    "url": "https://www.youtube.com/watch?v=D9vr6WYQFVc&ab_channel=Rubhen925",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-5-gender-and-minority-representation-article-the-kiss-that-changed-video-ga",
+    "moduleSlug": "week-5-gender-and-minority-representation",
+    "moduleWeek": 5,
+    "title": "The Kiss That Changed Video Games",
+    "url": "https://www.newyorker.com/tech/annals-of-technology/the-kiss-that-changed-video-games",
+    "type": "Article",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-ted-talk-",
+    "moduleSlug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "moduleWeek": 6,
+    "title": "When A Video Game Becomes An Addiction",
+    "url": "https://www.ted.com/talks/khurram_sadiq_when_a_video_game_becomes_an_addiction?subtitle=en",
+    "type": "TED Talk",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-blog-post",
+    "moduleSlug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "moduleWeek": 6,
+    "title": "Research Roundup: Video Games and Civic Engagement",
+    "url": "https://www.filamentgames.com/blog/research-roundup-video-games-and-civic-engagement/",
+    "type": "Blog Post",
+    "duration": "~7 min",
+    "notes": "",
+    "learningOutcomes": [
+      3
+    ],
+    "required": true
+  },
+  {
+    "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-articleau",
+    "moduleSlug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "moduleWeek": 6,
+    "title": "In this case, politics is a (video) game",
+    "url": "https://www.npr.org/2021/11/04/1051381706/in-this-case-politics-is-a-video-game",
+    "type": "Article/audio",
+    "duration": "~6 min",
+    "notes": "In this case, politics is a (video) game game",
+    "learningOutcomes": [
+      3
+    ],
+    "required": true
+  },
+  {
+    "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-article-w",
+    "moduleSlug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "moduleWeek": 6,
+    "title": "What can video games tell us about war and conflict?",
+    "url": "https://www.iwm.org.uk/history/what-can-video-games-tell-us-about-war-and-conflict",
+    "type": "Article",
+    "duration": "~5 min",
+    "notes": "",
+    "learningOutcomes": [
+      4
+    ],
+    "required": true
+  },
+  {
+    "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-youtube-m",
+    "moduleSlug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "moduleWeek": 6,
+    "title": "Military Historian breaks down Sniper Elite 5",
+    "url": "https://www.youtube.com/watch?v=GIRzeJ_6wk8&ab_channel=ImperialWarMuseums",
+    "type": "YouTube",
+    "duration": "~13 min",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-argument-",
+    "moduleSlug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "moduleWeek": 6,
+    "title": "Video Games Debate: Should Kids and Teens Be Allowed to Play Violent Video Games?",
+    "url": "https://www.britannica.com/procon/video-games-debate",
+    "type": "Argument Summary",
+    "duration": "~29 min",
+    "notes": "Video Games Debate: Should Kids and Teens Be Allowed to Play Violent Video Games? (from ProCon, “a leading nonpartisan site for learning the top arguments behind debatable issues of the day”)",
+    "learningOutcomes": [
+      4
+    ],
+    "required": true
+  },
+  {
+    "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-article-c",
+    "moduleSlug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "moduleWeek": 6,
+    "title": "Call of Duty: Pentagon Ops",
+    "url": "https://www.thenation.com/article/society/call-of-duty-pentagon-ops-2/",
+    "type": "Article",
+    "duration": "~25 min",
+    "notes": "",
+    "learningOutcomes": [
+      2,
+      3,
+      4
+    ],
+    "required": true
+  },
+  {
+    "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-audio-sta",
+    "moduleSlug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "moduleWeek": 6,
+    "title": "Stalker 2 is a survival game made by people surviving a war. Should you play it?",
+    "url": "https://www.cbc.ca/listen/live-radio/1-14-day-6/clip/16110908-stalker-2-survival-game-made-people-surviving-war",
+    "type": "Audio",
+    "duration": "~9 min",
+    "notes": "",
+    "learningOutcomes": [
+      2,
+      3,
+      4
+    ],
+    "required": true
+  },
+  {
+    "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-world-reb",
+    "moduleSlug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "moduleWeek": 6,
+    "title": "//www.worldreborn.com/)",
+    "url": null,
+    "type": "[World Reborn](https",
+    "duration": "",
+    "notes": "[World Reborn",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-gamersvot",
+    "moduleSlug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "moduleWeek": 6,
+    "title": "//gamers.vote/)",
+    "url": null,
+    "type": "[Gamers.Vote](https",
+    "duration": "",
+    "notes": "[Gamers.Vote",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-article-a",
+    "moduleSlug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "moduleWeek": 6,
+    "title": "Are Video Games Breeding an Assassination Generation?: There's a proven correlation between video games and gun violence, yet we still allow our children free access to these games, breeding an assassination generation",
+    "url": "https://maine.primo.exlibrisgroup.com/permalink/01MAINE_INST/1oa9cn5/cdi_proquest_miscellaneous_1847442758",
+    "type": "Article",
+    "duration": "~6 min",
+    "notes": "",
+    "learningOutcomes": [
+      4
+    ],
+    "required": false
+  },
+  {
+    "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-book-assa",
+    "moduleSlug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "moduleWeek": 6,
+    "title": "*Assassination Generation: Video Games, Aggression, and the Psychology of Killing*",
+    "url": "https://www.amazon.com/Assassination-Generation-Aggression-Psychology-Killing/dp/0316265934/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=",
+    "type": "Book",
+    "duration": "",
+    "notes": "*Assassination Generation: Video Games, Aggression, and the Psychology of Killing* by Lieutenant Colonel Dave Grossman, Kristine Paulsen, Katie Miserany",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-youtube-g",
+    "moduleSlug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "moduleWeek": 6,
+    "title": "Game Over \\- Gender, Race & Violence in Video Games (2000) (HD)",
+    "url": "https://www.youtube.com/watch?v=LGBJch1J1rY&ab_channel=Games%26Cigarettes",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "Game Over \\- Gender, Race & Violence in Video Games (2000) (HD) (HD)",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-youtube-o",
+    "moduleSlug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "moduleWeek": 6,
+    "title": "On School Shootings",
+    "url": "https://www.youtube.com/watch?v=phTTGIEUX7w",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-youtube-t",
+    "moduleSlug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "moduleWeek": 6,
+    "title": "Trauma, War, & Violence | Mental Health In Tough Times",
+    "url": "https://www.youtube.com/watch?v=2P9b45rH968",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-article-v",
+    "moduleSlug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "moduleWeek": 6,
+    "title": "Video Games Do Affect Social Outcomes: A Meta-Analytic Review of the Effects of Violent and Prosocial Video Game Play",
+    "url": "https://maine.primo.exlibrisgroup.com/discovery/openurl?institution=01MAINE_INST&vid=01MAINE_INST:UMA&volume=40&date=2014&issn=01461672&issue=5&author=Greitemeyer&genre=article&spage=578&title=Video%20Games%20Do%20Affect%20Social%20Outcomes:%20A%20Meta-Analytic%20Review%20of%20the%20Effects%20of%20Violent%20and%20Prosocial%20Video%20Game%20Play&atitle=Video%20Games%20Do%20Affect%20Social%20Outcomes:%20A%20Meta-Analytic%20Review%20of%20the%20Effects%20of%20Violent%20and%20Prosocial%20Video%20Game%20Play&sid=ProQ:assia",
+    "type": "Article",
+    "duration": "~52 min",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-youtube-w",
+    "moduleSlug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "moduleWeek": 6,
+    "title": "War Game: The Making of S.T.A.L.K.E.R. 2 Documentary",
+    "url": "https://www.youtube.com/watch?v=28CITqxwNz0",
+    "type": "YouTube",
+    "duration": "~90 min",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-research-",
+    "moduleSlug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "moduleWeek": 6,
+    "title": "War and Video Games",
+    "url": "https://digitalcommons.uri.edu/srhonorsprog/123/",
+    "type": "Research Project",
+    "duration": "~48 min",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-podcast-c",
+    "moduleSlug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "moduleWeek": 6,
+    "title": "Codex: History of Video Games \\#266: The Best Non-Violent Video Games with James Batchelor",
+    "url": "https://codexhistoryofvideogames.libsyn.com/episode-266-the-best-non-violent-video-games-with-james-batchelor",
+    "type": "Podcast",
+    "duration": "~70 min",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-book-the-",
+    "moduleSlug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "moduleWeek": 6,
+    "title": "*The Best Non-Violent Video Games*",
+    "url": "https://www.casemateipm.com/9781399084925/the-best-non-violent-video-games/",
+    "type": "Book",
+    "duration": "",
+    "notes": "*The Best Non-Violent Video Games* by James Batchelor",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-article-i",
+    "moduleSlug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "moduleWeek": 6,
+    "title": "I've been ensnared into the wild life of a drug dealer in Schedule 1",
+    "url": "https://www.polygon.com/gaming/553156/schedule-1-impressions-weed-drug-game",
+    "type": "Article",
+    "duration": "https://www.polygon.com/gaming/553156/schedule-1-impressions-weed-drug-game",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-youtube-p",
+    "moduleSlug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "moduleWeek": 6,
+    "title": "Phantasmagoria (PC) - Retro Gaming Review",
+    "url": "https://www.youtube.com/watch?v=YDj-MdyDdwU&ab_channel=CannotbeTamed",
+    "type": "YouTube",
+    "duration": "~13 min",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-youtube-a",
+    "moduleSlug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "moduleWeek": 6,
+    "title": "A Conversation with Roberta Williams (Phantasmagoria Reunion)",
+    "url": "https://www.youtube.com/watch?v=-z8Eg0IjOac&ab_channel=ConversationswithCurtis",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-play-and-",
+    "moduleSlug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "moduleWeek": 6,
+    "title": "*This War of Mine*",
+    "url": "https://www.thiswarofmine.com/",
+    "type": "Play and discuss [*Papers, Please*](https",
+    "duration": "https://www.thiswarofmine.com/",
+    "notes": "Play and discuss *This War of Mine* or [*This War of Mine*] (addressing civic and ethical issues), or watch the [Papers, Please short film on Steam or [YouTube, or find gameplay on Twitch/YouTube",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-7-gaming-and-medicine-article-the-expanding-role-of-video-games-in-medicine",
+    "moduleSlug": "week-7-gaming-and-medicine",
+    "moduleWeek": 7,
+    "title": "The Expanding Role of Video Games in Medicine",
+    "url": "https://opmed.doximity.com/articles/the-expanding-role-of-video-games-in-medicine",
+    "type": "Article",
+    "duration": "5 min",
+    "notes": "",
+    "learningOutcomes": [
+      3
+    ],
+    "required": true
+  },
+  {
+    "id": "week-7-gaming-and-medicine-articleyoutube-video-games-offer-the-potential-of-exp",
+    "moduleSlug": "week-7-gaming-and-medicine",
+    "moduleWeek": 7,
+    "title": "Video Games Offer the Potential of “Experiential Medicine”",
+    "url": "https://www.ucsf.edu/news/2022/10/423941/video-games-offer-potential-experiential-medicine",
+    "type": "Article/YouTube",
+    "duration": "8 min",
+    "notes": "",
+    "learningOutcomes": [
+      3
+    ],
+    "required": true
+  },
+  {
+    "id": "week-7-gaming-and-medicine-article-how-health-systems-are-using-video-games-for-",
+    "moduleSlug": "week-7-gaming-and-medicine",
+    "moduleWeek": 7,
+    "title": "How Health Systems are Using Video Games for Continuing Medical Education",
+    "url": "https://www.healthleadersmedia.com/innovation/how-health-systems-are-using-video-games-continuing-medical-education",
+    "type": "Article",
+    "duration": "10 min",
+    "notes": "",
+    "learningOutcomes": [
+      3
+    ],
+    "required": true
+  },
+  {
+    "id": "week-7-gaming-and-medicine-article-zach-wigal-on-helping-hospitals-through-gamin",
+    "moduleSlug": "week-7-gaming-and-medicine",
+    "moduleWeek": 7,
+    "title": "Zach Wigal on helping hospitals through gaming",
+    "url": "https://www.michigandaily.com/arts/digital-culture/zach-wigal-on-helping-hospitals-through-gaming/",
+    "type": "Article",
+    "duration": "18 min",
+    "notes": "",
+    "learningOutcomes": [
+      2,
+      3,
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-7-gaming-and-medicine-article-the-benefits-of-playing-video-games",
+    "moduleSlug": "week-7-gaming-and-medicine",
+    "moduleWeek": 7,
+    "title": "The Benefits of Playing Video Games",
+    "url": "https://maine.primo.exlibrisgroup.com/permalink/01MAINE_INST/1oa9cn5/cdi_proquest_miscellaneous_1636462259",
+    "type": "Article",
+    "duration": "40 min",
+    "notes": "",
+    "learningOutcomes": [
+      3
+    ],
+    "required": true
+  },
+  {
+    "id": "week-7-gaming-and-medicine-ted-talk-can-a-video-game-save-a-life",
+    "moduleSlug": "week-7-gaming-and-medicine",
+    "moduleWeek": 7,
+    "title": "Can a video game save a life?",
+    "url": "https://www.youtube.com/watch?v=6rLJaVohSRQ&ab_channel=TEDxTalks",
+    "type": "TED Talk",
+    "duration": "14 min",
+    "notes": "",
+    "learningOutcomes": [
+      3
+    ],
+    "required": true
+  },
+  {
+    "id": "week-7-gaming-and-medicine-youtube-how-years-of-gaming-affects-your-brain",
+    "moduleSlug": "week-7-gaming-and-medicine",
+    "moduleWeek": 7,
+    "title": "How Years Of Gaming Affects Your Brain",
+    "url": "https://www.youtube.com/watch?v=xaICKlp9kQc&ab_channel=HealthyGamerGG",
+    "type": "YouTube",
+    "duration": "25 min",
+    "notes": "",
+    "learningOutcomes": [
+      3,
+      4
+    ],
+    "required": true
+  },
+  {
+    "id": "week-7-gaming-and-medicine-book-superbetter",
+    "moduleSlug": "week-7-gaming-and-medicine",
+    "moduleWeek": 7,
+    "title": "*SuperBetter*",
+    "url": "https://maine.primo.exlibrisgroup.com/permalink/01MAINE_INST/1i25tbk/alma991004860959708681",
+    "type": "Book",
+    "duration": "",
+    "notes": "*SuperBetter* by Jane McGonigal",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-7-gaming-and-medicine-book-getting-gamers-:-the-psychology-of-video-games-a",
+    "moduleSlug": "week-7-gaming-and-medicine",
+    "moduleWeek": 7,
+    "title": "*Getting gamers : the psychology of video games and their impact on the people who play them*",
+    "url": "https://maine.primo.exlibrisgroup.com/permalink/01MAINE_INST/1i25tbk/alma991005765099708681",
+    "type": "Book",
+    "duration": "",
+    "notes": "*Getting gamers : the psychology of video games and their impact on the people who play them* by Jamie Madigan",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-7-gaming-and-medicine-book-mind-at-play-:-the-psychology-of-video-games",
+    "moduleSlug": "week-7-gaming-and-medicine",
+    "moduleWeek": 7,
+    "title": "*Mind at play : the psychology of video games*",
+    "url": "https://maine.primo.exlibrisgroup.com/permalink/01MAINE_INST/1i25tbk/alma991034969089708681",
+    "type": "Book",
+    "duration": "",
+    "notes": "*Mind at play : the psychology of video games* by Geoffrey R. Loftus, Elizabeth F. Loftus",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-7-gaming-and-medicine-book-the-psychology-of-video-games",
+    "moduleSlug": "week-7-gaming-and-medicine",
+    "moduleWeek": 7,
+    "title": "*The Psychology of Video Games*",
+    "url": "https://www.amazon.com/Psychology-Video-Games-Everything/dp/0367493136",
+    "type": "Book",
+    "duration": "",
+    "notes": "*The Psychology of Video Games* by Celia Hodent",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-7-gaming-and-medicine-articles-on-foldithttps-foldit-and-other-medical-simu",
+    "moduleSlug": "week-7-gaming-and-medicine",
+    "moduleWeek": 7,
+    "title": "//fold.it/) and other medical simulation games, such as:",
+    "url": null,
+    "type": "Articles on [*Foldit*](https",
+    "duration": "",
+    "notes": "Articles on [*Foldit* and other medical simulation games, such as",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-7-gaming-and-medicine-ted-talk-a-video-game-that-helps-us-understand-loneli",
+    "moduleSlug": "week-7-gaming-and-medicine",
+    "moduleWeek": 7,
+    "title": "A video game that helps us understand loneliness",
+    "url": "https://www.youtube.com/watch?v=oMBVxhO57JE",
+    "type": "TED Talk",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-7-gaming-and-medicine-article-effects-of-interactive-physical-activity-vide",
+    "moduleSlug": "week-7-gaming-and-medicine",
+    "moduleWeek": 7,
+    "title": "Effects of Interactive Physical-Activity Video-Game Training on Physical and Cognitive Function in Older Adults",
+    "url": "https://maine.primo.exlibrisgroup.com/permalink/01MAINE_INST/1oa9cn5/cdi_hal_primary_oai_HAL_hal_00736985v1",
+    "type": "Article",
+    "duration": "36 min",
+    "notes": "",
+    "learningOutcomes": [
+      3
+    ],
+    "required": false
+  },
+  {
+    "id": "week-7-gaming-and-medicine-research-report-role-of-video-games-in-improving-heal",
+    "moduleSlug": "week-7-gaming-and-medicine",
+    "moduleWeek": 7,
+    "title": "Role of Video Games in Improving Health-Related Outcomes: A Systematic Review",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3391574/",
+    "type": "Research Report",
+    "duration": "36 min",
+    "notes": "",
+    "learningOutcomes": [
+      3
+    ],
+    "required": false
+  },
+  {
+    "id": "week-7-gaming-and-medicine-gamers-outreachhttps-gamersoutreachorg",
+    "moduleSlug": "week-7-gaming-and-medicine",
+    "moduleWeek": 7,
+    "title": "//gamersoutreach.org/)",
+    "url": null,
+    "type": "[Gamers Outreach](https",
+    "duration": "",
+    "notes": "[Gamers Outreach",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-7-gaming-and-medicine-youtube-hermitcraft-gamers-for-giving-charity-weekend",
+    "moduleSlug": "week-7-gaming-and-medicine",
+    "moduleWeek": 7,
+    "title": "Hermitcraft Gamers For Giving Charity Weekend! (Day 1)",
+    "url": "https://www.youtube.com/watch?v=788VKH4imec",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "Hermitcraft Gamers For Giving Charity Weekend! (Day 1) from impulseSV and [Hermitcraft For Charity | Gamers Outreach Event Day 2! from PearlescentMoon",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-7-gaming-and-medicine-blog-post-15-ground-breaking-video-games-modernising-",
+    "moduleSlug": "week-7-gaming-and-medicine",
+    "moduleWeek": 7,
+    "title": "15 Ground-Breaking Video Games Modernising Healthcare",
+    "url": "https://www.chaostheorygames.com/blog/15-groundbreaking-video-games-modernising-healthcare",
+    "type": "Blog Post",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-7-gaming-and-medicine-article-new-groundbreaking-study-finds-medical-video-",
+    "moduleSlug": "week-7-gaming-and-medicine",
+    "moduleWeek": 7,
+    "title": "New Groundbreaking Study Finds Medical Video Games Improve Decision Making in Highly Experienced Doctors",
+    "url": "https://www.businesswire.com/news/home/20230131005473/en/%C2%A0New-Groundbreaking-Study-Finds-Medical-Video-Games-Improve-Decision-Making-in-Highly-Experienced-Doctors",
+    "type": "Article",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-7-gaming-and-medicine-article-better-health-through-video-games",
+    "moduleSlug": "week-7-gaming-and-medicine",
+    "moduleWeek": 7,
+    "title": "Better health through video games",
+    "url": "https://medicine.yale.edu/news/yale-medicine-magazine/article/better-health-through-video-games-297631/",
+    "type": "Article",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-7-gaming-and-medicine-article-gaming-and-medicine",
+    "moduleSlug": "week-7-gaming-and-medicine",
+    "moduleWeek": 7,
+    "title": "Gaming and Medicine",
+    "url": "https://seasonedgaming.com/2022/09/07/gaming-and-medicine/",
+    "type": "Article",
+    "duration": "https://seasonedgaming.com/2022/09/07/gaming-and-medicine/",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-7-gaming-and-medicine-serious-play-conferencehttps-seriousplayconfcom",
+    "moduleSlug": "week-7-gaming-and-medicine",
+    "moduleWeek": 7,
+    "title": "//seriousplayconf.com/)",
+    "url": null,
+    "type": "[Serious Play Conference](https",
+    "duration": "",
+    "notes": "[Serious Play Conference",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-7-gaming-and-medicine-serious-gameshttps-wwwhealthysimulationcomserious-gam",
+    "moduleSlug": "week-7-gaming-and-medicine",
+    "moduleWeek": 7,
+    "title": "//www.healthysimulation.com/serious-games/)",
+    "url": null,
+    "type": "[Serious Games](https",
+    "duration": "",
+    "notes": "[Serious Games",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-7-gaming-and-medicine-journal-of-medical-extended-realityhttps-homeliebertp",
+    "moduleSlug": "week-7-gaming-and-medicine",
+    "moduleWeek": 7,
+    "title": "//home.liebertpub.com/publications/journal-of-medical-extended-reality/680)",
+    "url": null,
+    "type": "[Journal of Medical Extended Reality](https",
+    "duration": "",
+    "notes": "[Journal of Medical Extended Reality",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-8-edutainment-youtube-games-and-education-scholar-james-paul-gee-on-video-g",
+    "moduleSlug": "week-8-edutainment",
+    "moduleWeek": 8,
+    "title": "Games and Education Scholar James Paul Gee on Video Games, Learning, and Literacy",
+    "url": "https://www.youtube.com/watch?v=LNfPdaKYOPI&ab_channel=ConnectedLearningAlliance",
+    "type": "YouTube",
+    "duration": "~6 min",
+    "notes": "",
+    "learningOutcomes": [
+      3
+    ],
+    "required": true
+  },
+  {
+    "id": "week-8-edutainment-ted-talk-how-video-games-can-level-up-the-way-you-learn",
+    "moduleSlug": "week-8-edutainment",
+    "moduleWeek": 8,
+    "title": "How video games can level up the way you learn",
+    "url": "https://www.youtube.com/watch?v=CkFnqGHZ5tA&pp=0gcJCdgAo7VqN5tD",
+    "type": "TED Talk",
+    "duration": "~13 min",
+    "notes": "",
+    "learningOutcomes": [
+      3
+    ],
+    "required": true
+  },
+  {
+    "id": "week-8-edutainment-ted-talk-how-ai-immersive-learning-reshapes-education-and-wor",
+    "moduleSlug": "week-8-edutainment",
+    "moduleWeek": 8,
+    "title": "How AI Immersive Learning Reshapes Education and Work",
+    "url": "https://www.youtube.com/watch?v=Cj7DUKX8P3I&ab_channel=TEDxTalks",
+    "type": "TED Talk",
+    "duration": "~12 min",
+    "notes": "",
+    "learningOutcomes": [
+      3,
+      5
+    ],
+    "required": true
+  },
+  {
+    "id": "week-8-edutainment-blog-post-leveraging-gaming-for-education",
+    "moduleSlug": "week-8-edutainment",
+    "moduleWeek": 8,
+    "title": "Leveraging Gaming for Education",
+    "url": "https://gameplan.com/news/leveraging-gaming-for-education",
+    "type": "Blog Post",
+    "duration": "~8 min",
+    "notes": "",
+    "learningOutcomes": [
+      3
+    ],
+    "required": true
+  },
+  {
+    "id": "week-8-edutainment-article-find-fun:-how-to-recognize-video-games-that-engage-ki",
+    "moduleSlug": "week-8-edutainment",
+    "moduleWeek": 8,
+    "title": "Find Fun: How to recognize video games that engage kids of all ages in learning",
+    "url": "https://www.gse.harvard.edu/ideas/usable-knowledge/21/06/find-fun",
+    "type": "Article",
+    "duration": "~3 min",
+    "notes": "",
+    "learningOutcomes": [
+      3
+    ],
+    "required": true
+  },
+  {
+    "id": "week-8-edutainment-youtube-what-makes-great-learning-games",
+    "moduleSlug": "week-8-edutainment",
+    "moduleWeek": 8,
+    "title": "What Makes Great Learning Games?",
+    "url": "https://www.youtube.com/watch?v=6uXUyBEAWR0&ab_channel=FilamentGames",
+    "type": "YouTube",
+    "duration": "~16 min",
+    "notes": "",
+    "learningOutcomes": [
+      3
+    ],
+    "required": true
+  },
+  {
+    "id": "week-8-edutainment-youtube-learning-to-game-the-school-system-edutainment-games-",
+    "moduleSlug": "week-8-edutainment",
+    "moduleWeek": 8,
+    "title": "Learning to Game the (School) System | Edutainment Games and Educational Theory",
+    "url": "https://www.youtube.com/watch?v=_BpAAps-OrU&ab_channel=ArchivistShepard",
+    "type": "YouTube",
+    "duration": "~54 min",
+    "notes": "Learning to Game the (School) System | Edutainment Games and Educational Theory System | Edutainment Games and Educational Theory",
+    "learningOutcomes": [
+      3
+    ],
+    "required": true
+  },
+  {
+    "id": "week-8-edutainment-article-13-secretly-educational-video-games-that-kids-will-ac",
+    "moduleSlug": "week-8-edutainment",
+    "moduleWeek": 8,
+    "title": "13 (Secretly) Educational Video Games That Kids Will Actually Like",
+    "url": "https://www.cnet.com/tech/gaming/13-secretly-educational-video-games-that-kids-will-actually-like/",
+    "type": "Article",
+    "duration": "~11 min",
+    "notes": "13 (Secretly) Educational Video Games That Kids Will Actually Like Educational Video Games That Kids Will Actually Like",
+    "learningOutcomes": [
+      3
+    ],
+    "required": true
+  },
+  {
+    "id": "week-8-edutainment-ted-talk-the-effective-use-of-game-based-learning-in-educatio",
+    "moduleSlug": "week-8-edutainment",
+    "moduleWeek": 8,
+    "title": "The Effective Use of Game-Based Learning in Education | Andre Thomas | TEDxTAMU",
+    "url": "https://www.youtube.com/watch?v=-X1m7tf9cRQ&ab_channel=TEDxTalks",
+    "type": "TED Talk",
+    "duration": "~18 min",
+    "notes": "",
+    "learningOutcomes": [
+      3
+    ],
+    "required": true
+  },
+  {
+    "id": "week-8-edutainment-academic-paper-visuo-spatial-attention-and-reading-abilities:",
+    "moduleSlug": "week-8-edutainment",
+    "moduleWeek": 8,
+    "title": "Visuo-spatial attention and reading abilities: an action game prototype for dyslexic children",
+    "url": "https://air.unimi.it/retrieve/dfa8b993-8ee2-748b-e053-3a05fe0a3a96/REM2015.pdf",
+    "type": "Academic Paper",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-8-edutainment-article-more-than-just-fun-and-games:-the-longitudinal-relati",
+    "moduleSlug": "week-8-edutainment",
+    "moduleWeek": 8,
+    "title": "More Than Just Fun and Games: The Longitudinal Relationships Between Strategic Video Games, Self-Reported Problem Solving Skills, and Academic Grades",
+    "url": "https://maine.primo.exlibrisgroup.com/permalink/01MAINE_INST/1oa9cn5/cdi_proquest_miscellaneous_1429629833",
+    "type": "Article",
+    "duration": "~80 min",
+    "notes": "",
+    "learningOutcomes": [
+      3
+    ],
+    "required": false
+  },
+  {
+    "id": "week-8-edutainment-article-interactive-video-games-in-physical-education",
+    "moduleSlug": "week-8-edutainment",
+    "moduleWeek": 8,
+    "title": "Interactive Video Games in Physical Education",
+    "url": "https://eric.ed.gov/?id=EJ795570",
+    "type": "Article",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-8-edutainment-article-50-educational-video-games-that-homeschoolers-love",
+    "moduleSlug": "week-8-edutainment",
+    "moduleWeek": 8,
+    "title": "50 Educational Video Games That Homeschoolers Love",
+    "url": "https://www.oedb.org/ilibrarian/50-educational-video-games-that-homeschoolers-love/",
+    "type": "Article",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-8-edutainment-youtube-video-games-in-education",
+    "moduleSlug": "week-8-edutainment",
+    "moduleWeek": 8,
+    "title": "Video Games in Education",
+    "url": "https://www.youtube.com/watch?v=c5AN0JDmQY4&ab_channel=Sprouts",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-8-edutainment-youtube-jim-gee-principles-on-gaming",
+    "moduleSlug": "week-8-edutainment",
+    "moduleWeek": 8,
+    "title": "Jim Gee Principles on Gaming",
+    "url": "https://www.youtube.com/watch?v=4aQAgAjTozk&ab_channel=ChrisThorn",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-8-edutainment-ted-talk-classroom-game-design:-paul-andersen-at-tedxbozeman",
+    "moduleSlug": "week-8-edutainment",
+    "moduleWeek": 8,
+    "title": "Classroom Game Design: Paul Andersen at TEDxBozeman",
+    "url": "https://www.youtube.com/watch?v=4qlYGX0H6Ec&ab_channel=TEDxTalks",
+    "type": "TED Talk",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-8-edutainment-ted-talk-the-power-of-gamification-in-education-scott-hebert-",
+    "moduleSlug": "week-8-edutainment",
+    "moduleWeek": 8,
+    "title": "The Power of Gamification in Education | Scott Hebert | TEDxUAlberta",
+    "url": "https://www.youtube.com/watch?v=mOssYTimQwM&ab_channel=TEDxTalks",
+    "type": "TED Talk",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-8-edutainment-ted-talk-gamification-in-higher-education-christopher-see-ted",
+    "moduleSlug": "week-8-edutainment",
+    "moduleWeek": 8,
+    "title": "Gamification in Higher Education | Christopher See | TEDxCUHK",
+    "url": "https://www.youtube.com/watch?v=d8s3kZz1yQ4&ab_channel=TEDxTalks",
+    "type": "TED Talk",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-8-edutainment-ted-talk-your-brain-on-video-games-daphne-bavelier",
+    "moduleSlug": "week-8-edutainment",
+    "moduleWeek": 8,
+    "title": "Your brain on video games | Daphne Bavelier",
+    "url": "https://www.youtube.com/watch?v=FktsFcooIG8&ab_channel=TED",
+    "type": "TED Talk",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-8-edutainment-common-sense-mediahttps-wwwcommonsensemediaorg",
+    "moduleSlug": "week-8-edutainment",
+    "moduleWeek": 8,
+    "title": "//www.commonsensemedia.org/)",
+    "url": null,
+    "type": "[Common Sense Media](https",
+    "duration": "",
+    "notes": "[Common Sense Media",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-8-edutainment-ubisofts-echoes-of-history-podcasthttps-openspotifycomshow32d",
+    "moduleSlug": "week-8-edutainment",
+    "moduleWeek": 8,
+    "title": "//open.spotify.com/show/32D0s4zdgKVDplzPf8GZBO)",
+    "url": null,
+    "type": "Ubisoft’s [Echoes of History Podcast](https",
+    "duration": "",
+    "notes": "Ubisoft’s [Echoes of History Podcast",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-8-edutainment-book-pastplay:-teaching-and-learning-history-with-technology",
+    "moduleSlug": "week-8-edutainment",
+    "moduleWeek": 8,
+    "title": "*Pastplay: Teaching and Learning History with Technology*",
+    "url": "https://muse.jhu.edu/book/29517",
+    "type": "Book",
+    "duration": "",
+    "notes": "*Pastplay: Teaching and Learning History with Technology* edited by Kevin Kee",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-8-edutainment-youtube-create-educational-games-with-tinytap",
+    "moduleSlug": "week-8-edutainment",
+    "moduleWeek": 8,
+    "title": "Create Educational Games with TinyTap",
+    "url": "https://www.youtube.com/watch?v=5GkZZ97_CR8&ab_channel=TechnologyforTeachersandStudents",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-8-edutainment-youtube-dangerous-games:-roblox-and-the-metaverse-exposed-doc",
+    "moduleSlug": "week-8-edutainment",
+    "moduleWeek": 8,
+    "title": "Dangerous Games: Roblox and the Metaverse Exposed (Documentary Trailer)",
+    "url": "https://www.youtube.com/watch?v=qkQ4y_3VKCQ",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "Dangerous Games: Roblox and the Metaverse Exposed (Documentary Trailer) \\- documentary only available in Canada right now, apparently…",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-8-edutainment-ted-talk-press-play-gaming-simulation-achievement-in-the-clas",
+    "moduleSlug": "week-8-edutainment",
+    "moduleWeek": 8,
+    "title": "Press Play \\-- Gaming, Simulation & Achievement in the Classroom: Jonathon Best at TEDxDenverTeachers",
+    "url": "https://www.youtube.com/watch?v=lKpo5SeZWns&ab_channel=TEDxTalks",
+    "type": "TED Talk",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-9-indie-games-youtube-the-creativity-of-indie-video-games",
+    "moduleSlug": "week-9-indie-games",
+    "moduleWeek": 9,
+    "title": "The Creativity of Indie Video Games",
+    "url": "https://www.youtube.com/watch?v=M-2zIemV2yc&ab_channel=PBSoffbook",
+    "type": "YouTube",
+    "duration": "~8 min",
+    "notes": "The Creativity of Indie Video Games from PBS Off Book",
+    "learningOutcomes": [
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-9-indie-games-ted-talk-independent-games-for-your-soul",
+    "moduleSlug": "week-9-indie-games",
+    "moduleWeek": 9,
+    "title": "Independent games for your soul",
+    "url": "https://www.youtube.com/watch?v=bc5J9So7f9s&ab_channel=TEDxTalks",
+    "type": "TED Talk",
+    "duration": "~21 min",
+    "notes": "",
+    "learningOutcomes": [
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-9-indie-games-article-making-a-name-in-games",
+    "moduleSlug": "week-9-indie-games",
+    "moduleWeek": 9,
+    "title": "Making a Name in Games",
+    "url": "https://maine.primo.exlibrisgroup.com/permalink/01MAINE_INST/1oa9cn5/cdi_proquest_journals_1319284231",
+    "type": "Article",
+    "duration": "~35 min",
+    "notes": "",
+    "learningOutcomes": [
+      2,
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-9-indie-games-youtube-the-history-of-indie-games",
+    "moduleSlug": "week-9-indie-games",
+    "moduleWeek": 9,
+    "title": "The History of Indie Games",
+    "url": "https://www.youtube.com/watch?v=xtZ2sJt4S9Y&ab_channel=SaveData",
+    "type": "YouTube",
+    "duration": "~18 min",
+    "notes": "",
+    "learningOutcomes": [
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-9-indie-games-youtube-the-importance-of-indie-games",
+    "moduleSlug": "week-9-indie-games",
+    "moduleWeek": 9,
+    "title": "The Importance of Indie Games",
+    "url": "https://www.youtube.com/watch?v=iTwMqlDC35A&ab_channel=iFrames",
+    "type": "YouTube",
+    "duration": "~20 min",
+    "notes": "",
+    "learningOutcomes": [
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-9-indie-games-youtube-how-indie-games-beat-the-aaa-industry",
+    "moduleSlug": "week-9-indie-games",
+    "moduleWeek": 9,
+    "title": "How Indie Games BEAT The AAA Industry",
+    "url": "https://www.youtube.com/watch?v=-EGICLW1LqQ&ab_channel=GoingIndie",
+    "type": "YouTube",
+    "duration": "~13 min",
+    "notes": "",
+    "learningOutcomes": [
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-9-indie-games-youtube-how-one-person-changed-indie-games-forever",
+    "moduleSlug": "week-9-indie-games",
+    "moduleWeek": 9,
+    "title": "How One Person Changed Indie Games Forever",
+    "url": "https://www.youtube.com/watch?v=d0Lqt-BHbJ0&ab_channel=ThatGuyGlen",
+    "type": "YouTube",
+    "duration": "~22 min",
+    "notes": "",
+    "learningOutcomes": [
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-9-indie-games-youtube-how-much-our-first-indie-game-made-no-marketing",
+    "moduleSlug": "week-9-indie-games",
+    "moduleWeek": 9,
+    "title": "How Much Our First Indie Game Made | No Marketing",
+    "url": "https://www.youtube.com/watch?v=L9d--sCmGS4",
+    "type": "YouTube",
+    "duration": "~12 min",
+    "notes": "",
+    "learningOutcomes": [
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-9-indie-games-youtube-everything-i-learned-releasing-my-first-game-on-steam",
+    "moduleSlug": "week-9-indie-games",
+    "moduleWeek": 9,
+    "title": "Everything I Learned Releasing my First Game on Steam and Consoles",
+    "url": "https://www.youtube.com/watch?v=g-geVoA8Xr4&ab_channel=KyleBanks",
+    "type": "YouTube",
+    "duration": "~18 min",
+    "notes": "",
+    "learningOutcomes": [
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-9-indie-games-article-peak-selling-1-million-copies-proves-that-video-games",
+    "moduleSlug": "week-9-indie-games",
+    "moduleWeek": 9,
+    "title": "Peak Selling 1 Million Copies Proves That Video Games Just Need To Be Genuine",
+    "url": "https://www.thegamer.com/peak-sells-one-million-copies-indie-game-video-games-need-to-be-genuine/",
+    "type": "Article",
+    "duration": "~6 min",
+    "notes": "",
+    "learningOutcomes": [
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-9-indie-games-youtube-the-best-10-indie-games-of-2025-so-far",
+    "moduleSlug": "week-9-indie-games",
+    "moduleWeek": 9,
+    "title": "The Best 10 Indie Games of 2025 (So Far)",
+    "url": "https://www.youtube.com/watch?v=cmIiiLtgwv8&ab_channel=GetIndieGaming",
+    "type": "YouTube",
+    "duration": "~13 min",
+    "notes": "",
+    "learningOutcomes": [
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-9-indie-games-youtube-everything-you-need-to-start-making-games-as-a-beginn",
+    "moduleSlug": "week-9-indie-games",
+    "moduleWeek": 9,
+    "title": "Everything You Need To Start Making Games (As A Beginner)",
+    "url": "https://www.youtube.com/watch?v=_eK26atXTds&ab_channel=JuniperDev",
+    "type": "YouTube",
+    "duration": "~17 min",
+    "notes": "",
+    "learningOutcomes": [
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-9-indie-games-indie-games-the-movie",
+    "moduleSlug": "week-9-indie-games",
+    "moduleWeek": 9,
+    "title": "The Movie*]",
+    "url": null,
+    "type": "[*Indie Games",
+    "duration": "",
+    "notes": "The Movie* (Documentary)",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-9-indie-games-surviving-indiehttps-wwwyoutubecomwatchvz7cwzhhbmsoabchannelg",
+    "moduleSlug": "week-9-indie-games",
+    "moduleWeek": 9,
+    "title": "//www.youtube.com/watch?v=Z7CWZhhBMSo&ab_channel=GamestarArts)",
+    "url": null,
+    "type": "[*Surviving Indie*](https",
+    "duration": "",
+    "notes": "[*Surviving Indie* (Documentary)",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-9-indie-games-article-in-venba-gamers-play-as-an-indian-immigrant-trying-to",
+    "moduleSlug": "week-9-indie-games",
+    "moduleWeek": 9,
+    "title": "In Venba, gamers play as an Indian immigrant trying to restore lost recipes",
+    "url": "https://www.kcrw.com/culture/shows/good-food/food-video-games-vegan-history-america-passion-fruit/venba-video-game-immigration-assimilation-pj-shahamat",
+    "type": "Article",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-9-indie-games-article-in-just-one-hour-black-myth-wukong-has-smashed-every-",
+    "moduleSlug": "week-9-indie-games",
+    "moduleWeek": 9,
+    "title": "In just one hour, Black Myth Wukong has smashed every other Steam game",
+    "url": "https://www.pcgamesn.com/black-myth-wukong/steam-launch",
+    "type": "Article",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-9-indie-games-article-the-creator-of-papers-please-wants-developers-to-make",
+    "moduleSlug": "week-9-indie-games",
+    "moduleWeek": 9,
+    "title": "The creator of Papers, Please wants developers to make weirder, more personal games",
+    "url": "https://www.theverge.com/games/651376/lucas-pope-papers-please-gdc-2025-pioneer-award",
+    "type": "Article",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-9-indie-games-article-in-its-latest-update-enshroudeds-terrifying-monsters-",
+    "moduleSlug": "week-9-indie-games",
+    "moduleWeek": 9,
+    "title": "In its latest update, Enshrouded's terrifying monsters have players asking 'are we the baddies?'",
+    "url": "https://www.pcgamer.com/games/survival-crafting/in-its-latest-update-enshroudeds-terrifying-monsters-have-players-asking-are-we-the-baddies/",
+    "type": "Article",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-9-indie-games-article-stardew-valley-creator-plays-down-reports-he-could-he",
+    "moduleSlug": "week-9-indie-games",
+    "moduleWeek": 9,
+    "title": "Stardew Valley creator plays down reports he could help resurrect cancelled Minecraft-like Hytale",
+    "url": "https://www.eurogamer.net/stardew-valley-creator-plays-down-reports-he-could-help-resurrect-recently-cancelled-minecraft-like-hytale",
+    "type": "Article",
+    "duration": "https://www.eurogamer.net/stardew-valley-creator-plays-down-reports-he-could-help-resurrect-recently-cancelled-minecraft-like-hytale",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-9-indie-games-article-into-the-dead:-our-darkest-days-blends-this-war-of-mi",
+    "moduleSlug": "week-9-indie-games",
+    "moduleWeek": 9,
+    "title": "‘Into the Dead: Our Darkest Days’ Blends ‘This War of Mine’ and ‘State of Decay’ Into an Engaging New Formula",
+    "url": "https://www.vice.com/en/article/into-the-dead-our-darkest-days-blends-this-war-of-mine-and-state-of-decay-into-an-engaging-new-formula-early-access-impressions/",
+    "type": "Article",
+    "duration": "https://www.vice.com/en/article/into-the-dead-our-darkest-days-blends-this-war-of-mine-and-state-of-decay-into-an-engaging-new-formula-early-access-impressions/",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-9-indie-games-article-the-almost-gone-review-dreamlike-puzzles-unlock-a-wor",
+    "moduleSlug": "week-9-indie-games",
+    "moduleWeek": 9,
+    "title": "The Almost Gone review – dreamlike puzzles unlock a world of dark unease",
+    "url": "https://www.theguardian.com/games/2020/jun/25/the-almost-gone-review",
+    "type": "Article",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-9-indie-games-article-little-nightmares-limbo-and-others-are-drearios",
+    "moduleSlug": "week-9-indie-games",
+    "moduleWeek": 9,
+    "title": "Little Nightmares, Limbo, and Others Are Drearios",
+    "url": "https://www.houstonpress.com/arts/defining-a-dreario-video-game-20233800",
+    "type": "Article",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-9-indie-games-youtube-the-food-is-me-dead-plate-full-horror-game",
+    "moduleSlug": "week-9-indie-games",
+    "moduleWeek": 9,
+    "title": "The food is… ME? \\- Dead Plate Full Horror Game",
+    "url": "https://www.youtube.com/watch?v=MdB9Tdt99Io",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-9-indie-games-article-schedule-1-proves-how-important-tiktok-and-streamers-",
+    "moduleSlug": "week-9-indie-games",
+    "moduleWeek": 9,
+    "title": "Schedule 1 Proves How Important TikTok And Streamers Are For A Game's Success",
+    "url": "https://www.thegamer.com/schedule-1-tiktok-streamer/",
+    "type": "Article",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-9-indie-games-podcast-episode-jeff-vogel:-making-games-alone-for-30-years-u",
+    "moduleSlug": "week-9-indie-games",
+    "moduleWeek": 9,
+    "title": "Jeff Vogel: Making Games Alone For 30 Years, Unity vs Custom Engine, Indie Survival | Full Time Game Dev Podcast Ep. \\#046",
+    "url": "https://www.youtube.com/watch?v=F9zYiHllEcU&ab_channel=ThomasBrush",
+    "type": "Podcast Episode",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-9-indie-games-playexplore-indie-games-such-as-those-available-on-itchiohttp",
+    "moduleSlug": "week-9-indie-games",
+    "moduleWeek": 9,
+    "title": "//itch.io/)",
+    "url": null,
+    "type": "Play/explore indie games, such as those available on [Itch.io](https",
+    "duration": "",
+    "notes": "Play/explore indie games, such as those available on [Itch.io (many are either completely free or offer a portion of the game as a free preview)",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-9-indie-games-article-why-untitled-goose-game-is-the-chaos-we-need-right-no",
+    "moduleSlug": "week-9-indie-games",
+    "moduleWeek": 9,
+    "title": "Why ‘Untitled Goose Game’ Is the Chaos We Need Right Now",
+    "url": "https://collider.com/untitled-goose-game-switch-review/",
+    "type": "Article",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-9-indie-games-article-buckshot-roulette-developer-on-making-the-game-solo-f",
+    "moduleSlug": "week-9-indie-games",
+    "moduleWeek": 9,
+    "title": "Buckshot Roulette Developer on Making the Game Solo, Feedback & Success",
+    "url": "https://80.lv/articles/buckshot-roulette-developer-on-making-the-game-solo-feedback-success/",
+    "type": "Article",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-9-indie-games-article-those-we-didnt-know-are-among-us",
+    "moduleSlug": "week-9-indie-games",
+    "moduleWeek": 9,
+    "title": "Those we didn’t know are ‘Among Us’",
+    "url": "https://theaggie.org/2020/11/20/those-we-didnt-know-are-among-us/",
+    "type": "Article",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-10-modding-and-community-runprivate-servers-youtube-game-modding-as-fast-as",
+    "moduleSlug": "week-10-modding-and-community-runprivate-servers",
+    "moduleWeek": 10,
+    "title": "Game Modding as Fast As Possible",
+    "url": "https://www.youtube.com/watch?v=4BB1HfvSqAI&ab_channel=Techquickie",
+    "type": "YouTube",
+    "duration": "old video, but provides some nice terminology review",
+    "notes": "Game Modding as Fast As Possible (~6 min)",
+    "learningOutcomes": [
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-10-modding-and-community-runprivate-servers-article-exploring-and-extending",
+    "moduleSlug": "week-10-modding-and-community-runprivate-servers",
+    "moduleWeek": 10,
+    "title": "Exploring and extending world cultures through video games",
+    "url": "https://www.creativityculturecapital.org/blog/2021/09/13/exploring-and-extending-world-cultures-through-video-games/",
+    "type": "Article",
+    "duration": "~6 min",
+    "notes": "",
+    "learningOutcomes": [
+      2,
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-10-modding-and-community-runprivate-servers-youtube-a-trip-down-memory-lane",
+    "moduleSlug": "week-10-modding-and-community-runprivate-servers",
+    "moduleWeek": 10,
+    "title": "A Trip Down Memory Lane: The Origins of Game Modding",
+    "url": "https://www.youtube.com/watch?v=xIaYCcAViqk&ab_channel=Woahvi",
+    "type": "YouTube",
+    "duration": "~17 min",
+    "notes": "",
+    "learningOutcomes": [
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-10-modding-and-community-runprivate-servers-youtube-the-importance-of-game-",
+    "moduleSlug": "week-10-modding-and-community-runprivate-servers",
+    "moduleWeek": 10,
+    "title": "The Importance of Game Modding",
+    "url": "https://www.youtube.com/watch?v=3t2EEeUkQ58&ab_channel=FUNKe",
+    "type": "YouTube",
+    "duration": "~9 min",
+    "notes": "",
+    "learningOutcomes": [
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-10-modding-and-community-runprivate-servers-youtube-a-lawyer-explains-the-p",
+    "moduleSlug": "week-10-modding-and-community-runprivate-servers",
+    "moduleWeek": 10,
+    "title": "A Lawyer Explains the PointCrow Takedowns and the Legality of Mods",
+    "url": "https://www.youtube.com/watch?v=mo_AmQgSSqY&ab_channel=MoonChannel",
+    "type": "YouTube",
+    "duration": "~25 min",
+    "notes": "",
+    "learningOutcomes": [
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-10-modding-and-community-runprivate-servers-youtube-modding-heaven:-when-ga",
+    "moduleSlug": "week-10-modding-and-community-runprivate-servers",
+    "moduleWeek": 10,
+    "title": "Modding Heaven: When Games Become Engines",
+    "url": "https://www.youtube.com/watch?v=bmVsv15gjdg&ab_channel=Lufa",
+    "type": "YouTube",
+    "duration": "~41 min",
+    "notes": "",
+    "learningOutcomes": [
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-10-modding-and-community-runprivate-servers-book-excerpt-rolling-your-own-f",
+    "moduleSlug": "week-10-modding-and-community-runprivate-servers",
+    "moduleWeek": 10,
+    "title": "Rolling Your Own (from Pastplay: Teaching and Learning History with Technology)",
+    "url": "https://muse.jhu.edu/pub/166/oa_edited_volume/chapter/1127334",
+    "type": "Book Excerpt",
+    "duration": "~24 min",
+    "notes": "",
+    "learningOutcomes": [
+      3,
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-10-modding-and-community-runprivate-servers-article-do-private-servers-bene",
+    "moduleSlug": "week-10-modding-and-community-runprivate-servers",
+    "moduleWeek": 10,
+    "title": "Do Private Servers Benefit Or Harm MMORPGs?",
+    "url": "https://mmos.com/editorials/do-private-servers-benefit-or-harm-mmorpgs",
+    "type": "Article",
+    "duration": "~8 min",
+    "notes": "",
+    "learningOutcomes": [
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-10-modding-and-community-runprivate-servers-article-with-a-near-unprecedent",
+    "moduleSlug": "week-10-modding-and-community-runprivate-servers",
+    "moduleWeek": 10,
+    "title": "With a near-unprecedented official license for its fan server, one of PC gaming's great MMOs has a vibrant future: 'Let it be shouted far and wide: City of Heroes lives again'",
+    "url": "https://www.pcgamer.com/games/mmo/with-a-near-unprecedented-official-license-for-its-fan-server-one-of-pc-gamings-great-mmos-has-a-vibrant-future-let-it-be-shouted-far-and-wide-city-of-heroes-lives-again/",
+    "type": "Article",
+    "duration": "~12 min",
+    "notes": "",
+    "learningOutcomes": [
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-10-modding-and-community-runprivate-servers-article-everquest-fan-project-g",
+    "moduleSlug": "week-10-modding-and-community-runprivate-servers",
+    "moduleWeek": 10,
+    "title": "EverQuest fan project given blessing by Daybreak",
+    "url": "https://www.pcgamer.com/everquest-fan-project-given-blessing-by-daybreak/",
+    "type": "Article",
+    "duration": "~2 min",
+    "notes": "",
+    "learningOutcomes": [
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-10-modding-and-community-runprivate-servers-youtube-nexus-mods-is-about-to-",
+    "moduleSlug": "week-10-modding-and-community-runprivate-servers",
+    "moduleWeek": 10,
+    "title": "Nexus Mods is about to get worse",
+    "url": "https://www.youtube.com/watch?v=An1FwiRzFnM&ab_channel=LMGClips",
+    "type": "YouTube",
+    "duration": "~10 min",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-10-modding-and-community-runprivate-servers-youtube-these-steam-games-becom",
+    "moduleSlug": "week-10-modding-and-community-runprivate-servers",
+    "moduleWeek": 10,
+    "title": "These Steam Games Become GOD-TIER With Mods",
+    "url": "https://www.youtube.com/watch?v=W8BlgBo15kg&ab_channel=thebluecrusader",
+    "type": "YouTube",
+    "duration": "~20 min",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-10-modding-and-community-runprivate-servers-youtube-top-10-game-mods-you-ne",
+    "moduleSlug": "week-10-modding-and-community-runprivate-servers",
+    "moduleWeek": 10,
+    "title": "Top 10 Game Mods You NEED To Try",
+    "url": "https://www.youtube.com/watch?v=eI6pgLot1-U&ab_channel=LevelCapGaming",
+    "type": "YouTube",
+    "duration": "~13 min",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-10-modding-and-community-runprivate-servers-article-wickedwhims:-a-conversa",
+    "moduleSlug": "week-10-modding-and-community-runprivate-servers",
+    "moduleWeek": 10,
+    "title": "WickedWhims: A Conversation about Adult Content Creation and Responsible Adult Mods Design \\- Aurélie Petit",
+    "url": "https://tag-milieux.ca/tag-articles/wickedwhims",
+    "type": "Article",
+    "duration": "~42 min",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-10-modding-and-community-runprivate-servers-playexplore-popular-mods-or-pri",
+    "moduleSlug": "week-10-modding-and-community-runprivate-servers",
+    "moduleWeek": 10,
+    "title": "",
+    "url": null,
+    "type": "Play/explore popular mods or private servers. Some ideas/sources",
+    "duration": "",
+    "notes": "Play/explore popular mods or private servers. Some ideas/sources",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-10-modding-and-community-runprivate-servers-youtube-club-penguin:-gone-but-",
+    "moduleSlug": "week-10-modding-and-community-runprivate-servers",
+    "moduleWeek": 10,
+    "title": "Club Penguin: Gone But Not Forgotten",
+    "url": "https://www.youtube.com/watch?v=aR2EK9f4X4E&ab_channel=Burback",
+    "type": "YouTube",
+    "duration": "~37 min",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-10-modding-and-community-runprivate-servers-article-6-major-differences-bet",
+    "moduleSlug": "week-10-modding-and-community-runprivate-servers",
+    "moduleWeek": 10,
+    "title": "6 Major Differences Between Classic WoW & Turtle WoW",
+    "url": "https://gamerant.com/major-differences-classic-wow-turtle-wow-changes-world-of-warcraft-classic-plus-private-server/",
+    "type": "Article",
+    "duration": "~15 min",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-11-competitive-and-multiplayer-gaming-book-excerpt-redeye-at-the-internatio",
+    "moduleSlug": "week-11-competitive-and-multiplayer-gaming",
+    "moduleWeek": 11,
+    "title": "Redeye at The International 8: An excerpt from This is esports (and How to Spell it)",
+    "url": "https://www.shacknews.com/article/118403/redeye-at-the-international-8-an-excerpt-from-this-is-esports-and-how-to-spell-it",
+    "type": "Book Excerpt",
+    "duration": "~9 min",
+    "notes": "",
+    "learningOutcomes": [
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-11-competitive-and-multiplayer-gaming-ted-talk-dear-parents-this-is-why-you",
+    "moduleSlug": "week-11-competitive-and-multiplayer-gaming",
+    "moduleWeek": 11,
+    "title": "Dear Parents, This is Why You SHOULD Let Kids Play Video Games!",
+    "url": "https://www.youtube.com/watch?v=OHX26iN85kM&ab_channel=TEDxTalks",
+    "type": "TED Talk",
+    "duration": "~9 min",
+    "notes": "",
+    "learningOutcomes": [
+      2,
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-11-competitive-and-multiplayer-gaming-blog-post-gaming-communities-vs-solo-",
+    "moduleSlug": "week-11-competitive-and-multiplayer-gaming",
+    "moduleWeek": 11,
+    "title": "Gaming Communities vs. Solo Gaming: Pros and Cons",
+    "url": "https://www.iwannapvp.com/blog/gaming-communities-vs-solo-gaming-pros-and-cons",
+    "type": "Blog Post",
+    "duration": "~7 min",
+    "notes": "",
+    "learningOutcomes": [
+      2,
+      5,
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-11-competitive-and-multiplayer-gaming-blog-post-the-rise-of-video-game-stre",
+    "moduleSlug": "week-11-competitive-and-multiplayer-gaming",
+    "moduleWeek": 11,
+    "title": "The Rise of Video Game Streaming: A New Era of Entertainment",
+    "url": "https://medium.com/@cook.benjamin/the-rise-of-video-game-streaming-a-new-era-of-entertainment-591ea50e0d6c",
+    "type": "Blog Post",
+    "duration": "~4 min",
+    "notes": "",
+    "learningOutcomes": [
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-11-competitive-and-multiplayer-gaming-youtube-the-biggest-cheating-scandals",
+    "moduleSlug": "week-11-competitive-and-multiplayer-gaming",
+    "moduleWeek": 11,
+    "title": "The Biggest Cheating Scandals in Minecraft Speedrunning",
+    "url": "https://www.youtube.com/watch?v=pGOryDTE9dY&ab_channel=MarcusFireworks",
+    "type": "YouTube",
+    "duration": "~30 min",
+    "notes": "",
+    "learningOutcomes": [
+      2,
+      4,
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-11-competitive-and-multiplayer-gaming-research-report-the-pros-and-cons-of-",
+    "moduleSlug": "week-11-competitive-and-multiplayer-gaming",
+    "moduleWeek": 11,
+    "title": "The Pros and Cons of Online Competitive Gaming: An Evidence-Based Approach to Assessing Young Players' Well-Being",
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.651530/full",
+    "type": "Research Report",
+    "duration": "~22 min",
+    "notes": "",
+    "learningOutcomes": [
+      2,
+      3,
+      4,
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-11-competitive-and-multiplayer-gaming-documentary-the-king-of-kong-:-fistfu",
+    "moduleSlug": "week-11-competitive-and-multiplayer-gaming",
+    "moduleWeek": 11,
+    "title": "The King of Kong : Fistful of Quarters (Full Movie)",
+    "url": "https://www.youtube.com/watch?v=lXLQqcHcJDQ",
+    "type": "Documentary",
+    "duration": "~83 min",
+    "notes": "",
+    "learningOutcomes": [
+      2,
+      4,
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-11-competitive-and-multiplayer-gaming-book-this-is-esports-and-how-to-spell",
+    "moduleSlug": "week-11-competitive-and-multiplayer-gaming",
+    "moduleWeek": 11,
+    "title": "*This Is Esports (And How to Spell It)*",
+    "url": "https://maine.primo.exlibrisgroup.com/permalink/01MAINE_INST/1i25tbk/alma991020341249708681",
+    "type": "Book",
+    "duration": "",
+    "notes": "*This Is Esports (And How to Spell It)** by Paul Chaloner",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-11-competitive-and-multiplayer-gaming-book-reality-is-broken",
+    "moduleSlug": "week-11-competitive-and-multiplayer-gaming",
+    "moduleWeek": 11,
+    "title": "*Reality is Broken*",
+    "url": "https://maine.primo.exlibrisgroup.com/permalink/01MAINE_INST/2sp9f6/alma991003647129708681",
+    "type": "Book",
+    "duration": "",
+    "notes": "*Reality is Broken* by Jane McGonigal",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-11-competitive-and-multiplayer-gaming-book-this-gaming-life:-travels-in-thr",
+    "moduleSlug": "week-11-competitive-and-multiplayer-gaming",
+    "moduleWeek": 11,
+    "title": "*This Gaming Life: Travels in Three Cities*",
+    "url": "https://library.oapen.org/handle/20.500.12657/24004",
+    "type": "Book",
+    "duration": "",
+    "notes": "*This Gaming Life: Travels in Three Cities* by Jim Rossignol",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-11-competitive-and-multiplayer-gaming-book-arena",
+    "moduleSlug": "week-11-competitive-and-multiplayer-gaming",
+    "moduleWeek": 11,
+    "title": "*Arena*",
+    "url": "https://maine.primo.exlibrisgroup.com/permalink/01MAINE_INST/1m5ko1o/alma991036931049708681",
+    "type": "Book",
+    "duration": "",
+    "notes": "*Arena* by Holly Jennings (fiction!)",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-11-competitive-and-multiplayer-gaming-playershttps-tvapplecomusshowplayersu",
+    "moduleSlug": "week-11-competitive-and-multiplayer-gaming",
+    "moduleWeek": 11,
+    "title": "//tv.apple.com/us/show/players/umc.cmc.75z3rptet3l4iartn52dmjsb4)",
+    "url": null,
+    "type": "[*Players*](https",
+    "duration": "",
+    "notes": "[*Players* (Paramount+ series, now on Apple TV+)",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-11-competitive-and-multiplayer-gaming-1uphttps-wwwamazoncomgpvideodetailamz",
+    "moduleSlug": "week-11-competitive-and-multiplayer-gaming",
+    "moduleWeek": 11,
+    "title": "//www.amazon.com/gp/video/detail/amzn1.dv.gti.c2a1ec07-6c42-4647-b638-e5bc4ea39e26?autoplay=0&ref_=atv_cf_strg_wb)",
+    "url": null,
+    "type": "[*1UP*](https",
+    "duration": "",
+    "notes": "[*1UP* (Amazon Prime movie)",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-11-competitive-and-multiplayer-gaming-falling-into-your-smilehttps-wwwnetfl",
+    "moduleSlug": "week-11-competitive-and-multiplayer-gaming",
+    "moduleWeek": 11,
+    "title": "//www.netflix.com/title/81566868?source=35&fromWatch=true)",
+    "url": null,
+    "type": "[Falling Into Your Smile](https",
+    "duration": "",
+    "notes": "[Falling Into Your Smile (Netflix TV series \\- Mandarin audio with English subtitles: “After joining an all-male e-sports team, an amateur gamer tests her skills and leads her team to the world championships. Based on a novel.”)",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-11-competitive-and-multiplayer-gaming-find-and-watch-esports-event-footage-",
+    "moduleSlug": "week-11-competitive-and-multiplayer-gaming",
+    "moduleWeek": 11,
+    "title": "*The International* (Dota 2)",
+    "url": "https://www.youtube.com/watch?v=nJsAbXQ7DG0&ab_channel=NoobFromUA",
+    "type": "Find and watch eSports event footage, e.g., [*League of Legends* World Championship](https",
+    "duration": "",
+    "notes": "Find and watch eSports event footage, e.g., *The International* (Dota 2) or [*The International* (Dota 2) or the [Esports World Cup",
+    "learningOutcomes": [
+      6
+    ],
+    "required": false
+  },
+  {
+    "id": "week-11-competitive-and-multiplayer-gaming-find-and-watch-video-game-streams-and",
+    "moduleSlug": "week-11-competitive-and-multiplayer-gaming",
+    "moduleWeek": 11,
+    "title": "YouTube",
+    "url": "https://www.youtube.com/",
+    "type": "Find and watch video game streams and/or on-demand content on [Twitch](https",
+    "duration": "",
+    "notes": "Find and watch video game streams and/or on-demand content on YouTube, [YouTube, or other streaming / video on-demand platforms, e.g., [Fortnite Championship Series footage from Typical Gamer with Nick Eh 30, [Minecraft Championship footage from Jojosolos with Pearlescentmoon, Hannahxxrose, and Aimsey, [Oblivion gameplay from Grohlvana, or [Assassin’s Creed Odyssey gameplay from MegMage",
+    "learningOutcomes": [
+      6
+    ],
+    "required": false
+  },
+  {
+    "id": "week-11-competitive-and-multiplayer-gaming-twin-galaxieshttps-wwwtwingalaxiescom",
+    "moduleSlug": "week-11-competitive-and-multiplayer-gaming",
+    "moduleWeek": 11,
+    "title": "//www.twingalaxies.com/)",
+    "url": null,
+    "type": "[Twin Galaxies](https",
+    "duration": "",
+    "notes": "[Twin Galaxies",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-11-competitive-and-multiplayer-gaming-speedruncomhttp-speedruncom",
+    "moduleSlug": "week-11-competitive-and-multiplayer-gaming",
+    "moduleWeek": 11,
+    "title": "//Speedrun.com)",
+    "url": null,
+    "type": "[Speedrun.com](http",
+    "duration": "",
+    "notes": "[Speedrun.com",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-11-competitive-and-multiplayer-gaming-youtube-the-biggest-lie-in-video-game",
+    "moduleSlug": "week-11-competitive-and-multiplayer-gaming",
+    "moduleWeek": 11,
+    "title": "The Biggest Lie in Video Game History : The Billy Mitchell Story",
+    "url": "https://www.youtube.com/watch?v=PySD_FiEl5c",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-12-gaming-and-community-youtube-the-evolution-of-the-lan-party",
+    "moduleSlug": "week-12-gaming-and-community",
+    "moduleWeek": 12,
+    "title": "The Evolution Of The LAN Party",
+    "url": "https://www.youtube.com/watch?v=dm7f47bTu9M&ab_channel=Nicktorious",
+    "type": "YouTube",
+    "duration": "~23 min",
+    "notes": "",
+    "learningOutcomes": [
+      1,
+      5,
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-12-gaming-and-community-article-the-impact-of-gaming:-a-benefit-to-society",
+    "moduleSlug": "week-12-gaming-and-community",
+    "moduleWeek": 12,
+    "title": "The Impact Of Gaming: A Benefit To Society",
+    "url": "https://www.forbes.com/sites/kevinanderton/2018/06/25/the-impact-of-gaming-a-benefit-to-society-infographic/",
+    "type": "Article",
+    "duration": "~3 min",
+    "notes": "",
+    "learningOutcomes": [
+      2,
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-12-gaming-and-community-book-excerpt-the-impact-of-video-games-on-culture-f",
+    "moduleSlug": "week-12-gaming-and-community",
+    "moduleWeek": 12,
+    "title": "The Impact of Video Games on Culture (from Understanding Media and Culture: An Introduction to Mass Communication)",
+    "url": "https://saylordotorg.github.io/text_understanding-media-and-culture-an-introduction-to-mass-communication/s13-03-the-impact-of-video-games-on-c.html",
+    "type": "Book Excerpt",
+    "duration": "~17 min",
+    "notes": "",
+    "learningOutcomes": [
+      2,
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-12-gaming-and-community-blog-post-what-is-toxicity-in-games",
+    "moduleSlug": "week-12-gaming-and-community",
+    "moduleWeek": 12,
+    "title": "What is Toxicity in Games?",
+    "url": "https://indiecator.org/2023/09/27/what-is-toxicity-in-games/",
+    "type": "Blog Post",
+    "duration": "~7 min",
+    "notes": "",
+    "learningOutcomes": [
+      2,
+      3,
+      4
+    ],
+    "required": true
+  },
+  {
+    "id": "week-12-gaming-and-community-article-pros-and-cons-of-gamer-communities",
+    "moduleSlug": "week-12-gaming-and-community",
+    "moduleWeek": 12,
+    "title": "Pros and Cons of Gamer Communities",
+    "url": "https://www.rubiconline.com/pros-and-cons-of-gamer-communities/",
+    "type": "Article",
+    "duration": "~3 min",
+    "notes": "",
+    "learningOutcomes": [
+      2,
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-12-gaming-and-community-article-video-games-are-social-spaces:-how-video-ga",
+    "moduleSlug": "week-12-gaming-and-community",
+    "moduleWeek": 12,
+    "title": "Video Games Are Social Spaces: How Video Games Help People Connect",
+    "url": "https://www.jcfs.org/response/blog/video-games-are-social-spaces-how-video-games-help-people-connect",
+    "type": "Article",
+    "duration": "~5 min",
+    "notes": "",
+    "learningOutcomes": [
+      2,
+      3,
+      4,
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-12-gaming-and-community-youtube-gaming-for-healthy-social-interaction-and-c",
+    "moduleSlug": "week-12-gaming-and-community",
+    "moduleWeek": 12,
+    "title": "Gaming for Healthy Social Interaction and Community Building with Brennan | Qwe're Coping Together",
+    "url": "https://www.youtube.com/watch?v=v7jbIh8APAM",
+    "type": "YouTube",
+    "duration": "~19 min",
+    "notes": "",
+    "learningOutcomes": [
+      2,
+      3,
+      4,
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-12-gaming-and-community-article-how-video-games-have-changed-the-world",
+    "moduleSlug": "week-12-gaming-and-community",
+    "moduleWeek": 12,
+    "title": "How Video Games Have Changed The World",
+    "url": "https://www.masterycoding.com/blog/how-video-games-have-changed-the-world",
+    "type": "Article",
+    "duration": "~5 min",
+    "notes": "",
+    "learningOutcomes": [
+      2,
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-12-gaming-and-community-article-gaming-culture-around-the-world:-different-",
+    "moduleSlug": "week-12-gaming-and-community",
+    "moduleWeek": 12,
+    "title": "Gaming culture around the world: different strokes for different regions",
+    "url": "https://thedailyaztec.com/116181/sponsored/gaming-culture-around-the-world-different-strokes-for-different-regions/",
+    "type": "Article",
+    "duration": "~5 min",
+    "notes": "",
+    "learningOutcomes": [
+      2,
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-12-gaming-and-community-article-video-games-from-different-cultures",
+    "moduleSlug": "week-12-gaming-and-community",
+    "moduleWeek": 12,
+    "title": "Video Games from Different Cultures",
+    "url": "https://maceandcrown.com/2162/technology/from-the-international-video-games-from-different-cultures/",
+    "type": "Article",
+    "duration": "~10 min",
+    "notes": "",
+    "learningOutcomes": [
+      2,
+      6
+    ],
+    "required": true
+  },
+  {
+    "id": "week-12-gaming-and-community-book-dangerous-games-:-what-the-moral-panic-over-ro",
+    "moduleSlug": "week-12-gaming-and-community",
+    "moduleWeek": 12,
+    "title": "Dangerous games : what the moral panic over role-playing games says about play, religion, and imagined worlds by Joseph Laycock",
+    "url": "https://maine.primo.exlibrisgroup.com/permalink/01MAINE_INST/1i25tbk/alma991048182448308681",
+    "type": "Book",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-12-gaming-and-community-book-coin-operated-americans:-rebooting-boyhood-at-",
+    "moduleSlug": "week-12-gaming-and-community",
+    "moduleWeek": 12,
+    "title": "*Coin-Operated Americans: Rebooting Boyhood at the Video Game Arcade*",
+    "url": "https://maine.primo.exlibrisgroup.com/permalink/01MAINE_INST/1oa9cn5/cdi_proquest_ebookcentral_EBC4391801",
+    "type": "Book",
+    "duration": "",
+    "notes": "*Coin-Operated Americans: Rebooting Boyhood at the Video Game Arcade* by Carly A Kocurek",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-12-gaming-and-community-book-ultima-and-worldbuilding-in-the-computer-role-",
+    "moduleSlug": "week-12-gaming-and-community",
+    "moduleWeek": 12,
+    "title": "Ultima and Worldbuilding in the Computer Role-Playing Game",
+    "url": "https://maine.primo.exlibrisgroup.com/permalink/01MAINE_INST/1oa9cn5/cdi_oapen_primary_oai_library_oapen_org_20_500_12657_88623",
+    "type": "Book",
+    "duration": "",
+    "notes": "Ultima and Worldbuilding in the Computer Role-Playing Game by Carly Kocurek and Matthew Thomas Payne",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-12-gaming-and-community-youtube-retro-90s-lan-party-spring-2025",
+    "moduleSlug": "week-12-gaming-and-community",
+    "moduleWeek": 12,
+    "title": "Retro 90s LAN Party \\- Spring 2025",
+    "url": "https://www.youtube.com/watch?v=m8-jKZSoCGo",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-12-gaming-and-community-reddit-what-online-game-has-the-nicest-community",
+    "moduleSlug": "week-12-gaming-and-community",
+    "moduleWeek": 12,
+    "title": "What online game has the NICEST community?",
+    "url": "https://www.reddit.com/r/gamingsuggestions/comments/18lcvef/what_online_game_has_the_nicest_community/",
+    "type": "Reddit",
+    "duration": "https://www.reddit.com/r/gamingsuggestions/comments/18lcvef/what_online_game_has_the_nicest_community/",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-12-gaming-and-community-blog-post-call-of-duty-anti-toxicity-disruptive-beh",
+    "moduleSlug": "week-12-gaming-and-community",
+    "moduleWeek": 12,
+    "title": "Call of Duty Anti-Toxicity / Disruptive Behavior Progress Report",
+    "url": "https://www.callofduty.com/blog/2024/10/call-of-duty-anti-toxicity-progress-report-black-ops-6-moderation-results",
+    "type": "Blog Post",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-12-gaming-and-community-article-the-untapped-potential-of-the-gaming-commun",
+    "moduleSlug": "week-12-gaming-and-community",
+    "moduleWeek": 12,
+    "title": "The Untapped Potential of the Gaming Community: Narrative Review",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6231821/",
+    "type": "Article",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-12-gaming-and-community-article-the-psychology-of-play:-how-gaming-communit",
+    "moduleSlug": "week-12-gaming-and-community",
+    "moduleWeek": 12,
+    "title": "The Psychology of Play: How Gaming Communities Impact Mental Well-Being",
+    "url": "https://guildservices.org/blog/the-psychology-of-play-how-gaming-communities-impact-mental-well-being/",
+    "type": "Article",
+    "duration": "https://guildservices.org/blog/the-psychology-of-play-how-gaming-communities-impact-mental-well-being/",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-12-gaming-and-community-article-developing-a-measure-of-community-health-in",
+    "moduleSlug": "week-12-gaming-and-community",
+    "moduleWeek": 12,
+    "title": "Developing a Measure of Community Health in Games",
+    "url": "https://rachelkowert.substack.com/p/developing-a-measure-of-community",
+    "type": "Article",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-12-gaming-and-community-article-video-gaming-101:-healthy-vs-problematic-ga",
+    "moduleSlug": "week-12-gaming-and-community",
+    "moduleWeek": 12,
+    "title": "Video Gaming 101: Healthy vs Problematic Gaming",
+    "url": "https://www.childrenandscreens.org/learn-explore/research/video-gaming-101-healthy-vs-problematic-gaming/",
+    "type": "Article",
+    "duration": "https://www.childrenandscreens.org/learn-explore/research/video-gaming-101-healthy-vs-problematic-gaming/",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-12-gaming-and-community-article-online-gaming-communities-could-provide-a-l",
+    "moduleSlug": "week-12-gaming-and-community",
+    "moduleWeek": 12,
+    "title": "Online Gaming Communities Could Provide A Lifeline For Isolated Young Men",
+    "url": "https://stories.tamu.edu/news/2023/08/23/online-gaming-communities-could-provide-a-lifeline-for-isolated-young-men/",
+    "type": "Article",
+    "duration": "https://stories.tamu.edu/news/2023/08/23/online-gaming-communities-could-provide-a-lifeline-for-isolated-young-men/",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-12-gaming-and-community-youtube-why-video-game-community-managers-suck-at-t",
+    "moduleSlug": "week-12-gaming-and-community",
+    "moduleWeek": 12,
+    "title": "Why Video Game Community Managers Suck at Their Jobs",
+    "url": "https://www.youtube.com/watch?v=TvDOD6NW8K8",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-12-gaming-and-community-just-for-fun-youtube-clip-from-mythic-quest-about-c",
+    "moduleSlug": "week-12-gaming-and-community",
+    "moduleWeek": 12,
+    "title": "YouTube clip from Mythic Quest about community managers",
+    "url": "https://www.youtube.com/watch?v=gCM30xHTegc",
+    "type": "Just for fun",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-12-gaming-and-community-documentary-gaming-in-color",
+    "moduleSlug": "week-12-gaming-and-community",
+    "moduleWeek": 12,
+    "title": "Gaming in Color",
+    "url": "https://athome.fandango.com/content/browse/details/Gaming-in-Color/657736",
+    "type": "Documentary",
+    "duration": "Diversity in video games is extraordinarily important \\- especially to the people who play them. Explore the story of the queer gaming community, 'gaymer' culture and events, and the rise of LGBTQ themes in video games.",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-12-gaming-and-community-youtube-how-different-countries-change-videogames",
+    "moduleSlug": "week-12-gaming-and-community",
+    "moduleWeek": 12,
+    "title": "How Different Countries Change Videogames",
+    "url": "https://www.youtube.com/watch?v=vVIROLHauNk&ab_channel=St1ka",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-12-gaming-and-community-youtube-i-visited-every-us-state-in-video-games-thi",
+    "moduleSlug": "week-12-gaming-and-community",
+    "moduleWeek": 12,
+    "title": "I Visited Every U.S State (in video games) \\- this bookmark is for Maine",
+    "url": "https://youtu.be/O5b0KIjRiF4?si=_GmD5LQk6UvtUHuG&t=6663",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "I Visited Every U.S State (in video games) \\- this bookmark is for Maine \\- this bookmark is for Maine (the Silent Hill games are set in Maine and there is a Fallout 4 DLC set in Maine as well)",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-12-gaming-and-community-article-lets-game-it:-dangerous-games-a-new-health-",
+    "moduleSlug": "week-12-gaming-and-community",
+    "moduleWeek": 12,
+    "title": "Let’s “game” it!: Dangerous games, a new health challenge",
+    "url": "https://maine.primo.exlibrisgroup.com/permalink/01MAINE_INST/1oa9cn5/cdi_proquest_miscellaneous_3151584943",
+    "type": "Article",
+    "duration": "",
+    "notes": "Let’s “game” it!: Dangerous games, a new health challenge (not directly about video games, but about peer pressure)",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-12-gaming-and-community-youtube-romchip-presents:-carly-a-kocurek-on-dolly-",
+    "moduleSlug": "week-12-gaming-and-community",
+    "moduleWeek": 12,
+    "title": "ROMchip Presents: Carly A. Kocurek on Dolly Ludens: American Girl Dolls Playing Games",
+    "url": "https://www.youtube.com/watch?v=MD6pb-DcsMY",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-12-gaming-and-community-the-troll-projecthttps-thetrollprojectcom",
+    "moduleSlug": "week-12-gaming-and-community",
+    "moduleWeek": 12,
+    "title": "//thetrollproject.com/)",
+    "url": null,
+    "type": "[The Troll Project](https",
+    "duration": "",
+    "notes": "[The Troll Project",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-12-gaming-and-community-healthy-gamerhttps-wwwhealthygamergg",
+    "moduleSlug": "week-12-gaming-and-community",
+    "moduleWeek": 12,
+    "title": "//www.healthygamer.gg/)",
+    "url": null,
+    "type": "[Healthy Gamer](https",
+    "duration": "",
+    "notes": "[Healthy Gamer",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-13-immersive-gaming-and-ai-articleaudio-video-game-performers-are-on-strike",
+    "moduleSlug": "week-13-immersive-gaming-and-ai",
+    "moduleWeek": 13,
+    "title": "Video game performers are on strike — and AI is the sticking point",
+    "url": "https://www.npr.org/2024/08/02/1198912993/video-games-ai-artificial-intelligence-warner-bros-strike",
+    "type": "Article/audio",
+    "duration": "~12 min",
+    "notes": "",
+    "learningOutcomes": [
+      2,
+      4,
+      5,
+      8
+    ],
+    "required": true
+  },
+  {
+    "id": "week-13-immersive-gaming-and-ai-article-sag-aftra-receives-bipartisan-congressio",
+    "moduleSlug": "week-13-immersive-gaming-and-ai",
+    "moduleWeek": 13,
+    "title": "SAG-AFTRA receives bipartisan congressional support for anti-deepfake and AI act",
+    "url": "https://www.gamedeveloper.com/business/sag-aftra-receives-congress-bipartisan-support-for-anti-deepfake-and-ai-act?sp_aid=129083&elq_cid=48662221&sp_eh=2efa3328470884738b2637e8dfca828ba32f7293f0eeeaa2da563c02bcf10afa&sp_eh=2efa3328470884738b2637e8dfca828ba32f7293f0eeeaa2da563c02bcf10afa&utm_source=eloqua&utm_medium=email&utm_campaign=Gama_NL_Game%20Developer%20Daily_04.10.25&sp_cid=57510&utm_content=Gama_NL_Game%20Developer%20Daily_04.10.25",
+    "type": "Article",
+    "duration": "~3 min",
+    "notes": "",
+    "learningOutcomes": [
+      2,
+      4,
+      5,
+      8
+    ],
+    "required": true
+  },
+  {
+    "id": "week-13-immersive-gaming-and-ai-article-report:-candy-crush-maker-king-is-allege",
+    "moduleSlug": "week-13-immersive-gaming-and-ai",
+    "moduleWeek": 13,
+    "title": "Report: Candy Crush maker King is allegedly replacing laid off employees with AI tools",
+    "url": "https://www.gamedeveloper.com/business/report-candy-crush-maker-king-is-allegedly-replacing-employees-with-internal-ai-tools?_mc=Gama_NL18072025&cid=Gama_NL18072025&sp_aid=130745&elq_cid=48662221&sp_eh=2efa3328470884738b2637e8dfca828ba32f7293f0eeeaa2da563c02bcf10afa&sp_eh=2efa3328470884738b2637e8dfca828ba32f7293f0eeeaa2da563c02bcf10afa&utm_source=eloqua&utm_medium=email&utm_campaign=Gama_NL_Game%20Developer%20Daily_07.18.25&sp_cid=58704&utm_content=Gama_NL_Game%20Developer%20Daily_07.18.25",
+    "type": "Article",
+    "duration": "~3 min",
+    "notes": "",
+    "learningOutcomes": [
+      4,
+      5,
+      8
+    ],
+    "required": true
+  },
+  {
+    "id": "week-13-immersive-gaming-and-ai-blog-post-with-2-youtube-videos-history-of-ai-in",
+    "moduleSlug": "week-13-immersive-gaming-and-ai",
+    "moduleWeek": 13,
+    "title": "History of AI in Games – Video Game – F.E.A.R",
+    "url": "https://modl.ai/fear/",
+    "type": "Blog Post with 2 YouTube videos",
+    "duration": "~25 min",
+    "notes": "",
+    "learningOutcomes": [
+      5
+    ],
+    "required": true
+  },
+  {
+    "id": "week-13-immersive-gaming-and-ai-youtube-the-darth-vader-fortnite-ai-disaster",
+    "moduleSlug": "week-13-immersive-gaming-and-ai",
+    "moduleWeek": 13,
+    "title": "The Darth Vader Fortnite AI DISASTER",
+    "url": "https://www.youtube.com/watch?v=Gfcpb-sKvUg",
+    "type": "YouTube",
+    "duration": "~12 min",
+    "notes": "",
+    "learningOutcomes": [
+      4,
+      5,
+      8
+    ],
+    "required": true
+  },
+  {
+    "id": "week-13-immersive-gaming-and-ai-ted-talk-vr-and-ai-in-education:-the-future-of-l",
+    "moduleSlug": "week-13-immersive-gaming-and-ai",
+    "moduleWeek": 13,
+    "title": "VR and AI in Education: The Future of Learning",
+    "url": "https://www.youtube.com/watch?v=XGkWh4v1hCE&ab_channel=TEDxTalks",
+    "type": "TED Talk",
+    "duration": "~13 min",
+    "notes": "",
+    "learningOutcomes": [
+      3,
+      5,
+      8
+    ],
+    "required": true
+  },
+  {
+    "id": "week-13-immersive-gaming-and-ai-ted-talk-philip-rosedale:-second-life-where-anyt",
+    "moduleSlug": "week-13-immersive-gaming-and-ai",
+    "moduleWeek": 13,
+    "title": "Philip Rosedale: Second Life, where anything is possible",
+    "url": "https://www.youtube.com/watch?v=lHXXsEtE3b4",
+    "type": "TED Talk",
+    "duration": "~29 min",
+    "notes": "",
+    "learningOutcomes": [
+      2,
+      5,
+      6,
+      8
+    ],
+    "required": true
+  },
+  {
+    "id": "week-13-immersive-gaming-and-ai-ted-talk-how-immersive-technologies-arvr-will-sh",
+    "moduleSlug": "week-13-immersive-gaming-and-ai",
+    "moduleWeek": 13,
+    "title": "How immersive technologies (AR/VR) will shape our future",
+    "url": "https://www.youtube.com/watch?v=QcANba_1xg8&ab_channel=TEDxTalks",
+    "type": "TED Talk",
+    "duration": "~13 min",
+    "notes": "How immersive technologies (AR/VR) will shape our future will shape our future",
+    "learningOutcomes": [
+      3,
+      5,
+      8
+    ],
+    "required": true
+  },
+  {
+    "id": "week-13-immersive-gaming-and-ai-podcastyoutube-immersive-gaming-imp-and-skizz-po",
+    "moduleSlug": "week-13-immersive-gaming-and-ai",
+    "moduleWeek": 13,
+    "title": "Immersive Gaming! | Imp And Skizz Podcast (Ep82)",
+    "url": "https://www.youtube.com/watch?v=KEuuscx1VTY&ab_channel=ImpAndSkizzPodcast",
+    "type": "Podcast/YouTube",
+    "duration": "4 min \\- 55 min",
+    "notes": "Immersive Gaming! | Imp And Skizz Podcast (Ep82), especially the first 4 minutes (refers to [Skizzleman Decked Out stream)",
+    "learningOutcomes": [
+      1,
+      5,
+      8
+    ],
+    "required": true
+  },
+  {
+    "id": "week-13-immersive-gaming-and-ai-podcast-clip-a-gamer-looks-at-40-ep-117:-side-qu",
+    "moduleSlug": "week-13-immersive-gaming-and-ai",
+    "moduleWeek": 13,
+    "title": "A Gamer Looks At 40 Ep 117: Side Quests Vol 9",
+    "url": "https://www.buzzsprout.com/1426576/episodes/15949708?t=80",
+    "type": "Podcast clip",
+    "duration": "~6 min",
+    "notes": "A Gamer Looks At 40 Ep 117: Side Quests Vol 9 from 1:20 to 7:20",
+    "learningOutcomes": [
+      1,
+      4,
+      5,
+      8
+    ],
+    "required": true
+  },
+  {
+    "id": "week-13-immersive-gaming-and-ai-youtube-interactivity-in-immersive-spaces-:-an-a",
+    "moduleSlug": "week-13-immersive-gaming-and-ai",
+    "moduleWeek": 13,
+    "title": "Interactivity in immersive spaces : an art & tech journey",
+    "url": "https://www.youtube.com/watch?v=a65TW9toG-E&ab_channel=Augmenta",
+    "type": "YouTube",
+    "duration": "~33 min",
+    "notes": "",
+    "learningOutcomes": [
+      3,
+      5,
+      6,
+      8
+    ],
+    "required": true
+  },
+  {
+    "id": "week-13-immersive-gaming-and-ai-book-ready-player-one",
+    "moduleSlug": "week-13-immersive-gaming-and-ai",
+    "moduleWeek": 13,
+    "title": "Ready Player One",
+    "url": "https://maine.primo.exlibrisgroup.com/permalink/01MAINE_INST/2sp9f6/alma991008066629708681",
+    "type": "Book",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-13-immersive-gaming-and-ai-movie-ready-player-one",
+    "moduleSlug": "week-13-immersive-gaming-and-ai",
+    "moduleWeek": 13,
+    "title": "Ready Player One",
+    "url": "https://maine.primo.exlibrisgroup.com/permalink/01MAINE_INST/2sp9f6/alma991023937949708681",
+    "type": "Movie",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-13-immersive-gaming-and-ai-academic-paper-three-states-and-a-plan:-the-ai-o",
+    "moduleSlug": "week-13-immersive-gaming-and-ai",
+    "moduleWeek": 13,
+    "title": "*Three States and a Plan: The A.I. of F.E.A.R.* by Jeff Orkin",
+    "url": "https://www.gamedevs.org/uploads/three-states-plan-ai-of-fear.pdf",
+    "type": "Academic Paper",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-13-immersive-gaming-and-ai-blog-post-best-ai-in-video-games-review",
+    "moduleSlug": "week-13-immersive-gaming-and-ai",
+    "moduleWeek": 13,
+    "title": "Best AI in Video Games Review",
+    "url": "https://vanceai.com/posts/best-ai-in-video-games-review/",
+    "type": "Blog Post",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-13-immersive-gaming-and-ai-youtube-talking-to-smart-ai-npcs-in-unreal-engin",
+    "moduleSlug": "week-13-immersive-gaming-and-ai",
+    "moduleWeek": 13,
+    "title": "Talking to Smart AI NPCs in Unreal Engine 5 (The Future of Gaming & Artificial Intelligence)",
+    "url": "https://www.youtube.com/watch?v=4sCWf2VGdfc&ab_channel=TmarTn2",
+    "type": "YouTube",
+    "duration": "10 min",
+    "notes": "",
+    "learningOutcomes": [
+      5,
+      8
+    ],
+    "required": false
+  },
+  {
+    "id": "week-13-immersive-gaming-and-ai-youtube-igloo-vision-demos-igloo-vision-immersiv",
+    "moduleSlug": "week-13-immersive-gaming-and-ai",
+    "moduleWeek": 13,
+    "title": "Igloo Vision Demos Igloo Vision Immersive Space for Education and Enterprise",
+    "url": "https://www.youtube.com/watch?v=-JaXgEEiLbo",
+    "type": "YouTube",
+    "duration": "3 min",
+    "notes": "",
+    "learningOutcomes": [
+      3,
+      5,
+      6,
+      8
+    ],
+    "required": false
+  },
+  {
+    "id": "week-13-immersive-gaming-and-ai-youtube-circle-of-life-breathtaking-immersive-ex",
+    "moduleSlug": "week-13-immersive-gaming-and-ai",
+    "moduleWeek": 13,
+    "title": "Circle of Life / Breathtaking Immersive Experience of Nature and Light",
+    "url": "https://www.youtube.com/watch?v=Q3iIOpijMV4&ab_channel=Limelight",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-13-immersive-gaming-and-ai-youtube-crafting-immersive-spaces-with-virtual-t",
+    "moduleSlug": "week-13-immersive-gaming-and-ai",
+    "moduleWeek": 13,
+    "title": "Crafting immersive spaces with virtual tracking systems | Naostage booth showcase | ISE 2024",
+    "url": "https://www.youtube.com/watch?v=YBdVPidzlLQ&ab_channel=Inavate",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-13-immersive-gaming-and-ai-youtube-i-tried-real-augmented-reality-glasses",
+    "moduleSlug": "week-13-immersive-gaming-and-ai",
+    "moduleWeek": 13,
+    "title": "I Tried Real Augmented Reality Glasses!",
+    "url": "https://www.youtube.com/watch?v=G0eKzU_fV00&ab_channel=MarquesBrownlee",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-13-immersive-gaming-and-ai-youtube-second-life-community-roundtable-with-ph",
+    "moduleSlug": "week-13-immersive-gaming-and-ai",
+    "moduleWeek": 13,
+    "title": "Second Life Community Roundtable with Philip Rosedale Replay",
+    "url": "https://www.youtube.com/watch?v=1w9al7GcjV8",
+    "type": "YouTube",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-13-immersive-gaming-and-ai-ted-talk-how-augmented-reality-will-change-sport",
+    "moduleSlug": "week-13-immersive-gaming-and-ai",
+    "moduleWeek": 13,
+    "title": "How augmented reality will change sports ... and build empathy",
+    "url": "https://www.youtube.com/watch?v=AgMOJC5R4F8",
+    "type": "TED Talk",
+    "duration": "10 min",
+    "notes": "",
+    "learningOutcomes": [
+      3,
+      5,
+      8
+    ],
+    "required": false
+  },
+  {
+    "id": "week-13-immersive-gaming-and-ai-ted-talk-the-vr-dilemma:-how-ar-and-vr-redefine-",
+    "moduleSlug": "week-13-immersive-gaming-and-ai",
+    "moduleWeek": 13,
+    "title": "The VR Dilemma: How AR and VR redefine our reality",
+    "url": "https://www.youtube.com/watch?v=zOBiZrTomso&ab_channel=TEDxTalks",
+    "type": "TED Talk",
+    "duration": "14 min",
+    "notes": "",
+    "learningOutcomes": [
+      3,
+      5,
+      8
+    ],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-youtube-game-changers:-the-evolution-and-impact-of-video-games",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "Game Changers: The Evolution and Impact of Video Games",
+    "url": "https://www.youtube.com/watch?v=2JIf1AuyYvw",
+    "type": "YouTube",
+    "duration": "50 min",
+    "notes": "",
+    "learningOutcomes": [
+      1,
+      2,
+      5,
+      8
+    ],
+    "required": true
+  },
+  {
+    "id": "week-14-wrap-up-article-what-does-the-future-of-gaming-look-like",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "What Does the Future of Gaming Look Like?",
+    "url": "https://builtin.com/articles/future-of-gaming",
+    "type": "Article",
+    "duration": "14 min",
+    "notes": "",
+    "learningOutcomes": [
+      5,
+      8
+    ],
+    "required": true
+  },
+  {
+    "id": "week-14-wrap-up-audiosummary-organized-labor-could-level-up-the-video-game-indus",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "Organized labor could level up the video game industry",
+    "url": "https://wdet.org/2024/10/28/organized-labor-could-level-up-the-video-game-industry/",
+    "type": "Audio/summary",
+    "duration": "51 min",
+    "notes": "",
+    "learningOutcomes": [
+      1,
+      2,
+      4,
+      8
+    ],
+    "required": true
+  },
+  {
+    "id": "week-14-wrap-up-ted-talk-how-gaming-can-be-a-force-for-good",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "How gaming can be a force for good",
+    "url": "https://www.youtube.com/watch?v=XdqV66m7Los",
+    "type": "TED Talk",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-ted-talk-will-videogames-become-better-than-life",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "Will videogames become better than life?",
+    "url": "https://www.youtube.com/watch?v=mfv_hOFT1S4",
+    "type": "TED Talk",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-2025-gdc-state-of-the-game-industry-panelhttps-gdcvaultcomplay10",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "//gdcvault.com/play/1034964/2025-GDC-State-of-the?_mc=em_gdcsf_x_le_x_07monthly_x_2025&sp_aid=130571&elq_cid=48662221&sp_eh=2efa3328470884738b2637e8dfca828ba32f7293f0eeeaa2da563c02bcf10afa&sp_eh=2efa3328470884738b2637e8dfca828ba32f7293f0eeeaa2da563c02bcf10afa&utm_source=eloqua&utm_medium=email&utm_campaign=13_NL_GDCNL25_Batch7_A_EDNLSUB_SUBS_7132329447_July_20250731&sp_cid=58845&utm_content=13_NL_GDCNL25_Batch7_A_EDNLSUB_SUBS_7132329447_July_20250731)",
+    "url": null,
+    "type": "[2025 GDC State of the Game Industry Panel](https",
+    "duration": "64 min",
+    "notes": "[2025 GDC State of the Game Industry Panel",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-a-brief-introduction-to-the-individual-and-their-background",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "A brief introduction to the individual and their background.",
+    "url": null,
+    "type": "",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-key-contributions-to-the-video-game-industry-major-works-innovat",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "Key contributions to the video game industry (major works, innovations, or influence).",
+    "url": null,
+    "type": "",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-personal-insights-explaining-why-you-selected-this-figure",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "Personal insights explaining why you selected this figure.",
+    "url": null,
+    "type": "",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-any-additional-interesting-facts-or-stories-about-their-career-o",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "Any additional interesting facts or stories about their career or legacy.",
+    "url": null,
+    "type": "",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-length-written-profiles-should-be-500-750-words-alternatively-yo",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "Written profiles should be 500-750 words. Alternatively, you can create a **multimedia presentation** (video, PowerPoint, etc.) that lasts 5-7.5 minutes.",
+    "url": null,
+    "type": "**Length**",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-citations-any-sources-used-should-be-cited-in-some-format-especi",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "** Any sources used should be cited in some format (especially for quotes or lesser-known facts).",
+    "url": null,
+    "type": "**Citations",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-submission-each-student-needs-to-submit-one-profile-during-the-c",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "Each student needs to submit one profile during the course at the time of the student’s choice. Profiles will be posted to a discussion forum when ready.",
+    "url": null,
+    "type": "**Submission**",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-engagement-students-are-expected-to-actively-engage-by-reading-a",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "Students are expected to actively engage by reading and responding to profiles. Share your thoughts and ask questions. Thoughtful engagement will contribute to your participation grade.",
+    "url": null,
+    "type": "**Engagement**",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-length-written-analyses-should-be-500-750-words-alternatively-yo",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "Written analyses should be 500-750 words. Alternatively, you can create a **multimedia presentation** (video, PowerPoint, etc.) that lasts 5-7.5 minutes.",
+    "url": null,
+    "type": "**Length**",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-submission-post-your-analysis-in-the-class-discussion-forum-by-t",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "Post your analysis in the class discussion forum by the assigned date.",
+    "url": null,
+    "type": "**Submission**",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-engagement-students-who-are-not-assigned-to-submit-a-review-for-",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "Students who are not assigned to submit a review for the week are expected to actively engage by reading and responding to at least two peer reviews. Share your thoughts, ask questions, or discuss the game’s relevance in different contexts. Thoughtful engagement will contribute to your participation grade.",
+    "url": null,
+    "type": "**Engagement**",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-you-might-find-that-a-game-like-minecraft-is-popular-with-younge",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "You might find that a game like *Minecraft* is popular with younger children (ages 7-12) but is actually recommended for older ages due to online interactions or complex gameplay elements. Research how experts suggest parents monitor these interactions or encourage creative building strategies.",
+    "url": null,
+    "type": "",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-another-example-could-be-fortnite-which-may-have-wide-appeal-wit",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "Another example could be *Fortnite*, which may have wide appeal with kids aged 10-15, yet parents and experts express concerns about in-game purchases and exposure to violence.",
+    "url": null,
+    "type": "",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-length-written-submissions-should-be-300-500-words-alternatively",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "Written submissions should be 300-500 words. Alternatively, you can create a **multimedia presentation** (video, PowerPoint, etc.) that lasts 3-5 minutes.",
+    "url": null,
+    "type": "**Length**",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-citations-while-this-is-primarily-focused-on-personal-reflection",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "** While this is primarily focused on personal reflection, any sources used should be cited in some format (especially for quotes or lesser-known facts).",
+    "url": null,
+    "type": "**Citations",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-submission-these-journals-will-be-submitted-directly-to-the-inst",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "These journals will be submitted directly to the instructor and will not be shared with the class. However, content from journals may be used anonymously in class discussions or materials to enrich learning.",
+    "url": null,
+    "type": "**Submission**",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-historical-eventsperiods-examine-which-real-world-historical-eve",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "** Examine which real-world historical events, periods, or figures influenced the game's setting, plot, or characters. For example, how *Assassin's Creed* draws from specific historical periods.",
+    "url": null,
+    "type": "**Historical Events/Periods",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-accuracy-of-depiction-discuss-the-accuracy-of-these-depictions-w",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "** Discuss the accuracy of these depictions. What does the game get right about the period, and where does it deviate from historical reality? Why might the developers have chosen to alter history, and what effect does this have on player perception?",
+    "url": null,
+    "type": "**Accuracy of Depiction",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-cultural-representation-how-are-different-cultures-represented-w",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "** How are different cultures represented within the game? Are these representations respectful, stereotypical, or otherwise notable?",
+    "url": null,
+    "type": "**Cultural Representation",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-genre-evolution-how-did-the-game-influence-or-advance-its-specif",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "** How did the game influence or advance its specific genre? For instance, how *The Legend of Zelda* series pushed the boundaries of open-world exploration or how *Doom* established first-person shooters.",
+    "url": null,
+    "type": "**Genre Evolution",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-technological-innovations-what-innovations-in-technology-graphic",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "** What innovations in technology, graphics, or gameplay mechanics did this game introduce? How did these shape future games?",
+    "url": null,
+    "type": "**Technological Innovations",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-monetary-and-critical-success-analyze-the-games-commercial-succe",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "** Analyze the game's commercial success, critical reception, and any awards won. How did this success influence the development or marketing of future titles within or outside the same franchise?",
+    "url": null,
+    "type": "**Monetary and Critical Success",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-audience-reception-and-social-discourse-investigate-how-the-game",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "** Investigate how the game was received by its audience upon release. Did it spark any notable discussions or controversies related to themes like violence, gender, race, or other social issues? What long-term effects, if any, did it have on public discourse around gaming or social norms?",
+    "url": null,
+    "type": "**Audience Reception and Social Discourse",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-ethical-considerations-were-there-any-ethical-dilemmas-tied-to-t",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "** Were there any ethical dilemmas tied to the game's content? Think of games like *Grand Theft Auto* and its controversies surrounding violence and crime, or *Call of Duty* for its portrayal of modern warfare. How does the game handle moral ambiguity, player choices, or consequences?",
+    "url": null,
+    "type": "**Ethical Considerations",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-cultural-longevity-how-has-the-game-or-its-themes-remained-cultu",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "** How has the game or its themes remained culturally relevant since its release? Are there communities, modders, or fans who continue to engage with the game in ways that keep it alive long after its original release?",
+    "url": null,
+    "type": "**Cultural Longevity",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-game-engines-and-development-tools-how-did-new-game-engines-or-d",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "** How did new game engines or development tools enable the creation of this game? For instance, how *Unreal Engine* has shaped many modern games. What breakthroughs in AI, physics engines, or user interface design were critical for the game's development?",
+    "url": null,
+    "type": "**Game Engines and Development Tools",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-player-interaction-and-engagement-examine-any-new-design-concept",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "** Examine any new design concepts the game introduced in terms of player interaction, narrative structure, or world-building. Did it use new ways of engaging players, such as branching narratives, sandbox design, or multiplayer elements that were innovative for its time?",
+    "url": null,
+    "type": "**Player Interaction and Engagement",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-historical-evolution-compare-the-chosen-game-to-similar-titles-r",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "** Compare the chosen game to similar titles released before and after. How did earlier games influence its design? In what ways did this game innovate within its genre, and how did later games draw from it?",
+    "url": null,
+    "type": "**Historical Evolution",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-cultural-and-industry-shifts-reflect-on-how-shifts-in-gaming-cul",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "** Reflect on how shifts in gaming culture or industry practices, such as the rise of indie games, microtransactions, or eSports, may have influenced the game or been influenced by it. Compare how these aspects are handled in older vs. newer games in the same genre.",
+    "url": null,
+    "type": "**Cultural and Industry Shifts",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-player-experience-reflect-on-your-own-experience-with-the-game-h",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "** Reflect on your own experience with the game. How did the game's historical and cultural elements affect your engagement? Did the game succeed in conveying its message or theme to you as a player? Why or why not?",
+    "url": null,
+    "type": "**Player Experience",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-critique-offer-a-critical-analysis-of-the-games-strengths-and-we",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "** Offer a critical analysis of the game's strengths and weaknesses in the areas you’ve discussed. Could the game have approached certain themes differently? How would you improve or change aspects of the game, from a historical or cultural perspective?",
+    "url": null,
+    "type": "**Critique",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-length-written-submissions-should-be-at-least-1500-words-this-ma",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "Written submissions should be **at least 1,500 words**. This may be adjusted depending on the complexity/length of any non-written portion of your submission. If you are including a significant non-written component(s), please discuss length requirements with the instructor.",
+    "url": null,
+    "type": "**Length**",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-citations-any-sources-used-should-be-cited-in-some-format-mlaapa",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "** Any sources used should be cited in some format (MLA/APA/Chicago/other).",
+    "url": null,
+    "type": "**Citations",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  },
+  {
+    "id": "week-14-wrap-up-submission-this-will-be-submitted-directly-to-the-instructor-who",
+    "moduleSlug": "week-14-wrap-up",
+    "moduleWeek": 14,
+    "title": "This will be submitted directly to the instructor, who will share with the class once all have been submitted.",
+    "url": null,
+    "type": "**Submission**",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [],
+    "required": false
+  }
+]

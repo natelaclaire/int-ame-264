@@ -1,0 +1,100 @@
+[
+  {
+    "week": 1,
+    "title": "Introduction: Your Video Game Story",
+    "slug": "week-1-introduction:-your-video-game-story",
+    "topic": "Share personal gaming experiences.",
+    "overview": ""
+  },
+  {
+    "week": 2,
+    "title": "Arcade and Location-Based Games",
+    "slug": "week-2-arcade-and-location-based-games",
+    "topic": "A look at the rise of arcades and public gaming culture.",
+    "overview": ""
+  },
+  {
+    "week": 3,
+    "title": "Gaming Consoles and PC Gaming",
+    "slug": "week-3-gaming-consoles-and-pc-gaming",
+    "topic": "Exploration of early consoles and the growth of PC gaming and shareware.",
+    "overview": ""
+  },
+  {
+    "week": 4,
+    "title": "Portable Gaming",
+    "slug": "week-4-portable-gaming",
+    "topic": "",
+    "overview": ""
+  },
+  {
+    "week": 5,
+    "title": "Gender and Minority Representation",
+    "slug": "week-5-gender-and-minority-representation",
+    "topic": "",
+    "overview": ""
+  },
+  {
+    "week": 6,
+    "title": "Civic Engagement in Video Games / War and Violence in Video Games",
+    "slug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "topic": "",
+    "overview": ""
+  },
+  {
+    "week": 7,
+    "title": "Gaming and Medicine",
+    "slug": "week-7-gaming-and-medicine",
+    "topic": "The use of gaming in medical therapy and mental health.",
+    "overview": ""
+  },
+  {
+    "week": 8,
+    "title": "Edutainment",
+    "slug": "week-8-edutainment",
+    "topic": "The intersection of education and gaming.",
+    "overview": ""
+  },
+  {
+    "week": 9,
+    "title": "Indie Games",
+    "slug": "week-9-indie-games",
+    "topic": "The rise of indie games and the shift toward player-driven development.",
+    "overview": ""
+  },
+  {
+    "week": 10,
+    "title": "Modding and Community-Run/Private Servers",
+    "slug": "week-10-modding-and-community-runprivate-servers",
+    "topic": "Exploring fan-driven content and private servers.",
+    "overview": ""
+  },
+  {
+    "week": 11,
+    "title": "Competitive and Multiplayer Gaming",
+    "slug": "week-11-competitive-and-multiplayer-gaming",
+    "topic": "The rise of competitive gaming and multiplayer communities as well as exploring streaming culture and video content creation.",
+    "overview": ""
+  },
+  {
+    "week": 12,
+    "title": "Gaming and Community",
+    "slug": "week-12-gaming-and-community",
+    "topic": "How gaming brings us together / divides us.",
+    "overview": ""
+  },
+  {
+    "week": 13,
+    "title": "Immersive Gaming and AI",
+    "slug": "week-13-immersive-gaming-and-ai",
+    "topic": "The role of VR, AR, and AI in creating lifelike environments.",
+    "overview": ""
+  },
+  {
+    "week": 14,
+    "title": "Wrap-Up",
+    "slug": "week-14-wrap-up",
+    "topic": "So What? What Now?",
+    "overview": ""
+  }
+]
