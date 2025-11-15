@@ -26,5 +26,4 @@ export default defineConfig({
       }
     }
   ],
-  base: '/int-ame-264/',
 });

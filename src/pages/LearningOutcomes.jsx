@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 export default function LearningOutcomes() {
   const [outcomes, setOutcomes] = useState([])
   useEffect(() => {
-    fetch(`${import.meta.env.BASE_URL}data/learningOutcomes.json`).then(r => r.json()).then(setOutcomes)
+    fetch('/data/learningOutcomes.json').then(r => r.json()).then(setOutcomes)
   }, [])
 
   return (

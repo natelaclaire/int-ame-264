@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 export default function Modules() {
   const [modules, setModules] = useState([])
   useEffect(() => {
-    fetch(`${import.meta.env.BASE_URL}data/modules.json`).then(r => r.json()).then(setModules)
+    fetch('/data/modules.json').then(r => r.json()).then(setModules)
   }, [])
 
   return (

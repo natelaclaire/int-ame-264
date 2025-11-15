@@ -10,8 +10,8 @@ export default function OutcomeResources() {
 
   useEffect(() => {
     Promise.all([
-      fetch(`${import.meta.env.BASE_URL}data/learningOutcomes.json`).then(r => r.json()),
-      fetch(`${import.meta.env.BASE_URL}data/resources.json`).then(r => r.json())
+      fetch('/data/learningOutcomes.json').then(r => r.json()),
+      fetch('/data/resources.json').then(r => r.json())
     ]).then(([los, res]) => {
       setOutcomes(los)
       setResources(res)

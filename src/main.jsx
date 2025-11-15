@@ -21,9 +21,7 @@ const router = createBrowserRouter([
       { path: 'modules/:slug', element: <Module /> }
     ]
   }
-], {
-  basename: '/int-ame-264'
-})
+])
 
 createRoot(document.getElementById('root')).render(
   <React.StrictMode>
