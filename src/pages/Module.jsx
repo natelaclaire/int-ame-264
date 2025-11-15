@@ -10,9 +10,9 @@ export default function Module() {
 
   useEffect(() => {
     Promise.all([
-      fetch('/data/modules.json').then(r => r.json()),
-      fetch('/data/resources.json').then(r => r.json()),
-      fetch('/data/learningOutcomes.json').then(r => r.json())
+      fetch(`${import.meta.env.BASE_URL}data/modules.json`).then(r => r.json()),
+      fetch(`${import.meta.env.BASE_URL}data/resources.json`).then(r => r.json()),
+      fetch(`${import.meta.env.BASE_URL}data/learningOutcomes.json`).then(r => r.json())
     ]).then(([mods, res, los]) => {
       setModules(mods)
       setResources(res)
