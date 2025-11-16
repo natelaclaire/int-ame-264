@@ -55,6 +55,10 @@ h1,h2,h3{ font-family: 'Press Start 2P', cursive; letter-spacing:0.5px; line-hei
 .badge.lo:hover{ background: rgba(247, 207, 0, 0.1); }
 .resource.required{ box-shadow: inset 0 0 0 1px rgba(0,255,156,0.15); }
 .resource.optional{ opacity: 0.95; }
+.badge.module{ border-color: rgba(255,255,255,0.25); color: var(--fg); }
+.badge.req{ border-color: rgba(255,255,255,0.25); }
+.badge.req.required{ border-color: var(--accent); color: var(--accent); }
+.badge.req.optional{ border-color: #888; color: #bbb; }
 .notes{ color: var(--muted); margin-top: 4px; }
 
 .tooltip{ position: relative; display:inline-block; padding: 2px 8px 2px 0; }

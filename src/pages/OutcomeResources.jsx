@@ -7,19 +7,23 @@ export default function OutcomeResources() {
   const loId = Number(id)
   const [outcomes, setOutcomes] = useState([])
   const [resources, setResources] = useState([])
+  const [modules, setModules] = useState([])
 
   useEffect(() => {
     Promise.all([
       fetch('/data/learningOutcomes.json').then(r => r.json()),
-      fetch('/data/resources.json').then(r => r.json())
-    ]).then(([los, res]) => {
+      fetch('/data/resources.json').then(r => r.json()),
+      fetch('/data/modules.json').then(r => r.json())
+    ]).then(([los, res, mods]) => {
       setOutcomes(los)
       setResources(res)
+      setModules(mods)
     })
   }, [])
 
   const loMap = useMemo(() => Object.fromEntries(outcomes.map(o => [o.id, o])), [outcomes])
   const filtered = useMemo(() => resources.filter(r => (r.learningOutcomes||[]).includes(loId)), [resources, loId])
+  const moduleMap = useMemo(() => Object.fromEntries(modules.map(m => [m.slug, m])), [modules])
   const lo = loMap[loId]
 
   return (
@@ -29,7 +33,7 @@ export default function OutcomeResources() {
       <p><Link to="/learning-outcomes">← Back to all outcomes</Link></p>
       <ul className="resources">
         {filtered.map(r => (
-          <ResourceItem key={r.id} resource={r} loMap={loMap} />
+          <ResourceItem key={r.id} resource={r} loMap={loMap} showModuleMeta moduleMap={moduleMap} />
         ))}
       </ul>
     </section>
