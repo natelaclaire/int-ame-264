@@ -41,7 +41,7 @@ export default function ResourceItem({ resource, loMap, showModuleMeta = false, 
         <div className="los">
           {learningOutcomes.map((id) => (
             <Tooltip key={id} label={loMap[id]?.outcome || loMap[id]?.title || ''}>
-              <Link to={`/outcomes/${id}`} className="badge lo">LO {id}</Link>
+              <Link to={`/learning-outcomes/${id}`} className="badge lo">LO {id}</Link>
             </Tooltip>
           ))}
         </div>

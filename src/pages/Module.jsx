@@ -32,7 +32,7 @@ export default function Module() {
     <section>
       <h1>Week {module.week}: {module.title}</h1>
       <p>{module.overview || <span className="muted">Overview coming soon.</span>}</p>
-      <p><Link to="/modules">← Back to all modules</Link></p>
+      <p><Link to="/modules" className="btn">← Back to all modules</Link></p>
 
       <h2>Required</h2>
       <ul className="resources">

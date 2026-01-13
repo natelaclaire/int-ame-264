@@ -30,7 +30,7 @@ export default function OutcomeResources() {
     <section>
       <h1>LO {loId}: {lo?.title || ''}</h1>
       {lo?.outcome && <p className="muted">{lo.outcome}</p>}
-      <p><Link to="/learning-outcomes">← Back to all outcomes</Link></p>
+      <p><Link to="/learning-outcomes" className="btn">← Back to all outcomes</Link></p>
       <ul className="resources">
         {filtered.map(r => (
           <ResourceItem key={r.id} resource={r} loMap={loMap} showModuleMeta moduleMap={moduleMap} />

@@ -13,7 +13,7 @@ export default function LearningOutcomes() {
       <ul className="lo-list">
         {outcomes.map(lo => (
           <li key={lo.id} className="lo-card">
-            <h3><Link to={`/outcomes/${lo.id}`}>LO {lo.id}: {lo.title}</Link></h3>
+            <h3><Link to={`/learning-outcomes/${lo.id}`}>LO {lo.id}: {lo.title}</Link></h3>
             {lo.outcome && <p>{lo.outcome}</p>}
           </li>
         ))}

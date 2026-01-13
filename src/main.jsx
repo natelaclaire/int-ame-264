@@ -16,7 +16,7 @@ const router = createBrowserRouter([
     children: [
       { index: true, element: <Home /> },
       { path: 'learning-outcomes', element: <LearningOutcomes /> },
-      { path: 'outcomes/:id', element: <OutcomeResources /> },
+      { path: 'learning-outcomes/:id', element: <OutcomeResources /> },
       { path: 'modules', element: <Modules /> },
       { path: 'modules/:slug', element: <Module /> }
     ]
