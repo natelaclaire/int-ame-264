@@ -7,7 +7,7 @@
     "url": "https://www.mainepublic.org/show/maine-calling/2024-12-02/video-games",
     "type": "Audio",
     "duration": "51 min",
-    "notes": "",
+    "notes": "A great overview of the cultural and historical role of video games.",
     "learningOutcomes": [
       2,
       3,
@@ -24,7 +24,7 @@
     "url": "https://www.youtube.com/watch?v=z7-BN0qdZDk&ab_channel=TheUpliftingGuy",
     "type": "YouTube",
     "duration": "91 min",
-    "notes": "",
+    "notes": "Covers the early history of video games. Some parts are dated, which could spark discussion throughout the course.",
     "learningOutcomes": [
       1
     ],
@@ -38,7 +38,7 @@
     "url": "https://www.visualcapitalist.com/50-years-gaming-history-revenue-stream/",
     "type": "Infographic and Article",
     "duration": "6 min",
-    "notes": "",
+    "notes": "A useful timeline that you might want to bookmark for reference.",
     "learningOutcomes": [
       1,
       4,
@@ -54,7 +54,7 @@
     "url": "https://www.youtube.com/watch?v=FBmybY8W8uU",
     "type": "YouTube",
     "duration": "",
-    "notes": "",
+    "notes": "Video from YouTube creator Sambucha that covers 100 years of video games. Casual, entertaining overview. Some overlaps with other materials.",
     "learningOutcomes": [],
     "required": false
   },
@@ -65,8 +65,8 @@
     "title": "The Definitive Guide to Video Game Genres and Game Types",
     "url": "https://codakid.com/video-game-genres/",
     "type": "Article",
-    "duration": "",
-    "notes": "",
+    "duration": "60 min",
+    "notes": "Helpful for distinguishing game genres. A bit long, so consider skimming or bookmarking and using as a reference.",
     "learningOutcomes": [],
     "required": false
   },
@@ -78,7 +78,7 @@
     "url": "https://youtu.be/WYPNjSoDrqw?si=TVzqzV7JnbDy_VUn",
     "type": "YouTube",
     "duration": "",
-    "notes": "",
+    "notes": "Not directly about games, but ties into my story. A short history of the BASIC programming language.",
     "learningOutcomes": [],
     "required": false
   },
@@ -90,7 +90,7 @@
     "url": "https://youtu.be/W8-54-9J9ns?si=GtVJ2EWE-1PZGWfg",
     "type": "YouTube",
     "duration": "",
-    "notes": "",
+    "notes": "Fun historical look at early predictions about graphics technology.",
     "learningOutcomes": [],
     "required": false
   },
