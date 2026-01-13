@@ -10,6 +10,10 @@ export default function OutcomeResources() {
   const [modules, setModules] = useState([])
 
   useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [id])
+
+  useEffect(() => {
     Promise.all([
       fetch('/data/learningOutcomes.json').then(r => r.json()),
       fetch('/data/resources.json').then(r => r.json()),
