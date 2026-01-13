@@ -31,7 +31,6 @@ export default function Module() {
   return (
     <section>
       <h1>Week {module.week}: {module.title}</h1>
-      {module.topic && <p><strong>Topic:</strong> {module.topic}</p>}
       <p>{module.overview || <span className="muted">Overview coming soon.</span>}</p>
       <p><Link to="/modules">← Back to all modules</Link></p>
 

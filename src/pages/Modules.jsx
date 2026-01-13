@@ -16,7 +16,6 @@ export default function Modules() {
             <h3>
               <Link to={`/modules/${m.slug}`}>Week {m.week}: {m.title}</Link>
             </h3>
-            {m.topic && <p><strong>Topic:</strong> {m.topic}</p>}
             {m.overview ? <p>{m.overview}</p> : <p className="muted">Overview coming soon.</p>}
           </li>
         ))}
