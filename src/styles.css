@@ -83,6 +83,7 @@ h1,h2,h3{ font-family: 'Press Start 2P', cursive; letter-spacing:0.5px; line-hei
 .markdown-content pre code{ background: none; color: var(--fg); padding: 0; }
 .markdown-content a{ color: var(--accent2); text-decoration: underline; }
 .markdown-content a:hover{ color: var(--accent); }
+.markdown-content hr{ border: none; border-top: 1px solid rgba(255,255,255,0.15); margin: 24px 0; }
 
 @media (max-width: 640px){
   .navbar nav{ gap:10px; }

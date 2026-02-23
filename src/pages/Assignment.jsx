@@ -85,6 +85,9 @@ export default function Assignment() {
     html = html.replace(/^## (.*?)$/gm, '<h2>$1</h2>')
     html = html.replace(/^# (.*?)$/gm, '<h1>$1</h1>')
 
+    // Horizontal rules
+    html = html.replace(/^-{3,}$/gm, '<hr>')
+
     // Bold and italic
     html = html.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
     html = html.replace(/\*(.*?)\*/g, '<em>$1</em>')
@@ -96,7 +99,7 @@ export default function Assignment() {
 
     // Lists
     html = html.replace(/^\* (.*?)$/gm, '<li>$1</li>')
-    html = html.replace(/(<li>.*?<\/li>)/s, '<ul>$1</ul>')
+    html = html.replace(/(<li>.*?<\/li>)(\n<li>.*?<\/li>)*/g, '<ul>$&</ul>')
 
     // Line breaks and paragraphs
     html = html.replace(/\n\n+/g, '</p><p>')
