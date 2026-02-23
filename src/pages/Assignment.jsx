@@ -117,6 +117,11 @@ export default function Assignment() {
     return html
   }
 
+  const tabs = assignment ? [
+    { slug: null, title: 'Assignment' },
+    ...(assignment.supplemental || [])
+  ] : []
+
   return (
     <section>
       <Link to="/assignments" className="btn">← Back to assignments</Link>
@@ -124,21 +129,19 @@ export default function Assignment() {
       <h1>{assignment.title}</h1>
       {assignment.description && <p className="subtitle">{assignment.description}</p>}
 
-      {assignment.supplemental && assignment.supplemental.length > 0 && (
-        <div className="supplemental-nav">
-          <p><strong>Supplemental Materials:</strong></p>
-          <ul className="supplemental-links">
-            {assignment.supplemental.map(supp => (
-              <li key={supp.slug}>
-                <Link 
-                  to={`/assignments/${assignment.slug}/${supp.slug}`}
-                  className={supplemental === supp.slug ? 'active' : ''}
-                >
-                  {supp.title}
-                </Link>
-              </li>
+      {tabs.length > 1 && (
+        <div className="tabs">
+          <div className="tab-buttons">
+            {tabs.map(tab => (
+              <Link
+                key={tab.slug || 'assignment'}
+                to={tab.slug ? `/assignments/${assignment.slug}/${tab.slug}` : `/assignments/${assignment.slug}`}
+                className={`tab-button ${!supplemental && !tab.slug || supplemental === tab.slug ? 'active' : ''}`}
+              >
+                {tab.title}
+              </Link>
             ))}
-          </ul>
+          </div>
         </div>
       )}
 
