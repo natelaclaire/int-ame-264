@@ -1,0 +1,31 @@
+[
+  {
+    "id": "group-book-review",
+    "title": "Group Book Review",
+    "description": "Exploring the Video Game Industry Through Literature",
+    "slug": "group-book-review",
+    "markdown": "group-book-review.md",
+    "supplemental": [
+      {
+        "title": "Book List",
+        "slug": "book-list",
+        "markdown": "group-book-review-book-list.md"
+      },
+      {
+        "title": "Contract",
+        "slug": "contract",
+        "markdown": "group-book-review-contract.md"
+      },
+      {
+        "title": "Rubric",
+        "slug": "rubric",
+        "markdown": "group-book-review-rubric.md"
+      },
+      {
+        "title": "AI Use Statement",
+        "slug": "ai-use-statement",
+        "markdown": "group-book-review-ai-use-statement.md"
+      }
+    ]
+  }
+]

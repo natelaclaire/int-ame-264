@@ -7,6 +7,8 @@ import LearningOutcomes from './pages/LearningOutcomes'
 import OutcomeResources from './pages/OutcomeResources'
 import Modules from './pages/Modules'
 import Module from './pages/Module'
+import Assignments from './pages/Assignments'
+import Assignment from './pages/Assignment'
 import './styles.css'
 
 const router = createBrowserRouter([
@@ -18,7 +20,10 @@ const router = createBrowserRouter([
       { path: 'learning-outcomes', element: <LearningOutcomes /> },
       { path: 'learning-outcomes/:id', element: <OutcomeResources /> },
       { path: 'modules', element: <Modules /> },
-      { path: 'modules/:slug', element: <Module /> }
+      { path: 'modules/:slug', element: <Module /> },
+      { path: 'assignments', element: <Assignments /> },
+      { path: 'assignments/:slug', element: <Assignment /> },
+      { path: 'assignments/:slug/:supplemental', element: <Assignment /> }
     ]
   }
 ])
