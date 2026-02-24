@@ -73,22 +73,24 @@ If you miss the final project, you will have an opportunity to make it up only i
 
 ## **Course Outline:** 
 
-| Class # | Class Topic | Start Date | Assignment Due |
-| :---- | :---- | :---- | :---- |
-| **1** | Introduction: Your Video Game Story | Sunday, May 11 |  |
-| **2** | Arcade and Location-Based Games | Sunday, May 18 | Journal \#1: Your Video Game Story and the Evolution of Gaming Due: Saturday, May 24 |
-| **3** | Gaming Consoles and PC Gaming | Sunday, May 25 | Video Game Analysis Discussion Due: Saturday, May 31 |
-| **4** | Portable Gaming | Sunday, June 1 | Journal \#2: Gaming Comes Home Due: Saturday, June 7 |
-| **5** | Gender and Minority Representation | Sunday, June 8 | Video Game Analysis Discussion Due: Saturday, June 14 |
-| **6** | Civic Engagement in Video Games / War and Violence in Video Games | Sunday, June 15 | Journal \#3: Representation and Social Issues in Gaming Due: Saturday, June 21 |
-| **7** | Gaming and Medicine | Sunday, June 22 | Video Game Analysis Discussion Due: Saturday, June 28 |
-| **8** | Edutainment | Sunday, June 29 | Journal \#4: Using Games for Learning and Healing Due: Saturday, July 5 |
-| **9** | Indie Games | Sunday, July 6 | Video Game Analysis Discussion Due: Saturday, July 12 |
-| **10** | Modding and Community-Run / Private Servers | Sunday, July 13 | Journal \#5: Indie Games and Modding Culture Due: Saturday, July 19 |
-| **11** | eSports, Competitive Gaming, Multiplayer / Game Streaming and YouTube | Sunday, July 20 | Group Book Review: Exploring the Video Game Industry Through Literature Due: Saturday, July 26 |
-| **12** | Gaming and Community | Sunday, July 27 | Journal \#6: Competitive and Multiplayer Gaming *and* Group Book Review Peer Review Due: Saturday, August 2 |
-| **13** | Immersive Gaming and AI | Sunday, August 3 | Final Project: Analyzing the Historical and Cultural Context of a Video Game Due: Saturday, August 9 |
-| **14** | Wrap-Up | Sunday, August 10 | Video Game Giants Discussion Due Anytime Before: Saturday, August 16 |
+|  | Class Topic | Start Date | Assignment Due | Discussion Post Due |
+| :---- | :---- | :---- | :---- | :---- |
+| **1** | Introduction: Your Video Game Story | Sunday, May 11 | Video Game Analysis Schedule Survey Due: Saturday, May 17 |  |
+| **2** | Arcade and Location-Based Games | Sunday, May 18 | Journal \#1: Your Video Game Story and the Evolution of Gaming - Due: Saturday, May 24 |  |
+| **3** | Gaming Consoles and PC Gaming | Sunday, May 25 |  | Video Game Analysis Discussion \* - Due: Saturday, May 31 |
+| **4** | Portable Gaming | Sunday, June 1 | Journal \#2: Gaming Comes Home Due: Saturday, June 7 | Video Game Analysis Discussion \* - Due: Saturday, June 7 |
+| **5** | Gender and Minority Representation | Sunday, June 8 |  | Video Game Analysis Discussion \* - Due: Saturday, June 14 |
+| **6** | Civic Engagement in Video Games / War and Violence in Video Games | Sunday, June 15 | Journal \#3: Representation and Social Issues in Gaming - Due: Saturday, June 21 | Video Game Analysis Discussion \* - Due: Saturday, June 21 |
+| **7** | Gaming and Medicine | Sunday, June 22 |  | Video Game Analysis Discussion \* - Due: Saturday, June 28 |
+| **8** | Edutainment | Sunday, June 29 | Journal \#4: Using Games for Learning and Healing Due: Saturday, July 5 | Video Game Analysis Discussion \* - Due: Saturday, July 5 |
+| **9** | Indie Games | Sunday, July 6 |  | Video Game Analysis Discussion \* - Due: Saturday, July 12 |
+| **10** | Modding and Community-Run / Private Servers | Sunday, July 13 | Journal \#5: Indie Games and Modding Culture Due: Saturday, July 19 | Video Game Analysis Discussion \* - Due: Saturday, July 19 |
+| **11** | eSports, Competitive Gaming, Multiplayer / Game Streaming and YouTube | Sunday, July 20 |  | Video Game Analysis Discussion \* - Due: Saturday, July 26 |
+| **12** | Gaming and Community | Sunday, July 27 | Journal \#6: Competitive and Multiplayer Gaming Due: Saturday, August 2 | Video Game Analysis Discussion \* - Due: Saturday, August 2 |
+| **13** | Immersive Gaming and AI | Sunday, August 3 | Final Project: Analyzing the Historical and Cultural Context of a Video Game - Due: Saturday, August 9 | Video Game Analysis Discussion \* - Due: Saturday, August 9 |
+| **14** | Wrap-Up | Sunday, August 10 |  | Video Game Giants Discussion - Due: Saturday, August 16 |
+
+\* Each student will submit 3 Video Game Analysis Discussion posts throughout the summer; other weeks you will review and reply to other posts
 
 ## **Missed Classes / Campus Closure:**
 
@@ -121,6 +123,8 @@ The goal is to foster an ongoing conversation about the key players who have sha
 [Discussion Rubric](https://docs.google.com/document/d/1u3WEXY2kG7tArZykGCnNJj7r8zR-QKeI65zgSfeztp4/edit?usp=sharing)
 
 ### Video Game Analysis
+
+Each week, a selection of students will be assigned to analyze a game of their choice. Each student will be selected 2-3 times throughout the course to present their analysis.
 
 **Your task:** Choose a video game and provide a detailed analysis that evaluates its suitability for different age groups and explores how it aligns with developmental, educational, or social needs.
 
@@ -185,219 +189,6 @@ This journal is a space for you to engage critically and personally with the cou
 
 [Journal Rubric](https://docs.google.com/document/d/1OeShtmzdmkauC6yMoiPgymkNEQTknzdXVwTx31DQ-QY/edit?usp=sharing)
 
-### Group Book Review: Exploring the Video Game Industry Through Literature
-
-#### Overview
-
-For this assignment, you will work in a small group to read, analyze, and critically evaluate a book about the video game industry, a specific game or game series, or a major issue in gaming culture.
-
-This project asks you to move beyond playing games and instead examine how games are written about, researched, critiqued, and historicized. You will connect your book to themes from our course, including history, representation, ethics, technology, community, and the future of gaming.
-
-Each group will submit:
-
-1. A **written critical review** (5–7 pages, double-spaced)
-2. A **5-minute recorded video review** for the class to watch
-
-#### Learning Goals
-
-This assignment supports several of our course learning outcomes:
-
-* Understanding the history and evolution of video games
-* Analyzing the cultural and social impact of games
-* Critically assessing ethical issues in gaming
-* Appreciating the diversity of the gaming ecosystem
-* Communicating informed perspectives on gaming
-
-Your goal is not to summarize the book, but to analyze it and connect it to the larger story of video games as a cultural force.
-
-#### Group Structure
-
-* Groups of 3–4 students
-* All members are expected to read the full book
-* Each member must contribute meaningfully to both the written review and the video
-
-You will submit a brief contract outlining your group’s plan for collaboration, including how you will divide responsibilities and ensure equitable contribution. See the [group contract template](group-book-review-contract.md) for more details. At the end of the project, you will also complete a peer evaluation to reflect on each member’s contribution. See the [peer evaluation section in the rubric](group-book-review-rubric.md) for more information.
-
-#### Book Selection
-
-You may choose from the suggested list below or propose your own book (must be approved in advance).
-
-Books should focus on:
-
-* The video game industry
-* A specific game or series
-* Game development history
-* Cultural or ethical analysis of games
-* Esports or competitive gaming
-* Labor issues in gaming
-* Representation and identity in games
-
-##### Suggested Titles (Sample List)
-
-Also see [expanded book list](group-book-review-book-list.md) for descriptions and more options.
-
-Industry & History:
-
-* *Console Wars* by Blake J. Harris
-* *Masters of Doom* by David Kushner
-* *Game Over* by David Sheff
-* *Replay* by Tristan Donovan
-* *The Ultimate History of Video Games* by Steven Kent
-
-Culture, Identity & Representation:
-
-* *Gaming at the Edge* by Adrienne Shaw
-* *Woke Gaming* edited by Gray & Leonard
-* *Gaming Representation* edited by Malkowski & Russworm
-* *Coin-Operated Americans* by Carly Kocurek
-
-Design & Development:
-
-* *Blood, Sweat, and Pixels* by Jason Schreier
-* *Press Reset* by Jason Schreier
-* *The Psychology of Video Games* by Celia Hodent
-* *Reality Is Broken* by Jane McGonigal
-
-Esports & Community:
-
-* *This Is Esports (and How to Spell It)* by Paul Chaloner
-
-Game-Specific or Narrative-Focused:
-
-* Books focused on specific franchises (e.g., Zelda, Final Fantasy, Doom, etc.)
-* Developer memoirs
-* Academic books analyzing a single game or series
-
-You may also propose newer titles not on this list (must be approved in advance).
-
-#### Written Review (5–7 Pages)
-
-Your review should include:
-
-##### 1. Brief Overview (Not a Full Summary)
-
-* Who wrote the book?
-* What is its main argument or focus?
-* Who is the intended audience?
-
-Keep this section concise.
-
-##### 2. Key Themes and Arguments
-
-* What are the book’s main claims?
-* What evidence does the author use?
-* Does the book focus on history, culture, labor, ethics, technology, identity, etc.?
-
-##### 3. Critical Analysis
-
-This is the most important section.
-
-Consider:
-
-* What does the book do well?
-* Where is it limited?
-* Does it overlook certain perspectives?
-* Is the author persuasive?
-* How does it compare to ideas we’ve discussed in class?
-
-You should directly connect the book to at least **two major course themes**, such as:
-
-* Representation and diversity
-* Monetization and labor ethics
-* War and violence
-* Serious games and non-entertainment uses
-* Indie vs. AAA development
-* Community and multiplayer culture
-* Technology (AI, VR, online play)
-
-##### 4. Why This Book Matters
-
-* Why should someone interested in gaming read this?
-* What does it add to our understanding of video games?
-* Does it change how you see the industry or a specific game?
-
-#### Video Review (5 Minutes)
-
-Your group will create a concise, engaging 5-minute video for the class.
-
-This is not just a slideshow reading your paper.
-
-Your video should:
-
-* Clearly explain what the book is about
-* Highlight 2–3 major insights
-* Connect the book to at least one major issue in gaming
-* Offer your evaluation (Is it worth reading? Why or why not?)
-
-You may:
-
-* Record yourselves on camera
-* Use slides with voiceover
-* Use light editing
-* Include relevant images (book cover, historical images, etc.)
-
-Keep it focused and clear. Practice timing.
-
-The goal is to inform your classmates and spark discussion.
-
-#### Peer Review: Book Review Videos
-
-After watching your classmates’ 5-minute book review videos, you will complete short peer feedback responses. The goal is to:
-
-* Encourage active listening
-* Expose you to a wider range of gaming scholarship
-* Practice constructive academic feedback
-* Extend discussion beyond your own group’s book
-
-This mirrors how academic and professional communities evaluate and respond to published work.
-
-Each student must watch 3 videos and complete a short evaluation form for each, addressing:
-
-##### Section A: Understanding
-
-* What is the book’s main argument?
-* What issue in gaming does it address?
-
-##### Section B: Evaluation
-
-* Did the group clearly explain the book?
-* Did they connect it meaningfully to course themes?
-* What was particularly strong?
-
-##### Section C: Constructive Feedback
-
-* What could have been clearer or stronger?
-* One suggestion for improvement
-
-#### Grading Criteria
-
-See the [detailed rubric](group-book-review-rubric.md) for more information, but in general:
-
-##### Written Review (60%)
-
-* Clear explanation of the book’s focus
-* Strong critical analysis (not just summary)
-* Meaningful connections to course themes
-* Organization and clarity
-* Proper citation if outside sources are used
-
-##### Video Review (20%)
-
-* Clear and engaging presentation
-* Accurate representation of the book
-* Strong synthesis of key ideas
-* Professional effort and time management
-
-##### Peer Review Participation (10%)
-
-* Thoughtful engagement with classmates’ videos
-* Constructive feedback
-
-##### Group Contribution (10%)
-
-* Evidence of equitable participation
-* Clear description of contributions
-
 ### Final Project: Analyzing the Historical and Cultural Context of a Video Game
 
 Each student will select a video game and conduct a comprehensive analysis that incorporates many, if not all, of the following key areas. This analysis will be delivered as a paper of **at least 1,500 words** and/or another format such as video, audio, a PowerPoint presentation, or another creative medium. A combination of a written paper along with multimedia elements such as images, gameplay clips, and/or diagrams is ideal and the length of the paper may be adjusted to account for any such non-written components. Proper citations must be included.
@@ -447,13 +238,13 @@ Each student will select a video game and conduct a comprehensive analysis that 
 
 ## **Grading Criteria and Scale:**
 
-* Video Game Giants – 10%
-* Video Game Journals – 20%
-* Video Game Analyses – 25%
-* Group Book Review – 20%
-* Final Project – 25%
+* Video Game Giants – 10%  
+* Video Game Journals – 40%  
+* Video Game Analyses – 20%  
+* Final Project – 30%
 
-A 94-100%, A- 90-93%, B+ 87-89%, B 83-86%, B- 80-82%, C+ 77-79%, C 73-76%, C- 70-72%, D+ 67-69%, D 63-66%, D- 60-62%, F below 60%.
+A 94-100%, A- 90-93%, B+ 87-89%, B 83-86%, B- 80-82%, C+ 77-79%,   
+C 73-76%, C- 70-72%, D+ 67-69%, D 63-66%, D- 60-62%, F below 60%.
 
 ## **Communication:**
 
