@@ -22,6 +22,8 @@ body{ margin:0; font-family: 'Open Sans', system-ui, -apple-system, Segoe UI, Ro
 .navbar a{ color: var(--fg); text-decoration:none; padding:6px 10px; border:1px solid transparent; border-radius:6px; }
 .navbar a:hover{ border-color: rgba(255,255,255,0.15); }
 .navbar a.active{ color:#001218; background: linear-gradient(90deg, var(--accent), var(--accent2)); text-shadow: none; }
+.navbar-toggle{ display:none; background: transparent; border:1px solid rgba(255,255,255,0.2); border-radius:8px; padding:8px; cursor:pointer; flex-direction: column; gap:4px; }
+.navbar-toggle-bar{ display:block; width:22px; height:2px; background: var(--fg); }
 
 h1{ font-family: 'Press Start 2P', cursive; letter-spacing:0.5px; line-height:1.25; }
 h2,h3{ font-family: inherit; letter-spacing:0.5px; line-height:1.25; }
@@ -88,6 +90,14 @@ h2,h3{ font-family: inherit; letter-spacing:0.5px; line-height:1.25; }
 .markdown-content a{ color: var(--accent2); text-decoration: underline; }
 .markdown-content a:hover{ color: var(--accent); }
 .markdown-content hr{ border: none; border-top: 1px solid rgba(255,255,255,0.15); margin: 24px 0; }
+
+@media (max-width: 1000px){
+  .navbar{ flex-wrap: wrap; gap: 12px; }
+  .navbar-toggle{ display: inline-flex; align-items: center; justify-content: center; }
+  .navbar nav{ width: 100%; display: none; flex-direction: column; gap: 8px; padding: 8px 0 4px; }
+  .navbar.open nav{ display: flex; }
+  .navbar a{ padding: 10px 12px; border-radius: 8px; }
+}
 
 @media (max-width: 640px){
   .navbar nav{ gap:10px; }
