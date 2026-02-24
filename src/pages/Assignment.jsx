@@ -78,7 +78,40 @@ export default function Assignment() {
 
   // Simple markdown to HTML converter
   const renderMarkdown = (md) => {
-    let html = md
+    const convertTables = (input) => {
+      const lines = input.split('\n')
+      const out = []
+      let i = 0
+
+      const isTableDivider = (line) => /^\s*\|?\s*[-:]+(?:\s*\|\s*[-:]+)+\s*\|?\s*$/.test(line)
+      const isTableRow = (line) => /^\s*\|?.+\|.+\|?\s*$/.test(line)
+
+      while (i < lines.length) {
+        if (isTableRow(lines[i]) && i + 1 < lines.length && isTableDivider(lines[i + 1])) {
+          const header = lines[i].trim().replace(/^\|/, '').replace(/\|$/, '')
+          const headers = header.split('|').map(cell => cell.trim())
+          i += 2
+          const rows = []
+          while (i < lines.length && isTableRow(lines[i]) && lines[i].trim() !== '') {
+            const row = lines[i].trim().replace(/^\|/, '').replace(/\|$/, '')
+            rows.push(row.split('|').map(cell => cell.trim()))
+            i += 1
+          }
+
+          const thead = `<thead><tr>${headers.map(h => `<th>${h}</th>`).join('')}</tr></thead>`
+          const tbody = `<tbody>${rows.map(r => `<tr>${r.map(c => `<td>${c}</td>`).join('')}</tr>`).join('')}</tbody>`
+          out.push(`<table>${thead}${tbody}</table>`)
+          continue
+        }
+
+        out.push(lines[i])
+        i += 1
+      }
+
+      return out.join('\n')
+    }
+
+    let html = convertTables(md)
 
     // Headers
     html = html.replace(/^### (.*?)$/gm, '<h3>$1</h3>')
