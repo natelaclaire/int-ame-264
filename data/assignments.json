@@ -27,5 +27,61 @@
         "markdown": "group-book-review-ai-use-statement.md"
       }
     ]
+  },
+  {
+    "id": "final-project",
+    "title": "Final Project",
+    "description": "Analyzing the Historical and Cultural Context of a Video Game",
+    "slug": "final-project",
+    "markdown": "final-project.md",
+    "supplemental": [
+      {
+        "title": "Rubric",
+        "slug": "rubric",
+        "markdown": "final-project-rubric.md"
+      }
+    ]
+  },
+  {
+    "id": "video-game-analysis",
+    "title": "Video Game Analysis",
+    "description": "Analyze a game and present findings.",
+    "slug": "video-game-analysis",
+    "markdown": "video-game-analysis.md",
+    "supplemental": [
+      {
+        "title": "Rubric",
+        "slug": "rubric",
+        "markdown": "video-game-analysis-rubric.md"
+      }
+    ]
+  },
+  {
+    "id": "video-game-giants",
+    "title": "Video Game Giants",
+    "description": "Profile a key contributor to the industry.",
+    "slug": "video-game-giants",
+    "markdown": "video-game-giants.md",
+    "supplemental": [
+      {
+        "title": "Rubric",
+        "slug": "rubric",
+        "markdown": "video-game-giants-rubric.md"
+      }
+    ]
+  },
+  {
+    "id": "video-game-journal",
+    "title": "Video Game Journal",
+    "description": "Reflective journals connecting course content.",
+    "slug": "video-game-journal",
+    "markdown": "video-game-journal.md",
+    "supplemental": [
+      {
+        "title": "Rubric",
+        "slug": "rubric",
+        "markdown": "video-game-journal-rubric.md"
+      }
+    ]
   }
 ]
