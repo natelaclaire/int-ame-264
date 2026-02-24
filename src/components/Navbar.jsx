@@ -9,6 +9,7 @@ export default function Navbar() {
         <NavLink to="/learning-outcomes" className={({isActive}) => isActive ? 'active' : ''}>Learning Outcomes</NavLink>
         <NavLink to="/modules" className={({isActive}) => isActive ? 'active' : ''}>Modules</NavLink>
         <NavLink to="/assignments" className={({isActive}) => isActive ? 'active' : ''}>Assignments</NavLink>
+        <NavLink to="/syllabi" className={({isActive}) => isActive ? 'active' : ''}>Syllabi</NavLink>
       </nav>
     </header>
   )

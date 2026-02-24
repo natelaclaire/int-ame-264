@@ -13,7 +13,7 @@ export default defineConfig({
         const dataDir = resolve(__dirname, 'dist/data');
         try {
           mkdirSync(dataDir, { recursive: true });
-          ['learningOutcomes.json', 'modules.json', 'resources.json', 'assignments.json'].forEach(file => {
+          ['learningOutcomes.json', 'modules.json', 'resources.json', 'assignments.json', 'syllabi.json'].forEach(file => {
             copyFileSync(
               resolve(__dirname, 'data', file),
               resolve(dataDir, file)
@@ -30,8 +30,19 @@ export default defineConfig({
               resolve(distAssignmentsDir, file)
             );
           });
+
+          // Copy syllabi folder
+          const syllabiDir = resolve(__dirname, 'data/syllabi');
+          const distSyllabiDir = resolve(dataDir, 'syllabi');
+          mkdirSync(distSyllabiDir, { recursive: true });
+          readdirSync(syllabiDir).forEach(file => {
+            copyFileSync(
+              resolve(syllabiDir, file),
+              resolve(distSyllabiDir, file)
+            );
+          });
           
-          console.log('✓ Copied data/*.json and data/assignments/ to dist/data/');
+          console.log('✓ Copied data/*.json, data/assignments/, and data/syllabi/ to dist/data/');
         } catch (err) {
           console.error('Failed to copy data files:', err);
         }

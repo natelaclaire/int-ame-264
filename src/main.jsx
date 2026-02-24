@@ -9,6 +9,8 @@ import Modules from './pages/Modules'
 import Module from './pages/Module'
 import Assignments from './pages/Assignments'
 import Assignment from './pages/Assignment'
+import Syllabi from './pages/Syllabi'
+import Syllabus from './pages/Syllabus'
 import './styles.css'
 
 const router = createBrowserRouter([
@@ -23,7 +25,9 @@ const router = createBrowserRouter([
       { path: 'modules/:slug', element: <Module /> },
       { path: 'assignments', element: <Assignments /> },
       { path: 'assignments/:slug', element: <Assignment /> },
-      { path: 'assignments/:slug/:supplemental', element: <Assignment /> }
+      { path: 'assignments/:slug/:supplemental', element: <Assignment /> },
+      { path: 'syllabi', element: <Syllabi /> },
+      { path: 'syllabi/:slug', element: <Syllabus /> }
     ]
   }
 ])
