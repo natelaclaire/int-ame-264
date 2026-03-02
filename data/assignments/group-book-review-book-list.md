@@ -73,13 +73,6 @@ Explores the evolution of one of the most influential RPG franchises. Useful for
 
 ---
 
-### *Halo: The Story of the Reclaimer* (various franchise histories available)
-
-Focus: Halo
-Several books explore Halo’s development, Bungie’s transition to 343 Industries, and transmedia storytelling. Strong for discussions of IP management and franchise identity.
-
----
-
 ### *The Making of Prince of Persia* – Jordan Mechner
 
 Focus: Prince of Persia
@@ -91,6 +84,13 @@ Based on the creator’s journals. A fascinating look at early game development,
 
 Focus: Canon formation
 Not about one game, but useful for examining how gaming history gets curated and who decides what “matters.”
+
+---
+
+### *Long Live Mortal Kombat: Round 1: The Fatalities and Fandom of the Arcade Era* – David L. Craddock
+
+Focus: Mortal Kombat
+A deep dive into the creation and cultural impact of Mortal Kombat. Strong for discussions of violence in games, censorship, and arcade culture.
 
 ---
 
@@ -124,6 +124,13 @@ Traces the development of virtual reality and the founding of Oculus. Strong for
 
 ---
 
+### *Stay Awhile and Listen* series (either book) – David L. Craddock
+
+Focus: Blizzard North and Blizzard Entertainment
+In-depth history of Blizzard’s two studios, their development teams, and their major franchises (Diablo, StarCraft, Warcraft). Excellent for examining studio culture, creative processes, and the evolution of PC gaming.
+
+---
+
 ## Books About Developers / Game Creators
 
 ### *Sid Meier’s Memoir!* – Sid Meier
@@ -144,6 +151,13 @@ Explores executive decision-making, corporate culture, and representation in lea
 
 Focus: Nintendo’s late president
 A collection of interviews and reflections. Excellent for discussions of design philosophy and leadership.
+
+---
+
+### *Doom Guy: Life in First Person* – John Romero
+
+Focus: DOOM co-creator John Romero’s career
+A memoir from one of the pioneers of the FPS genre. Strong for analyzing creativity, innovation, and the challenges of game development.
 
 ---
 
