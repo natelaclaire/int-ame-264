@@ -271,3 +271,13 @@ A comprehensive history of gaming across cultures and decades. Strong for connec
 
 Focus: Industry history and behind-the-scenes development
 Covers the industry from its origins to the present. Useful for broad historical context and understanding industry trends.
+
+### *The Game Console 2.0: A Photographic History from Atari to Xbox* – Evan Amos
+
+Focus: Console design and history
+A visual history of game consoles, exploring design evolution and cultural significance.
+
+### *Hackers: Heroes of the Computer Revolution* – Steven Levy
+
+Focus: Early computing and hacker culture
+While not exclusively about gaming, it provides important context for the early days of computer culture and the origins of game development, particularly in part 3 of the book.
