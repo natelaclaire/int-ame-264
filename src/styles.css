@@ -32,7 +32,9 @@ h2,h3{ font-family: inherit; letter-spacing:0.5px; line-height:1.25; }
 
 .cta-row{ display:flex; gap:16px; margin: 16px 0 8px; }
 .btn{ display:inline-block; color:#001218; background: linear-gradient(90deg, var(--accent), var(--accent2)); text-decoration:none; padding:10px 14px; border-radius:8px; font-weight:700; }
+.btn{ border:none; cursor:pointer; font:inherit; }
 .btn:hover{ filter: brightness(1.1); }
+.btn:disabled{ opacity:0.65; cursor:not-allowed; filter:none; }
 
 .home-hero{ display:grid; grid-template-columns: 1.2fr 0.8fr; gap:32px; align-items:center; }
 .home-image img{ width: 100%; height: auto; border-radius: 16px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.35); }

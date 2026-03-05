@@ -1,12 +1,15 @@
 import { useEffect, useMemo, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import ResourceItem from '../components/ResourceItem'
+import { exportModuleAsCommonCartridge } from '../utils/commonCartridge'
 
 export default function Module() {
   const { slug } = useParams()
   const [modules, setModules] = useState([])
   const [resources, setResources] = useState([])
   const [outcomes, setOutcomes] = useState([])
+  const [exporting, setExporting] = useState(false)
+  const [exportError, setExportError] = useState('')
 
   useEffect(() => {
     Promise.all([
@@ -26,13 +29,37 @@ export default function Module() {
   const required = resourcesForModule.filter(r => r.required)
   const optional = resourcesForModule.filter(r => !r.required)
 
+  const handleExport = async () => {
+    if (!module) return
+    setExportError('')
+    setExporting(true)
+    try {
+      await exportModuleAsCommonCartridge({
+        module,
+        resources: resourcesForModule,
+        outcomes
+      })
+    } catch (error) {
+      console.error('Export failed:', error)
+      setExportError('Export failed. Please try again.')
+    } finally {
+      setExporting(false)
+    }
+  }
+
   if (!module) return <p className="muted">Loading module…</p>
 
   return (
     <section>
       <h1>Week {module.week}: {module.title}</h1>
       <p>{module.overview || <span className="muted">Overview coming soon.</span>}</p>
-      <p><Link to="/modules" className="btn">← Back to all modules</Link></p>
+      <div className="cta-row">
+        <Link to="/modules" className="btn">← Back to all modules</Link>
+        <button type="button" className="btn" onClick={handleExport} disabled={exporting}>
+          {exporting ? 'Exporting…' : 'Export Module (.imscc)'}
+        </button>
+      </div>
+      {exportError && <p className="muted">{exportError}</p>}
 
       <h2>Required</h2>
       <ul className="resources">
