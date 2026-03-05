@@ -41,8 +41,14 @@ export default defineConfig({
               resolve(distSyllabiDir, file)
             );
           });
+
+          // GitHub Pages SPA fallback: serve app shell for unknown routes.
+          copyFileSync(
+            resolve(__dirname, 'dist', 'index.html'),
+            resolve(__dirname, 'dist', '404.html')
+          );
           
-          console.log('✓ Copied data/*.json, data/assignments/, and data/syllabi/ to dist/data/');
+          console.log('✓ Copied data/*.json, data/assignments/, data/syllabi/, and SPA 404 fallback');
         } catch (err) {
           console.error('Failed to copy data files:', err);
         }
