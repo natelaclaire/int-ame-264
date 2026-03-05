@@ -106,7 +106,7 @@ function buildResourceHtml(resource, module, outcomeMap) {
 
 function buildManifest({ module, entries }) {
   const manifestResources = entries.map((entry) => {
-    return `    <resource identifier="${escapeXml(entry.identifier)}" type="webcontent" href="${escapeXml(entry.href)}">
+    return `    <resource identifier="${escapeXml(entry.identifier)}" type="${escapeXml(entry.type || 'webcontent')}" href="${escapeXml(entry.href)}">
       <file href="${escapeXml(entry.href)}"/>
     </resource>`
   }).join('\n')
@@ -173,6 +173,63 @@ export async function exportModuleAsCommonCartridge({ module, resources, outcome
   const link = document.createElement('a')
   link.href = downloadUrl
   link.download = `int-ame-264-week-${module.week}-${moduleSlug}.imscc`
+  document.body.appendChild(link)
+  link.click()
+  document.body.removeChild(link)
+  URL.revokeObjectURL(downloadUrl)
+}
+
+function buildWebLinkXml({ title, url }) {
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<webLink xmlns="http://www.imsglobal.org/xsd/imswl_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imswl_v1p0 http://www.imsglobal.org/profile/cc/ccv1p1/ccv1p1_imswl_v1p0.xsd">
+  <title>${escapeXml(title)}</title>
+  <url href="${escapeXml(url)}"/>
+  <target>_blank</target>
+</webLink>`
+}
+
+export async function exportModuleAsBrightspaceCartridge({ module, resources, outcomes }) {
+  const zip = new JSZip()
+  const requiredResources = resources.filter((resource) => resource.required)
+  const optionalResources = resources.filter((resource) => !resource.required)
+  const outcomeMap = Object.fromEntries((outcomes || []).map((outcome) => [outcome.id, outcome]))
+
+  const moduleSlug = sanitizeFileName(module.slug || `week-${module.week}`) || `week-${module.week}`
+  const entries = []
+
+  const overviewHref = `module/${moduleSlug}/overview.html`
+  zip.file(overviewHref, buildOverviewHtml(module, requiredResources, optionalResources, outcomeMap))
+  entries.push({
+    identifier: `RES_${moduleSlug}_overview`,
+    href: overviewHref,
+    title: `${module.title} Overview`,
+    type: 'webcontent'
+  })
+
+  resources.forEach((resource, index) => {
+    const linkFile = `links/${moduleSlug}-${String(index + 1).padStart(2, '0')}.xml`
+    const linkTitle = resource.title || `Resource ${index + 1}`
+    const safeUrl = resource.url || 'https://example.com/'
+    zip.file(linkFile, buildWebLinkXml({ title: linkTitle, url: safeUrl }))
+
+    const resourceType = resource.required ? 'Required' : 'Optional'
+    const displayTitle = `${linkTitle} (${resourceType}${resource.type ? `, ${resource.type}` : ''})`
+
+    entries.push({
+      identifier: `RES_${moduleSlug}_link_${index + 1}`,
+      href: linkFile,
+      title: displayTitle,
+      type: 'imswl_xmlv1p1'
+    })
+  })
+
+  zip.file('imsmanifest.xml', buildManifest({ module, entries }))
+
+  const blob = await zip.generateAsync({ type: 'blob' })
+  const downloadUrl = URL.createObjectURL(blob)
+  const link = document.createElement('a')
+  link.href = downloadUrl
+  link.download = `int-ame-264-week-${module.week}-${moduleSlug}-brightspace.imscc`
   document.body.appendChild(link)
   link.click()
   document.body.removeChild(link)
