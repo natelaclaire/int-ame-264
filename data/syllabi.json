@@ -2,16 +2,16 @@
   {
     "id": "summer-2026",
     "term": "Summer 2026",
-    "startDate": "TBD",
-    "endDate": "TBD",
+    "startDate": "2026-05-18",
+    "endDate": "2026-08-21",
     "slug": "summer-2026",
     "markdown": "summer-2026.md"
   },
   {
     "id": "summer-2025",
     "term": "Summer 2025",
-    "startDate": "TBD",
-    "endDate": "TBD",
+    "startDate": "2025-05-11",
+    "endDate": "2025-08-16",
     "slug": "summer-2025",
     "markdown": "summer-2025.md"
   }
