@@ -1,4 +1,4 @@
-# Group Contract (With AI-Use Expectations)
+# Book Review Group Contract
 
 **INT/AME 264 – Group Book Review Project**
 
@@ -78,10 +78,10 @@ All members agree to review the final draft and video before submission.
 
 We agree that completed work means:
 
-* Thoughtful and clearly written
-* Connected to course themes
-* Based directly on the book
-* Submitted before internal deadlines
+- Thoughtful and clearly written
+- Connected to course themes
+- Based directly on the book
+- Submitted before internal deadlines
 
 Our internal draft deadline will be:
 
@@ -97,35 +97,35 @@ We agree that:
 
 ### AI May Be Used For:
 
-* Brainstorming discussion questions
-* Clarifying unfamiliar concepts
-* Outlining ideas
-* Grammar suggestions
-* Improving sentence clarity
+- Brainstorming discussion questions
+- Clarifying unfamiliar concepts
+- Outlining ideas
+- Grammar suggestions
+- Improving sentence clarity
 
 ### AI May NOT Be Used For:
 
-* Generating full sections of the paper
-* Writing analytical arguments for us
-* Replacing reading the book
-* Creating the video script without group revision
-* Producing work we submit without significant human revision and ownership
+- Generating full sections of the paper
+- Writing analytical arguments for us
+- Replacing reading the book
+- Creating the video script without group revision
+- Producing work we submit without significant human revision and ownership
 
 ### Transparency Requirement
 
 If AI tools are used in any stage of the process, we will:
 
-* Disclose this in a brief note at the end of the paper
-* Describe how the tool was used (e.g., brainstorming, editing, outlining)
-* Ensure all final analysis reflects our own understanding
+- Disclose this in a brief note at the end of the paper
+- Describe how the tool was used (e.g., brainstorming, editing, outlining)
+- Ensure all final analysis reflects our own understanding
 
 ### Ownership Statement
 
 We understand that:
 
-* We are responsible for the accuracy of all content
-* AI tools can fabricate information
-* Any misrepresentation or over-reliance may be treated as an academic integrity issue
+- We are responsible for the accuracy of all content
+- AI tools can fabricate information
+- Any misrepresentation or over-reliance may be treated as an academic integrity issue
 
 ---
 
@@ -149,10 +149,10 @@ If unresolved, we understand that peer evaluations may affect individual contrib
 
 If disagreements arise, we agree to:
 
-* Address issues early
-* Focus on the work, not the person
-* Use the book and course material as evidence
-* Seek instructor guidance if needed
+- Address issues early
+- Focus on the work, not the person
+- Use the book and course material as evidence
+- Seek instructor guidance if needed
 
 ---
 
@@ -160,11 +160,11 @@ If disagreements arise, we agree to:
 
 We agree that:
 
-* All writing will be primarily our own
-* We will not copy online summaries or reviews
-* We will properly cite any outside sources
-* We will not rely on AI to replace our intellectual work
-* All members will contribute meaningfully
+- All writing will be primarily our own
+- We will not copy online summaries or reviews
+- We will properly cite any outside sources
+- We will not rely on AI to replace our intellectual work
+- All members will contribute meaningfully
 
 ---
 
@@ -172,9 +172,9 @@ We agree that:
 
 By signing below, we confirm that:
 
-* We understand these expectations
-* We agree to these standards
-* We accept responsibility for our work
+- We understand these expectations
+- We agree to these standards
+- We accept responsibility for our work
 
 Signatures:
 

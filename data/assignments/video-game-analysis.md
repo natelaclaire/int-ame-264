@@ -1,8 +1,8 @@
 # Video Game Analysis
 
-Each week, a selection of students will be assigned to analyze a game of their choice. Each student will be selected 2-3 times throughout the course to present their analysis.
-
 **Your task:** Choose a video game and provide a detailed analysis that evaluates its suitability for different age groups and explores how it aligns with developmental, educational, or social needs.
+
+Each student will perform multiple analyses throughout the course, focusing on different games and age groups. The goal is to critically assess how video games can be both beneficial and potentially harmful depending on the context of their use.
 
 **The Analysis Should Include:**
 
