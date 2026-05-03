@@ -218,7 +218,7 @@ Your goal is not to summarize the book, but to analyze it and connect it to the 
 - All members are expected to read the full book
 - Each member must contribute meaningfully to both the written review and the video
 
-You will submit a brief contract outlining your group’s plan for collaboration, including how you will divide responsibilities and ensure equitable contribution. See the [group contract template](group-book-review-contract.md) for more details. At the end of the project, you will also complete a peer evaluation to reflect on each member’s contribution. See the [peer evaluation section in the rubric](group-book-review-rubric.md) for more information.
+You will submit a brief contract outlining your group’s plan for collaboration, including how you will divide responsibilities and ensure equitable contribution. See the [group contract template](https://docs.google.com/document/d/1BZbTJjCzHXZ2rYNe8I17lbnCXSUUP7zxmQF3i4qL42g/edit?usp=sharing) for more details. At the end of the project, you will also complete a peer evaluation to reflect on each member’s contribution. See the [peer evaluation section in the rubric](https://docs.google.com/document/d/1J6QV7quXNalpnVYoxqsiD9UsEz2fabA4NmtneUy5bUk/edit?usp=sharing) for more information.
 
 #### Book Selection
 
@@ -227,6 +227,7 @@ You may choose from the suggested list below or propose your own book (must be a
 Books should focus on:
 
 - The video game industry
+- Game development and design concepts
 - A specific game or series
 - Game development history
 - Cultural or ethical analysis of games
@@ -236,8 +237,6 @@ Books should focus on:
 
 ##### Suggested Titles (Sample List)
 
-Also see [expanded book list](group-book-review-book-list.md) for descriptions and more options.
-
 Industry & History:
 
 - *Console Wars* by Blake J. Harris
@@ -245,6 +244,10 @@ Industry & History:
 - *Game Over* by David Sheff
 - *Replay* by Tristan Donovan
 - *The Ultimate History of Video Games* by Steven Kent
+- *Blood, Sweat, and Pixels* by Jason Schreier
+- *The Perfect Game: Tetris – From Russia With Love* by Henk Rogers
+- *Press Reset* by Jason Schreier
+- *Hackers: Heroes of the Computer Revolution* by Steven Levy
 
 Culture, Identity & Representation:
 
@@ -255,14 +258,16 @@ Culture, Identity & Representation:
 
 Design & Development:
 
-- *Blood, Sweat, and Pixels* by Jason Schreier
-- *Press Reset* by Jason Schreier
+- *The Art of Game Design* by Jesse Schell
 - *The Psychology of Video Games* by Celia Hodent
 - *Reality Is Broken* by Jane McGonigal
+- *Rules of Play* by Salen & Zimmerman
 
 Esports & Community:
 
 - *This Is Esports (and How to Spell It)* by Paul Chaloner
+- *Raising the Stakes* by T.L. Taylor
+- *Watch Me Play* by T.L. Taylor
 
 Game-Specific or Narrative-Focused:
 
@@ -270,7 +275,7 @@ Game-Specific or Narrative-Focused:
 - Developer memoirs
 - Academic books analyzing a single game or series
 
-You may also propose newer titles not on this list (must be approved in advance).
+You may also propose other titles not on this list (must be approved in advance).
 
 #### Written Review (5–7 Pages)
 
@@ -373,7 +378,7 @@ Each student must watch 3 videos and complete a short evaluation form for each, 
 
 #### Grading Criteria
 
-See the [detailed rubric](group-book-review-rubric.md) for more information, but in general:
+See the [detailed rubric](https://docs.google.com/document/d/1J6QV7quXNalpnVYoxqsiD9UsEz2fabA4NmtneUy5bUk/edit?usp=sharing) for more information, but in general:
 
 ##### Written Review (60%)
 
