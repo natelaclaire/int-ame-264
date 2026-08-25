@@ -1,5 +1,13 @@
 [
   {
+    "id": "fall-2026",
+    "term": "Fall 2026",
+    "startDate": "2026-08-30",
+    "endDate": "2026-12-18",
+    "slug": "fall-2026",
+    "markdown": "fall-2026.md"
+  },
+  {
     "id": "summer-2026",
     "term": "Summer 2026",
     "startDate": "2026-05-18",
