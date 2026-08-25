@@ -11,6 +11,9 @@ import Assignments from './pages/Assignments'
 import Assignment from './pages/Assignment'
 import Syllabi from './pages/Syllabi'
 import Syllabus from './pages/Syllabus'
+import Writings from './pages/Writings'
+import Writing from './pages/Writing'
+import Radio from './pages/Radio'
 import './styles.css'
 
 const router = createBrowserRouter([
@@ -28,6 +31,9 @@ const router = createBrowserRouter([
       { path: 'assignments/:slug/:supplemental', element: <Assignment /> },
       { path: 'syllabi', element: <Syllabi /> },
       { path: 'syllabi/:slug', element: <Syllabus /> }
+      ,{ path: 'writings', element: <Writings /> }
+      ,{ path: 'writings/:slug', element: <Writing /> }
+      ,{ path: 'radio', element: <Radio /> }
     ]
   }
 ])
