@@ -65,12 +65,11 @@ for (const entry of moduleEntries) {
     const topicResources = moduleResources.filter(resource => (resource.topic || 'General') === topic)
     const groupMarkup = (label, matches) => matches.length ? `<section><h3>${label}</h3>${matches.map(resource => {
       const linkedTitle = resource.url ? `<a href="${escapeHtml(resource.url)}">${escapeHtml(resource.title)}</a>` : escapeHtml(resource.title)
-      const linkedUrl = resource.url ? `<dt>Link</dt><dd><a href="${escapeHtml(resource.url)}">${escapeHtml(resource.url)}</a></dd>` : ''
       const learningOutcomes = (resource.learningOutcomes || []).map(id => {
         const outcome = outcomeMap[id]
         return outcome ? `LO ${id}: ${outcome.title}` : `LO ${id}`
       }).join('; ')
-      return `<article class="resource"><h4>${linkedTitle}</h4><dl>${linkedUrl}<dt>Type</dt><dd>${escapeHtml(resource.type || 'Not specified')}</dd><dt>Duration</dt><dd>${escapeHtml(resource.duration || 'Not specified')}</dd><dt>Learning outcomes</dt><dd>${escapeHtml(learningOutcomes || 'None specified')}</dd></dl><p class="notes"><strong>Notes:</strong> ${escapeHtml(resource.notes || 'No notes provided.')}</p></article>`
+      return `<article class="resource"><h4>${linkedTitle}</h4><dl><dt>Type</dt><dd>${escapeHtml(resource.type || 'Not specified')}</dd><dt>Duration</dt><dd>${escapeHtml(resource.duration || 'Not specified')}</dd><dt>Learning outcomes</dt><dd>${escapeHtml(learningOutcomes || 'None specified')}</dd></dl><p class="notes"><strong>Notes:</strong> ${escapeHtml(resource.notes || 'No notes provided.')}</p></article>`
     }).join('')}</section>` : ''
     return `<section><h2>${escapeHtml(topic)}</h2>${groupMarkup('Required', topicResources.filter(resource => resource.required))}${groupMarkup('Optional', topicResources.filter(resource => !resource.required))}</section>`
   }).join('')
