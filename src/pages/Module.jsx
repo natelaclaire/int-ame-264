@@ -29,8 +29,12 @@ export default function Module() {
   const module = useMemo(() => modules.find(m => m.slug === slug), [modules, slug])
   const loMap = useMemo(() => Object.fromEntries(outcomes.map(o => [o.id, o])), [outcomes])
   const resourcesForModule = useMemo(() => resources.filter(r => r.moduleSlug === slug), [resources, slug])
-  const required = resourcesForModule.filter(r => r.required)
-  const optional = resourcesForModule.filter(r => !r.required)
+  const topics = useMemo(() => resourcesForModule.reduce((groups, resource) => {
+    const topic = resource.topic || 'General'
+    if (!groups[topic]) groups[topic] = []
+    groups[topic].push(resource)
+    return groups
+  }, {}), [resourcesForModule])
 
   const handleExport = async (kind) => {
     if (!module) return
@@ -58,7 +62,9 @@ export default function Module() {
 
   return (
     <section>
-      <h1>Week {module.week}: {module.title}</h1>
+      <div className="module-breadcrumb"><Link to="/modules">Modules</Link><span>→</span><span>{module.section}</span></div>
+      <span className="eyebrow">WEEK {String(module.week).padStart(2, '0')}</span>
+      <h1 className="module-title">{module.title}</h1>
       <p>{module.overview || <span className="muted">Overview coming soon.</span>}</p>
       <div className="cta-row">
         <Link to="/modules" className="btn">← Back to all modules</Link>
@@ -71,19 +77,17 @@ export default function Module() {
       </div>
       {exportError && <p className="muted">{exportError}</p>}
 
-      <h2>Required</h2>
-      <ul className="resources">
-        {required.map(r => (
-          <ResourceItem key={r.id} resource={r} loMap={loMap} />
-        ))}
-      </ul>
-
-      <h2>Optional</h2>
-      <ul className="resources">
-        {optional.map(r => (
-          <ResourceItem key={r.id} resource={r} loMap={loMap} />
-        ))}
-      </ul>
+      <div className="topic-directory">
+        {Object.entries(topics).map(([topic, topicResources], index) => {
+          const required = topicResources.filter(resource => resource.required)
+          const optional = topicResources.filter(resource => !resource.required)
+          return <section className="resource-topic" key={topic}>
+            <header className="topic-header"><span>{String(index + 1).padStart(2, '0')}</span><div><div className="post-meta">TOPIC</div><h2>{topic}</h2></div><span>{topicResources.length} {topicResources.length === 1 ? 'RESOURCE' : 'RESOURCES'}</span></header>
+            {required.length > 0 && <><h3 className="resource-label">Required</h3><ul className="resources">{required.map(resource => <ResourceItem key={resource.id} resource={resource} loMap={loMap} />)}</ul></>}
+            {optional.length > 0 && <><h3 className="resource-label">Explore further</h3><ul className="resources">{optional.map(resource => <ResourceItem key={resource.id} resource={resource} loMap={loMap} />)}</ul></>}
+          </section>
+        })}
+      </div>
     </section>
   )
 }

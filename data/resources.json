@@ -14,7 +14,8 @@
       4,
       7
     ],
-    "required": true
+    "required": true,
+    "topic": "Origins, Genres, and Personal Histories"
   },
   {
     "id": "week-1-introduction:-your-video-game-story-youtube-the-history-of-video-games-do",
@@ -28,7 +29,8 @@
     "learningOutcomes": [
       1
     ],
-    "required": true
+    "required": true,
+    "topic": "Origins, Genres, and Personal Histories"
   },
   {
     "id": "week-1-introduction:-your-video-game-story-infographic-and-article-50-years-of-g",
@@ -44,7 +46,8 @@
       4,
       8
     ],
-    "required": true
+    "required": true,
+    "topic": "Origins, Genres, and Personal Histories"
   },
   {
     "id": "week-1-introduction:-your-video-game-story-youtube-i-played-100-years-of-video-g",
@@ -56,7 +59,8 @@
     "duration": "",
     "notes": "Video from YouTube creator Sambucha that covers 100 years of video games. Casual, entertaining overview. Some overlaps with other materials.",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Origins, Genres, and Personal Histories"
   },
   {
     "id": "week-1-introduction:-your-video-game-story-article-the-definitive-guide-to-video",
@@ -68,7 +72,8 @@
     "duration": "60 min",
     "notes": "Helpful for distinguishing game genres. A bit long, so consider skimming or bookmarking and using as a reference.",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Origins, Genres, and Personal Histories"
   },
   {
     "id": "week-1-introduction:-your-video-game-story-youtube-the-birth-of-basic",
@@ -80,7 +85,8 @@
     "duration": "",
     "notes": "Not directly about games, but ties into my story. A short history of the BASIC programming language.",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Origins, Genres, and Personal Histories"
   },
   {
     "id": "week-1-introduction:-your-video-game-story-youtube-1981:-how-computer-graphics-w",
@@ -92,7 +98,8 @@
     "duration": "",
     "notes": "Fun historical look at early predictions about graphics technology.",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Origins, Genres, and Personal Histories"
   },
   {
     "id": "week-2-arcade-and-location-based-games-article-history-of-coin-operated-arcade-g",
@@ -106,7 +113,8 @@
     "learningOutcomes": [
       1
     ],
-    "required": true
+    "required": true,
+    "topic": "Arcades and Public Play"
   },
   {
     "id": "week-2-arcade-and-location-based-games-youtube-insert-coin",
@@ -120,7 +128,8 @@
     "learningOutcomes": [
       4
     ],
-    "required": true
+    "required": true,
+    "topic": "Arcades and Public Play"
   },
   {
     "id": "week-2-arcade-and-location-based-games-youtube-how-arcades-are-reinventing-fun",
@@ -136,7 +145,8 @@
       5,
       8
     ],
-    "required": true
+    "required": true,
+    "topic": "Arcades and Public Play"
   },
   {
     "id": "week-2-arcade-and-location-based-games-article-what-is-location-based-entertainm",
@@ -151,7 +161,8 @@
       1,
       8
     ],
-    "required": true
+    "required": true,
+    "topic": "Arcades and Public Play"
   },
   {
     "id": "week-2-arcade-and-location-based-games-youtube-what-is-location-based-vr",
@@ -166,7 +177,8 @@
       1,
       8
     ],
-    "required": true
+    "required": true,
+    "topic": "Arcades and Public Play"
   },
   {
     "id": "week-2-arcade-and-location-based-games-article-the-history-of-atari:-1971-1977",
@@ -178,7 +190,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Arcades and Public Play"
   },
   {
     "id": "week-2-arcade-and-location-based-games-comic-rise-and-fall-of-atari:-atari-backs",
@@ -190,7 +203,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Arcades and Public Play"
   },
   {
     "id": "week-2-arcade-and-location-based-games-article-coin-op-century:-a-brief-history-",
@@ -202,7 +216,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Arcades and Public Play"
   },
   {
     "id": "week-2-arcade-and-location-based-games-the-ted-dabney-experience-podcasthttps-ww",
@@ -214,7 +229,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Arcades and Public Play"
   },
   {
     "id": "week-2-arcade-and-location-based-games-article-space-invaders:-tomohiro-nishikad",
@@ -226,7 +242,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Arcades and Public Play"
   },
   {
     "id": "week-2-arcade-and-location-based-games-book-replay:-the-history-of-video-games",
@@ -238,7 +255,8 @@
     "duration": "",
     "notes": "*Replay: The History of Video Games* by Tristan Donovan (especially chapters 1-3 and 18)",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Arcades and Public Play"
   },
   {
     "id": "week-2-arcade-and-location-based-games-youtube-1971:-the-video-game-arcade-is-bo",
@@ -250,7 +268,8 @@
     "duration": "5 min",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Arcades and Public Play"
   },
   {
     "id": "week-2-arcade-and-location-based-games-youtube-arcades-:-the-universal-language-",
@@ -262,7 +281,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Arcades and Public Play"
   },
   {
     "id": "week-2-arcade-and-location-based-games-youtube-the-arcade-project:-a-cultural-hi",
@@ -274,7 +294,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Arcades and Public Play"
   },
   {
     "id": "week-2-arcade-and-location-based-games-youtube-the-infinite-immersive-experience",
@@ -286,7 +307,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Arcades and Public Play"
   },
   {
     "id": "week-2-arcade-and-location-based-games-youtube-vr-gym-and-vr-gaming-arena-all-in",
@@ -298,7 +320,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Arcades and Public Play"
   },
   {
     "id": "week-2-arcade-and-location-based-games-youtube-nomadic-location-based-vr-experie",
@@ -310,7 +333,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Arcades and Public Play"
   },
   {
     "id": "week-2-arcade-and-location-based-games-youtube-about-vrcave-vr-for-location-base",
@@ -322,7 +346,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Arcades and Public Play"
   },
   {
     "id": "week-2-arcade-and-location-based-games-high-scorehttps-wwwnetflixcomtitle8101908",
@@ -334,7 +359,8 @@
     "duration": "",
     "notes": "High Score (Netflix series)",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Arcades and Public Play"
   },
   {
     "id": "week-2-arcade-and-location-based-games-visit-an-arcade",
@@ -346,7 +372,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Arcades and Public Play"
   },
   {
     "id": "week-3-gaming-consoles-and-pc-gaming-youtube-the-evolution-of-gaming-pcs",
@@ -360,7 +387,8 @@
     "learningOutcomes": [
       1
     ],
-    "required": true
+    "required": true,
+    "topic": "Consoles, Computers, and Distribution"
   },
   {
     "id": "week-3-gaming-consoles-and-pc-gaming-youtube-evolution-of-video-game-graphics-19",
@@ -375,7 +403,8 @@
       1,
       5
     ],
-    "required": true
+    "required": true,
+    "topic": "Consoles, Computers, and Distribution"
   },
   {
     "id": "week-3-gaming-consoles-and-pc-gaming-article-the-evolution-of-game-genres:-nes-g",
@@ -390,7 +419,8 @@
       1,
       5
     ],
-    "required": true
+    "required": true,
+    "topic": "Consoles, Computers, and Distribution"
   },
   {
     "id": "week-3-gaming-consoles-and-pc-gaming-youtube-atari:-game-over",
@@ -406,7 +436,8 @@
       2,
       4
     ],
-    "required": true
+    "required": true,
+    "topic": "Consoles, Computers, and Distribution"
   },
   {
     "id": "week-3-gaming-consoles-and-pc-gaming-article-the-birth-of-video-games",
@@ -421,7 +452,8 @@
       1,
       5
     ],
-    "required": true
+    "required": true,
+    "topic": "Consoles, Computers, and Distribution"
   },
   {
     "id": "week-3-gaming-consoles-and-pc-gaming-youtube-how-four-friends-invented-modern-fp",
@@ -436,7 +468,8 @@
       1,
       5
     ],
-    "required": true
+    "required": true,
+    "topic": "Consoles, Computers, and Distribution"
   },
   {
     "id": "week-3-gaming-consoles-and-pc-gaming-youtube-the-history-of-myst:-how-it-changed",
@@ -451,7 +484,8 @@
       1,
       5
     ],
-    "required": true
+    "required": true,
+    "topic": "Consoles, Computers, and Distribution"
   },
   {
     "id": "week-3-gaming-consoles-and-pc-gaming-article-the-joy-of-sticks",
@@ -466,7 +500,8 @@
       1,
       5
     ],
-    "required": true
+    "required": true,
+    "topic": "Consoles, Computers, and Distribution"
   },
   {
     "id": "week-3-gaming-consoles-and-pc-gaming-youtube-colossal-cave-a-deeper-look",
@@ -481,7 +516,8 @@
       1,
       5
     ],
-    "required": true
+    "required": true,
+    "topic": "Consoles, Computers, and Distribution"
   },
   {
     "id": "week-3-gaming-consoles-and-pc-gaming-youtube-the-10-most-important-game-engines-",
@@ -496,7 +532,8 @@
       1,
       5
     ],
-    "required": true
+    "required": true,
+    "topic": "Consoles, Computers, and Distribution"
   },
   {
     "id": "week-3-gaming-consoles-and-pc-gaming-youtube-the-creators-of-tetris-didnt-know-a",
@@ -508,7 +545,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Consoles, Computers, and Distribution"
   },
   {
     "id": "week-3-gaming-consoles-and-pc-gaming-youtube-how-prince-of-persia-defeated-apple",
@@ -520,7 +558,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Consoles, Computers, and Distribution"
   },
   {
     "id": "week-3-gaming-consoles-and-pc-gaming-book-game-over:-how-nintendo-conquered-the-",
@@ -532,7 +571,8 @@
     "duration": "",
     "notes": "*Game Over: How Nintendo Conquered the World* by David Sheff",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Consoles, Computers, and Distribution"
   },
   {
     "id": "week-3-gaming-consoles-and-pc-gaming-book-hackers:-heroes-of-the-computer-revolu",
@@ -544,7 +584,8 @@
     "duration": "",
     "notes": "*Hackers: Heroes of the Computer Revolution* by Steven Leary",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Consoles, Computers, and Distribution"
   },
   {
     "id": "week-3-gaming-consoles-and-pc-gaming-book-not-all-fairy-tales-have-happy-endings",
@@ -556,7 +597,8 @@
     "duration": "",
     "notes": "*Not All Fairy Tales Have Happy Endings: The rise and fall of Sierra On-Line* by Ken Williams",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Consoles, Computers, and Distribution"
   },
   {
     "id": "week-3-gaming-consoles-and-pc-gaming-book-the-apple-ii-age:-how-the-computer-bec",
@@ -568,7 +610,8 @@
     "duration": "",
     "notes": "*The Apple II Age: How the Computer Became Personal* by Laine Nooney",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Consoles, Computers, and Distribution"
   },
   {
     "id": "week-3-gaming-consoles-and-pc-gaming-book-the-perfect-game-tetris:-from-russia-w",
@@ -580,7 +623,8 @@
     "duration": "",
     "notes": "*The Perfect Game Tetris: From Russia With Love* by Henk Rogers",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Consoles, Computers, and Distribution"
   },
   {
     "id": "week-3-gaming-consoles-and-pc-gaming-tetrishttps-tvapplecomusmovietetrisumccmc4e",
@@ -592,7 +636,8 @@
     "duration": "",
     "notes": "Tetris (Apple TV+ movie)",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Consoles, Computers, and Distribution"
   },
   {
     "id": "week-3-gaming-consoles-and-pc-gaming-halt-and-catch-firehttps-wwwamcpluscomshows",
@@ -604,7 +649,8 @@
     "duration": "",
     "notes": "Halt and Catch Fire (AMC series)",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Consoles, Computers, and Distribution"
   },
   {
     "id": "week-3-gaming-consoles-and-pc-gaming-console-warshttps-wwwyoutubecomwatchvghpfln",
@@ -616,7 +662,8 @@
     "duration": "",
     "notes": "Console Wars (Paramount+ documentary)",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Consoles, Computers, and Distribution"
   },
   {
     "id": "week-3-gaming-consoles-and-pc-gaming-mythic-questhttps-wwwubisoftcomen-usenterta",
@@ -628,7 +675,8 @@
     "duration": "",
     "notes": "Mythic Quest (Apple TV+ series from Ubisoft)",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Consoles, Computers, and Distribution"
   },
   {
     "id": "week-3-gaming-consoles-and-pc-gaming-youtube-history-of-pc-gaming",
@@ -640,7 +688,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Consoles, Computers, and Distribution"
   },
   {
     "id": "week-3-gaming-consoles-and-pc-gaming-podcast-beyond-solitaire-podcast-184:-laine",
@@ -652,7 +701,8 @@
     "duration": "",
     "notes": "Beyond Solitaire Podcast 184: Laine Nooney on the Apple II Age (also on [YouTube)",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Consoles, Computers, and Distribution"
   },
   {
     "id": "week-3-gaming-consoles-and-pc-gaming-podcast-the-internet-history-podcast:-the-h",
@@ -664,7 +714,8 @@
     "duration": "",
     "notes": "The Internet History Podcast: The History of Sierra Online With Laine Nooney (also on [YouTube)",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Consoles, Computers, and Distribution"
   },
   {
     "id": "week-3-gaming-consoles-and-pc-gaming-article-lets-begin-again:-sierra-on-line-an",
@@ -676,7 +727,8 @@
     "duration": "",
     "notes": "Let's Begin Again: Sierra On-Line and the Origins of the Graphical Adventure Game by Laine Nooney",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Consoles, Computers, and Distribution"
   },
   {
     "id": "week-3-gaming-consoles-and-pc-gaming-book-series-the-ultimate-history-of-video-g",
@@ -688,7 +740,8 @@
     "duration": "",
     "notes": "*The Ultimate History of Video Games* by Steven Kent",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Consoles, Computers, and Distribution"
   },
   {
     "id": "week-3-gaming-consoles-and-pc-gaming-youtube-classic-postmortem:-the-making-of-m",
@@ -700,7 +753,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Consoles, Computers, and Distribution"
   },
   {
     "id": "week-3-gaming-consoles-and-pc-gaming-youtube-how-myst-almost-couldnt-run-on-cd-r",
@@ -712,7 +766,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Consoles, Computers, and Distribution"
   },
   {
     "id": "week-3-gaming-consoles-and-pc-gaming-youtube-cyan-and-myst-series-memories-with-",
@@ -724,7 +779,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Consoles, Computers, and Distribution"
   },
   {
     "id": "week-3-gaming-consoles-and-pc-gaming-youtube-the-entire-history-of-rpgs",
@@ -736,7 +792,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Consoles, Computers, and Distribution"
   },
   {
     "id": "week-4-portable-gaming-youtube-the-evolution-of-handheld-gaming",
@@ -750,7 +807,8 @@
     "learningOutcomes": [
       1
     ],
-    "required": true
+    "required": true,
+    "topic": "Portable and Mobile Gaming"
   },
   {
     "id": "week-4-portable-gaming-article-the-history-evolution-and-future-of-mobile-gaming",
@@ -765,7 +823,8 @@
       1,
       8
     ],
-    "required": true
+    "required": true,
+    "topic": "Portable and Mobile Gaming"
   },
   {
     "id": "week-4-portable-gaming-youtube-the-summer-of-pokemon-go",
@@ -781,7 +840,8 @@
       4,
       8
     ],
-    "required": true
+    "required": true,
+    "topic": "Portable and Mobile Gaming"
   },
   {
     "id": "week-4-portable-gaming-youtube-how-free-games-trick-you-into-spending-money",
@@ -795,7 +855,8 @@
     "learningOutcomes": [
       4
     ],
-    "required": true
+    "required": true,
+    "topic": "Portable and Mobile Gaming"
   },
   {
     "id": "week-4-portable-gaming-article-fortnite-players-get-millions-in-refunds-for-unwa",
@@ -809,7 +870,8 @@
     "learningOutcomes": [
       4
     ],
-    "required": true
+    "required": true,
+    "topic": "Portable and Mobile Gaming"
   },
   {
     "id": "week-4-portable-gaming-youtube-free-to-share-games-just-got-serious",
@@ -824,7 +886,8 @@
       1,
       8
     ],
-    "required": true
+    "required": true,
+    "topic": "Portable and Mobile Gaming"
   },
   {
     "id": "week-4-portable-gaming-youtube-buying-tiger-handheld-lcd-games-in-the-90s-we-wer",
@@ -838,7 +901,8 @@
     "learningOutcomes": [
       1
     ],
-    "required": true
+    "required": true,
+    "topic": "Portable and Mobile Gaming"
   },
   {
     "id": "week-4-portable-gaming-article-mass-market-mystery-boxes-and-metric-driven-desig",
@@ -853,7 +917,8 @@
       1,
       4
     ],
-    "required": true
+    "required": true,
+    "topic": "Portable and Mobile Gaming"
   },
   {
     "id": "week-4-portable-gaming-youtube-the-game-boy-advance-chronicles-a-brutally-sacrif",
@@ -865,7 +930,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Portable and Mobile Gaming"
   },
   {
     "id": "week-4-portable-gaming-youtube-nintendo-switch-2-hands-on-hidden-costs",
@@ -877,7 +943,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Portable and Mobile Gaming"
   },
   {
     "id": "week-4-portable-gaming-youtube-dude-just-get-a-steam-deck",
@@ -889,7 +956,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Portable and Mobile Gaming"
   },
   {
     "id": "week-4-portable-gaming-podcast-the-indie-game-development-podcast-may-8-2024:-ho",
@@ -901,7 +969,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Portable and Mobile Gaming"
   },
   {
     "id": "week-4-portable-gaming-press-release-ftc-finalizes-order-requiring-fortnite-make",
@@ -913,7 +982,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Portable and Mobile Gaming"
   },
   {
     "id": "week-4-portable-gaming-article-monetisation-in-video-games",
@@ -925,7 +995,8 @@
     "duration": "~22 min",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Portable and Mobile Gaming"
   },
   {
     "id": "week-4-portable-gaming-video-where-the-whales-live:-the-pyramid-model-of-f2p-des",
@@ -937,7 +1008,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Portable and Mobile Gaming"
   },
   {
     "id": "week-4-portable-gaming-book-masters-of-doom:-how-two-guys-created-an-empire-and-",
@@ -949,7 +1021,8 @@
     "duration": "",
     "notes": "*Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture* by David Kushner",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Portable and Mobile Gaming"
   },
   {
     "id": "week-5-gender-and-minority-representation-youtube-playlist-tropes-vs-women-in-vi",
@@ -963,7 +1036,8 @@
     "learningOutcomes": [
       2
     ],
-    "required": true
+    "required": true,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-5-gender-and-minority-representation-article-the-gaming-industry-needs-more",
@@ -977,7 +1051,8 @@
     "learningOutcomes": [
       2
     ],
-    "required": true
+    "required": true,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-5-gender-and-minority-representation-youtube-inclusive-character-creator",
@@ -991,7 +1066,8 @@
     "learningOutcomes": [
       2
     ],
-    "required": true
+    "required": true,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-5-gender-and-minority-representation-book-excerpt-the-power-of-play:-the-po",
@@ -1005,7 +1081,8 @@
     "learningOutcomes": [
       2
     ],
-    "required": true
+    "required": true,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-5-gender-and-minority-representation-article-the-video-game-industrys-probl",
@@ -1019,7 +1096,8 @@
     "learningOutcomes": [
       2
     ],
-    "required": true
+    "required": true,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-5-gender-and-minority-representation-article-gdc-2024-report:-more-of-the-s",
@@ -1033,7 +1111,8 @@
     "learningOutcomes": [
       2
     ],
-    "required": true
+    "required": true,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-5-gender-and-minority-representation-youtube-beyond-solitaire-podcast-103:-",
@@ -1047,7 +1126,8 @@
     "learningOutcomes": [
       2
     ],
-    "required": true
+    "required": true,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-5-gender-and-minority-representation-article-the-history-of-lgbtq-represent",
@@ -1061,7 +1141,8 @@
     "learningOutcomes": [
       2
     ],
-    "required": true
+    "required": true,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-5-gender-and-minority-representation-articletranscript-how-the-first-lgbtq-",
@@ -1075,7 +1156,8 @@
     "learningOutcomes": [
       2
     ],
-    "required": true
+    "required": true,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-5-gender-and-minority-representation-audiotranscript-video-game-creators-ar",
@@ -1089,7 +1171,8 @@
     "learningOutcomes": [
       2
     ],
-    "required": true
+    "required": true,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-5-gender-and-minority-representation-article-another-world-conquered-by-vid",
@@ -1103,7 +1186,8 @@
     "learningOutcomes": [
       2
     ],
-    "required": true
+    "required": true,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-5-gender-and-minority-representation-review-gaming-representation:-race-gen",
@@ -1115,7 +1199,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-5-gender-and-minority-representation-game-devs-of-color-expo-website",
@@ -1127,7 +1212,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-5-gender-and-minority-representation-game-devs-of-color-expo-youtube-channe",
@@ -1139,8 +1225,9 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
-  }, 
+    "required": false,
+    "topic": "Representation and Inclusion"
+  },
   {
     "id": "week-5-gender-and-minority-representation-lgbtq-video-game-archivehttps-lgbtqgam",
     "moduleSlug": "week-5-gender-and-minority-representation",
@@ -1151,7 +1238,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-5-gender-and-minority-representation-article-pac-man-was-developed-with-wom",
@@ -1163,7 +1251,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-5-gender-and-minority-representation-book-woke-gaming-:-digital-challenges-",
@@ -1175,7 +1264,8 @@
     "duration": "",
     "notes": "*Woke Gaming : Digital Challenges to Oppression and Social Injustice* edited by Kishonna L. Gray and David J. Leonard",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-5-gender-and-minority-representation-book-gaming-representation:-race-gende",
@@ -1187,7 +1277,8 @@
     "duration": "",
     "notes": "*Gaming Representation: Race, Gender, and Sexuality in Video Games* by Jennifer Malkowski and TreaAndrea M. Russworm",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-5-gender-and-minority-representation-book-gaming-at-the-edge-:-sexuality-an",
@@ -1199,7 +1290,8 @@
     "duration": "",
     "notes": "*Gaming at the edge : sexuality and gender at the margins of gamer culture* by Adrienne Shaw",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-5-gender-and-minority-representation-polygamer-podcasthttps-wwwpolygamernet",
@@ -1211,7 +1303,8 @@
     "duration": "",
     "notes": "Polygamer Podcast",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-5-gender-and-minority-representation-report-2024-state-of-the-game-industry",
@@ -1223,7 +1316,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-5-gender-and-minority-representation-women-in-gameshttps-wwwwomeningamesorg",
@@ -1235,7 +1329,8 @@
     "duration": "",
     "notes": "Women in Games",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-5-gender-and-minority-representation-article-10-games-with-the-most-inclusi",
@@ -1247,7 +1342,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-5-gender-and-minority-representation-article-activision-increased-represent",
@@ -1259,7 +1355,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-5-gender-and-minority-representation-article-activision-blizzard-to-pay-54m",
@@ -1271,7 +1368,8 @@
     "duration": "https://fortune.com/2023/12/17/activision-blizzard-settles-gender-discrimination-lawsuit/",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-5-gender-and-minority-representation-reddit-thread-what-do-you-think-about-",
@@ -1283,7 +1381,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-5-gender-and-minority-representation-qweerty-gamershttps-wwwqweertygamersor",
@@ -1295,7 +1394,8 @@
     "duration": "",
     "notes": "Qweerty Gamers",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-5-gender-and-minority-representation-article-8-oldest-games-with-queer-repr",
@@ -1307,7 +1407,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-5-gender-and-minority-representation-youtube-they-found-gayblade-from-netfl",
@@ -1319,7 +1420,8 @@
     "duration": "",
     "notes": "They found GayBlade! (from Netflix's High Score series) (or [play GayBlade! in your Web browser on The Internet Archive)",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-5-gender-and-minority-representation-youtube-caper-in-the-castro-overview-a",
@@ -1331,7 +1433,8 @@
     "duration": "",
     "notes": "Caper in the Castro - Overview & Analysis of the First LGBT+ Video Game. Built in HyperCard for Mac (or [play Caper in the Castro in your Web browser on The Internet Archive)",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-5-gender-and-minority-representation-tell-me-why",
@@ -1343,7 +1446,8 @@
     "duration": "",
     "notes": "Full game (all 3 episodes) on Steam - generally available for free during the month of June",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-5-gender-and-minority-representation-tell-me-why-playthrough",
@@ -1355,7 +1459,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-5-gender-and-minority-representation-article-the-kiss-that-changed-video-ga",
@@ -1367,7 +1472,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Representation and Inclusion"
   },
   {
     "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-ted-talk-",
@@ -1379,7 +1485,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Civic Engagement, War, and Violence"
   },
   {
     "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-blog-post",
@@ -1393,7 +1500,8 @@
     "learningOutcomes": [
       3
     ],
-    "required": true
+    "required": true,
+    "topic": "Civic Engagement, War, and Violence"
   },
   {
     "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-articleau",
@@ -1407,7 +1515,8 @@
     "learningOutcomes": [
       3
     ],
-    "required": true
+    "required": true,
+    "topic": "Civic Engagement, War, and Violence"
   },
   {
     "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-article-w",
@@ -1421,7 +1530,8 @@
     "learningOutcomes": [
       4
     ],
-    "required": true
+    "required": true,
+    "topic": "Civic Engagement, War, and Violence"
   },
   {
     "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-youtube-m",
@@ -1433,7 +1543,8 @@
     "duration": "~13 min",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Civic Engagement, War, and Violence"
   },
   {
     "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-argument-",
@@ -1447,7 +1558,8 @@
     "learningOutcomes": [
       4
     ],
-    "required": true
+    "required": true,
+    "topic": "Civic Engagement, War, and Violence"
   },
   {
     "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-article-c",
@@ -1463,7 +1575,8 @@
       3,
       4
     ],
-    "required": true
+    "required": true,
+    "topic": "Civic Engagement, War, and Violence"
   },
   {
     "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-audio-sta",
@@ -1479,7 +1592,8 @@
       3,
       4
     ],
-    "required": true
+    "required": true,
+    "topic": "Civic Engagement, War, and Violence"
   },
   {
     "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-world-reb",
@@ -1491,7 +1605,8 @@
     "duration": "",
     "notes": "World Reborn is an interactive story game platform where players practice becoming a hero (dealing with bullying, prejudice, etc.) within the mobile game and then unlock missions to be a hero in real life.",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Civic Engagement, War, and Violence"
   },
   {
     "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-gamersvot",
@@ -1503,7 +1618,8 @@
     "duration": "",
     "notes": "Gamers.Vote is a platform encouraging gamers to engage in voting and civic participation.",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Civic Engagement, War, and Violence"
   },
   {
     "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-article-a",
@@ -1517,7 +1633,8 @@
     "learningOutcomes": [
       4
     ],
-    "required": false
+    "required": false,
+    "topic": "Civic Engagement, War, and Violence"
   },
   {
     "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-book-assa",
@@ -1529,7 +1646,8 @@
     "duration": "",
     "notes": "*Assassination Generation: Video Games, Aggression, and the Psychology of Killing* by Lieutenant Colonel Dave Grossman, Kristine Paulsen, Katie Miserany",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Civic Engagement, War, and Violence"
   },
   {
     "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-youtube-g",
@@ -1541,7 +1659,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Civic Engagement, War, and Violence"
   },
   {
     "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-youtube-o",
@@ -1553,7 +1672,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Civic Engagement, War, and Violence"
   },
   {
     "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-youtube-t",
@@ -1565,7 +1685,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Civic Engagement, War, and Violence"
   },
   {
     "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-article-v",
@@ -1577,7 +1698,8 @@
     "duration": "~52 min",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Civic Engagement, War, and Violence"
   },
   {
     "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-youtube-w",
@@ -1589,7 +1711,8 @@
     "duration": "~90 min",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Civic Engagement, War, and Violence"
   },
   {
     "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-research-",
@@ -1601,7 +1724,8 @@
     "duration": "~48 min",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Civic Engagement, War, and Violence"
   },
   {
     "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-podcast-c",
@@ -1613,7 +1737,8 @@
     "duration": "~70 min",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Civic Engagement, War, and Violence"
   },
   {
     "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-book-the-",
@@ -1625,7 +1750,8 @@
     "duration": "",
     "notes": "The Best Non-Violent Video Games by James Batchelor",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Civic Engagement, War, and Violence"
   },
   {
     "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-article-i",
@@ -1637,7 +1763,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Civic Engagement, War, and Violence"
   },
   {
     "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-youtube-p",
@@ -1649,7 +1776,8 @@
     "duration": "~13 min",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Civic Engagement, War, and Violence"
   },
   {
     "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-youtube-a",
@@ -1661,7 +1789,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Civic Engagement, War, and Violence"
   },
   {
     "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-this-war-of-mine",
@@ -1673,7 +1802,8 @@
     "duration": "",
     "notes": "Play and discuss This War of Mine or Papers, Please (addressing civic and ethical issues), or watch the Papers, Please short film on Steam or YouTube, or find gameplay on Twitch/YouTube",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Civic Engagement, War, and Violence"
   },
   {
     "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-papers-please",
@@ -1685,7 +1815,8 @@
     "duration": "",
     "notes": "Play and discuss This War of Mine or Papers, Please (addressing civic and ethical issues), or watch the Papers, Please short film on Steam or YouTube, or find gameplay on Twitch/YouTube",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Civic Engagement, War, and Violence"
   },
   {
     "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-papers-please-film-youtube",
@@ -1697,7 +1828,8 @@
     "duration": "~11 min",
     "notes": "Play and discuss This War of Mine or Papers, Please (addressing civic and ethical issues), or watch the Papers, Please short film on Steam or YouTube, or find gameplay on Twitch/YouTube",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Civic Engagement, War, and Violence"
   },
   {
     "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-papers-please-film-steam",
@@ -1709,7 +1841,8 @@
     "duration": "~11 min",
     "notes": "Play and discuss This War of Mine or Papers, Please (addressing civic and ethical issues), or watch the Papers, Please short film on Steam or YouTube, or find gameplay on Twitch/YouTube",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Civic Engagement, War, and Violence"
   },
   {
     "id": "week-7-gaming-and-medicine-article-the-expanding-role-of-video-games-in-medicine",
@@ -1723,7 +1856,8 @@
     "learningOutcomes": [
       3
     ],
-    "required": true
+    "required": true,
+    "topic": "Games, Health, and Medicine"
   },
   {
     "id": "week-7-gaming-and-medicine-articleyoutube-video-games-offer-the-potential-of-exp",
@@ -1737,7 +1871,8 @@
     "learningOutcomes": [
       3
     ],
-    "required": true
+    "required": true,
+    "topic": "Games, Health, and Medicine"
   },
   {
     "id": "week-7-gaming-and-medicine-article-how-health-systems-are-using-video-games-for-",
@@ -1751,7 +1886,8 @@
     "learningOutcomes": [
       3
     ],
-    "required": true
+    "required": true,
+    "topic": "Games, Health, and Medicine"
   },
   {
     "id": "week-7-gaming-and-medicine-article-zach-wigal-on-helping-hospitals-through-gamin",
@@ -1767,7 +1903,8 @@
       3,
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Games, Health, and Medicine"
   },
   {
     "id": "week-7-gaming-and-medicine-article-the-benefits-of-playing-video-games",
@@ -1781,7 +1918,8 @@
     "learningOutcomes": [
       3
     ],
-    "required": true
+    "required": true,
+    "topic": "Games, Health, and Medicine"
   },
   {
     "id": "week-7-gaming-and-medicine-ted-talk-can-a-video-game-save-a-life",
@@ -1795,7 +1933,8 @@
     "learningOutcomes": [
       3
     ],
-    "required": true
+    "required": true,
+    "topic": "Games, Health, and Medicine"
   },
   {
     "id": "week-7-gaming-and-medicine-youtube-how-years-of-gaming-affects-your-brain",
@@ -1810,7 +1949,8 @@
       3,
       4
     ],
-    "required": true
+    "required": true,
+    "topic": "Games, Health, and Medicine"
   },
   {
     "id": "week-7-gaming-and-medicine-book-superbetter",
@@ -1822,7 +1962,8 @@
     "duration": "",
     "notes": "SuperBetter by Jane McGonigal",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games, Health, and Medicine"
   },
   {
     "id": "week-7-gaming-and-medicine-book-getting-gamers-:-the-psychology-of-video-games-a",
@@ -1834,7 +1975,8 @@
     "duration": "",
     "notes": "Getting gamers : the psychology of video games and their impact on the people who play them by Jamie Madigan",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games, Health, and Medicine"
   },
   {
     "id": "week-7-gaming-and-medicine-book-mind-at-play-:-the-psychology-of-video-games",
@@ -1846,7 +1988,8 @@
     "duration": "",
     "notes": "Mind at play : the psychology of video games by Geoffrey R. Loftus, Elizabeth F. Loftus",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games, Health, and Medicine"
   },
   {
     "id": "week-7-gaming-and-medicine-book-the-psychology-of-video-games",
@@ -1858,7 +2001,8 @@
     "duration": "",
     "notes": "The Psychology of Video Games by Celia Hodent",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games, Health, and Medicine"
   },
   {
     "id": "week-7-gaming-and-medicine-articles-on-foldit-and-other-medical-simulation-games",
@@ -1870,7 +2014,8 @@
     "duration": "",
     "notes": "Read articles on Foldit and other medical simulation games",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games, Health, and Medicine"
   },
   {
     "id": "week-7-gaming-and-medicine-articles-on-foldit-and-other-medical-simulation-games-1",
@@ -1882,7 +2027,8 @@
     "duration": "",
     "notes": "Read articles on Foldit and other medical simulation games",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games, Health, and Medicine"
   },
   {
     "id": "week-7-gaming-and-medicine-articles-on-foldit-and-other-medical-simulation-games-2",
@@ -1894,7 +2040,8 @@
     "duration": "",
     "notes": "Read articles on Foldit and other medical simulation games",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games, Health, and Medicine"
   },
   {
     "id": "week-7-gaming-and-medicine-articles-on-foldit-and-other-medical-simulation-games-3",
@@ -1906,7 +2053,8 @@
     "duration": "",
     "notes": "Read articles on Foldit and other medical simulation games",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games, Health, and Medicine"
   },
   {
     "id": "week-7-gaming-and-medicine-articles-on-foldit-and-other-medical-simulation-games-4",
@@ -1918,7 +2066,8 @@
     "duration": "",
     "notes": "Read articles on Foldit and other medical simulation games",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games, Health, and Medicine"
   },
   {
     "id": "week-7-gaming-and-medicine-articles-on-foldit-and-other-medical-simulation-games-5",
@@ -1930,7 +2079,8 @@
     "duration": "",
     "notes": "Read articles on Foldit and other medical simulation games",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games, Health, and Medicine"
   },
   {
     "id": "week-7-gaming-and-medicine-ted-talk-a-video-game-that-helps-us-understand-loneli",
@@ -1942,7 +2092,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games, Health, and Medicine"
   },
   {
     "id": "week-7-gaming-and-medicine-article-effects-of-interactive-physical-activity-vide",
@@ -1956,7 +2107,8 @@
     "learningOutcomes": [
       3
     ],
-    "required": false
+    "required": false,
+    "topic": "Games, Health, and Medicine"
   },
   {
     "id": "week-7-gaming-and-medicine-research-report-role-of-video-games-in-improving-heal",
@@ -1970,7 +2122,8 @@
     "learningOutcomes": [
       3
     ],
-    "required": false
+    "required": false,
+    "topic": "Games, Health, and Medicine"
   },
   {
     "id": "week-7-gaming-and-medicine-gamers-outreachhttps-gamersoutreachorg",
@@ -1982,7 +2135,8 @@
     "duration": "",
     "notes": "Gamers Outreach",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games, Health, and Medicine"
   },
   {
     "id": "week-7-gaming-and-medicine-youtube-hermitcraft-gamers-for-giving-charity-weekend-day-1",
@@ -1994,7 +2148,8 @@
     "duration": "10 hrs 8 min",
     "notes": "Hermitcraft Gamers For Giving Charity Weekend! (Day 1) from impulseSV",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games, Health, and Medicine"
   },
   {
     "id": "week-7-gaming-and-medicine-youtube-hermitcraft-gamers-for-giving-charity-weekend-day-2",
@@ -2006,7 +2161,8 @@
     "duration": "10 hrs 16 min",
     "notes": "Hermitcraft For Charity | Gamers Outreach Event Day 2! from PearlescentMoon",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games, Health, and Medicine"
   },
   {
     "id": "week-7-gaming-and-medicine-blog-post-15-ground-breaking-video-games-modernising-",
@@ -2018,7 +2174,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games, Health, and Medicine"
   },
   {
     "id": "week-7-gaming-and-medicine-article-new-groundbreaking-study-finds-medical-video-",
@@ -2030,7 +2187,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games, Health, and Medicine"
   },
   {
     "id": "week-7-gaming-and-medicine-article-better-health-through-video-games",
@@ -2042,7 +2200,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games, Health, and Medicine"
   },
   {
     "id": "week-7-gaming-and-medicine-article-gaming-and-medicine",
@@ -2054,7 +2213,8 @@
     "duration": "https://seasonedgaming.com/2022/09/07/gaming-and-medicine/",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games, Health, and Medicine"
   },
   {
     "id": "week-7-gaming-and-medicine-serious-play-conferencehttps-seriousplayconfcom",
@@ -2066,7 +2226,8 @@
     "duration": "",
     "notes": "Serious Play Conference",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games, Health, and Medicine"
   },
   {
     "id": "week-7-gaming-and-medicine-serious-gameshttps-wwwhealthysimulationcomserious-gam",
@@ -2078,7 +2239,8 @@
     "duration": "",
     "notes": "Serious Games",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games, Health, and Medicine"
   },
   {
     "id": "week-7-gaming-and-medicine-journal-of-medical-extended-realityhttps-homeliebertp",
@@ -2090,7 +2252,8 @@
     "duration": "",
     "notes": "Journal of Medical Extended Reality",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games, Health, and Medicine"
   },
   {
     "id": "week-8-edutainment-youtube-games-and-education-scholar-james-paul-gee-on-video-g",
@@ -2104,7 +2267,8 @@
     "learningOutcomes": [
       3
     ],
-    "required": true
+    "required": true,
+    "topic": "Games and Learning"
   },
   {
     "id": "week-8-edutainment-ted-talk-how-video-games-can-level-up-the-way-you-learn",
@@ -2118,7 +2282,8 @@
     "learningOutcomes": [
       3
     ],
-    "required": true
+    "required": true,
+    "topic": "Games and Learning"
   },
   {
     "id": "week-8-edutainment-ted-talk-how-ai-immersive-learning-reshapes-education-and-wor",
@@ -2133,7 +2298,8 @@
       3,
       5
     ],
-    "required": true
+    "required": true,
+    "topic": "Games and Learning"
   },
   {
     "id": "week-8-edutainment-blog-post-leveraging-gaming-for-education",
@@ -2147,7 +2313,8 @@
     "learningOutcomes": [
       3
     ],
-    "required": true
+    "required": true,
+    "topic": "Games and Learning"
   },
   {
     "id": "week-8-edutainment-article-find-fun:-how-to-recognize-video-games-that-engage-ki",
@@ -2161,7 +2328,8 @@
     "learningOutcomes": [
       3
     ],
-    "required": true
+    "required": true,
+    "topic": "Games and Learning"
   },
   {
     "id": "week-8-edutainment-youtube-what-makes-great-learning-games",
@@ -2175,7 +2343,8 @@
     "learningOutcomes": [
       3
     ],
-    "required": true
+    "required": true,
+    "topic": "Games and Learning"
   },
   {
     "id": "week-8-edutainment-youtube-learning-to-game-the-school-system-edutainment-games-",
@@ -2189,7 +2358,8 @@
     "learningOutcomes": [
       3
     ],
-    "required": true
+    "required": true,
+    "topic": "Games and Learning"
   },
   {
     "id": "week-8-edutainment-article-13-secretly-educational-video-games-that-kids-will-ac",
@@ -2203,7 +2373,8 @@
     "learningOutcomes": [
       3
     ],
-    "required": true
+    "required": true,
+    "topic": "Games and Learning"
   },
   {
     "id": "week-8-edutainment-ted-talk-the-effective-use-of-game-based-learning-in-educatio",
@@ -2217,7 +2388,8 @@
     "learningOutcomes": [
       3
     ],
-    "required": true
+    "required": true,
+    "topic": "Games and Learning"
   },
   {
     "id": "week-8-edutainment-academic-paper-visuo-spatial-attention-and-reading-abilities:",
@@ -2229,7 +2401,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games and Learning"
   },
   {
     "id": "week-8-edutainment-article-more-than-just-fun-and-games:-the-longitudinal-relati",
@@ -2243,7 +2416,8 @@
     "learningOutcomes": [
       3
     ],
-    "required": false
+    "required": false,
+    "topic": "Games and Learning"
   },
   {
     "id": "week-8-edutainment-article-interactive-video-games-in-physical-education",
@@ -2255,7 +2429,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games and Learning"
   },
   {
     "id": "week-8-edutainment-article-50-educational-video-games-that-homeschoolers-love",
@@ -2267,7 +2442,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games and Learning"
   },
   {
     "id": "week-8-edutainment-youtube-video-games-in-education",
@@ -2279,7 +2455,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games and Learning"
   },
   {
     "id": "week-8-edutainment-youtube-jim-gee-principles-on-gaming",
@@ -2291,7 +2468,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games and Learning"
   },
   {
     "id": "week-8-edutainment-ted-talk-classroom-game-design:-paul-andersen-at-tedxbozeman",
@@ -2303,7 +2481,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games and Learning"
   },
   {
     "id": "week-8-edutainment-ted-talk-the-power-of-gamification-in-education-scott-hebert-",
@@ -2315,7 +2494,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games and Learning"
   },
   {
     "id": "week-8-edutainment-ted-talk-gamification-in-higher-education-christopher-see-ted",
@@ -2327,7 +2507,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games and Learning"
   },
   {
     "id": "week-8-edutainment-ted-talk-your-brain-on-video-games-daphne-bavelier",
@@ -2339,7 +2520,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games and Learning"
   },
   {
     "id": "week-8-edutainment-common-sense-mediahttps-wwwcommonsensemediaorg",
@@ -2351,7 +2533,8 @@
     "duration": "",
     "notes": "Common Sense Media",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games and Learning"
   },
   {
     "id": "week-8-edutainment-ubisofts-echoes-of-history-podcasthttps-openspotifycomshow32d",
@@ -2363,7 +2546,8 @@
     "duration": "",
     "notes": "Ubisoft's Echoes of History Podcast",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games and Learning"
   },
   {
     "id": "week-8-edutainment-book-pastplay:-teaching-and-learning-history-with-technology",
@@ -2375,7 +2559,8 @@
     "duration": "",
     "notes": "Pastplay: Teaching and Learning History with Technology edited by Kevin Kee",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games and Learning"
   },
   {
     "id": "week-8-edutainment-youtube-create-educational-games-with-tinytap",
@@ -2387,7 +2572,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games and Learning"
   },
   {
     "id": "week-8-edutainment-youtube-dangerous-games:-roblox-and-the-metaverse-exposed-doc",
@@ -2399,7 +2585,8 @@
     "duration": "",
     "notes": "Documentary only available in Canada right now, apparently…",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games and Learning"
   },
   {
     "id": "week-8-edutainment-ted-talk-press-play-gaming-simulation-achievement-in-the-clas",
@@ -2411,7 +2598,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Games and Learning"
   },
   {
     "id": "week-9-indie-games-youtube-the-creativity-of-indie-video-games",
@@ -2425,7 +2613,8 @@
     "learningOutcomes": [
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Independent Games and Development"
   },
   {
     "id": "week-9-indie-games-ted-talk-independent-games-for-your-soul",
@@ -2439,7 +2628,8 @@
     "learningOutcomes": [
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Independent Games and Development"
   },
   {
     "id": "week-9-indie-games-article-making-a-name-in-games",
@@ -2454,7 +2644,8 @@
       2,
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Independent Games and Development"
   },
   {
     "id": "week-9-indie-games-youtube-the-history-of-indie-games",
@@ -2468,7 +2659,8 @@
     "learningOutcomes": [
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Independent Games and Development"
   },
   {
     "id": "week-9-indie-games-youtube-the-importance-of-indie-games",
@@ -2482,7 +2674,8 @@
     "learningOutcomes": [
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Independent Games and Development"
   },
   {
     "id": "week-9-indie-games-youtube-how-indie-games-beat-the-aaa-industry",
@@ -2496,7 +2689,8 @@
     "learningOutcomes": [
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Independent Games and Development"
   },
   {
     "id": "week-9-indie-games-youtube-how-one-person-changed-indie-games-forever",
@@ -2510,7 +2704,8 @@
     "learningOutcomes": [
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Independent Games and Development"
   },
   {
     "id": "week-9-indie-games-youtube-how-much-our-first-indie-game-made-no-marketing",
@@ -2524,7 +2719,8 @@
     "learningOutcomes": [
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Independent Games and Development"
   },
   {
     "id": "week-9-indie-games-youtube-everything-i-learned-releasing-my-first-game-on-steam",
@@ -2538,7 +2734,8 @@
     "learningOutcomes": [
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Independent Games and Development"
   },
   {
     "id": "week-9-indie-games-article-peak-selling-1-million-copies-proves-that-video-games",
@@ -2552,7 +2749,8 @@
     "learningOutcomes": [
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Independent Games and Development"
   },
   {
     "id": "week-9-indie-games-youtube-the-best-10-indie-games-of-2025-so-far",
@@ -2566,7 +2764,8 @@
     "learningOutcomes": [
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Independent Games and Development"
   },
   {
     "id": "week-9-indie-games-youtube-everything-you-need-to-start-making-games-as-a-beginn",
@@ -2580,7 +2779,8 @@
     "learningOutcomes": [
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Independent Games and Development"
   },
   {
     "id": "week-9-indie-games-indie-games-the-movie",
@@ -2592,7 +2792,8 @@
     "duration": "",
     "notes": "Indie Games: The Movie (Documentary)",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Independent Games and Development"
   },
   {
     "id": "week-9-indie-games-surviving-indiehttps-wwwyoutubecomwatchvz7cwzhhbmsoabchannelg",
@@ -2604,7 +2805,8 @@
     "duration": "",
     "notes": "Surviving Indie (Documentary)",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Independent Games and Development"
   },
   {
     "id": "week-9-indie-games-article-in-venba-gamers-play-as-an-indian-immigrant-trying-to",
@@ -2616,7 +2818,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Independent Games and Development"
   },
   {
     "id": "week-9-indie-games-article-in-just-one-hour-black-myth-wukong-has-smashed-every-",
@@ -2628,7 +2831,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Independent Games and Development"
   },
   {
     "id": "week-9-indie-games-article-the-creator-of-papers-please-wants-developers-to-make",
@@ -2640,7 +2844,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Independent Games and Development"
   },
   {
     "id": "week-9-indie-games-article-in-its-latest-update-enshroudeds-terrifying-monsters-",
@@ -2652,7 +2857,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Independent Games and Development"
   },
   {
     "id": "week-9-indie-games-article-stardew-valley-creator-plays-down-reports-he-could-he",
@@ -2664,7 +2870,8 @@
     "duration": "https://www.eurogamer.net/stardew-valley-creator-plays-down-reports-he-could-help-resurrect-recently-cancelled-minecraft-like-hytale",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Independent Games and Development"
   },
   {
     "id": "week-9-indie-games-article-into-the-dead:-our-darkest-days-blends-this-war-of-mi",
@@ -2676,7 +2883,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Independent Games and Development"
   },
   {
     "id": "week-9-indie-games-article-the-almost-gone-review-dreamlike-puzzles-unlock-a-wor",
@@ -2688,7 +2896,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Independent Games and Development"
   },
   {
     "id": "week-9-indie-games-article-little-nightmares-limbo-and-others-are-drearios",
@@ -2700,7 +2909,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Independent Games and Development"
   },
   {
     "id": "week-9-indie-games-youtube-the-food-is-me-dead-plate-full-horror-game",
@@ -2712,7 +2922,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Independent Games and Development"
   },
   {
     "id": "week-9-indie-games-article-schedule-1-proves-how-important-tiktok-and-streamers-",
@@ -2724,7 +2935,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Independent Games and Development"
   },
   {
     "id": "week-9-indie-games-podcast-episode-jeff-vogel:-making-games-alone-for-30-years-u",
@@ -2736,7 +2948,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Independent Games and Development"
   },
   {
     "id": "week-9-indie-games-playexplore-indie-games-such-as-those-available-on-itchiohttp",
@@ -2748,7 +2961,8 @@
     "duration": "",
     "notes": "Play/explore indie games, such as those available on Itch.io (many are either completely free or offer a portion of the game as a free preview)",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Independent Games and Development"
   },
   {
     "id": "week-9-indie-games-article-why-untitled-goose-game-is-the-chaos-we-need-right-no",
@@ -2760,7 +2974,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Independent Games and Development"
   },
   {
     "id": "week-9-indie-games-article-buckshot-roulette-developer-on-making-the-game-solo-f",
@@ -2772,7 +2987,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Independent Games and Development"
   },
   {
     "id": "week-9-indie-games-article-those-we-didnt-know-are-among-us",
@@ -2784,7 +3000,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Independent Games and Development"
   },
   {
     "id": "week-10-modding-and-community-runprivate-servers-youtube-game-modding-as-fast-as",
@@ -2798,7 +3015,8 @@
     "learningOutcomes": [
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Modding and Community-Run Worlds"
   },
   {
     "id": "week-10-modding-and-community-runprivate-servers-article-exploring-and-extending",
@@ -2813,7 +3031,8 @@
       2,
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Modding and Community-Run Worlds"
   },
   {
     "id": "week-10-modding-and-community-runprivate-servers-youtube-a-trip-down-memory-lane",
@@ -2827,7 +3046,8 @@
     "learningOutcomes": [
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Modding and Community-Run Worlds"
   },
   {
     "id": "week-10-modding-and-community-runprivate-servers-youtube-the-importance-of-game-",
@@ -2841,7 +3061,8 @@
     "learningOutcomes": [
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Modding and Community-Run Worlds"
   },
   {
     "id": "week-10-modding-and-community-runprivate-servers-youtube-a-lawyer-explains-the-p",
@@ -2855,7 +3076,8 @@
     "learningOutcomes": [
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Modding and Community-Run Worlds"
   },
   {
     "id": "week-10-modding-and-community-runprivate-servers-youtube-modding-heaven:-when-ga",
@@ -2869,7 +3091,8 @@
     "learningOutcomes": [
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Modding and Community-Run Worlds"
   },
   {
     "id": "week-10-modding-and-community-runprivate-servers-book-excerpt-rolling-your-own-f",
@@ -2884,7 +3107,8 @@
       3,
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Modding and Community-Run Worlds"
   },
   {
     "id": "week-10-modding-and-community-runprivate-servers-article-do-private-servers-bene",
@@ -2898,7 +3122,8 @@
     "learningOutcomes": [
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Modding and Community-Run Worlds"
   },
   {
     "id": "week-10-modding-and-community-runprivate-servers-article-with-a-near-unprecedent",
@@ -2912,7 +3137,8 @@
     "learningOutcomes": [
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Modding and Community-Run Worlds"
   },
   {
     "id": "week-10-modding-and-community-runprivate-servers-article-everquest-fan-project-g",
@@ -2926,7 +3152,8 @@
     "learningOutcomes": [
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Modding and Community-Run Worlds"
   },
   {
     "id": "week-10-modding-and-community-runprivate-servers-youtube-nexus-mods-is-about-to-",
@@ -2938,7 +3165,8 @@
     "duration": "~10 min",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Modding and Community-Run Worlds"
   },
   {
     "id": "week-10-modding-and-community-runprivate-servers-youtube-these-steam-games-becom",
@@ -2950,7 +3178,8 @@
     "duration": "~20 min",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Modding and Community-Run Worlds"
   },
   {
     "id": "week-10-modding-and-community-runprivate-servers-youtube-top-10-game-mods-you-ne",
@@ -2962,7 +3191,8 @@
     "duration": "~13 min",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Modding and Community-Run Worlds"
   },
   {
     "id": "week-10-modding-and-community-runprivate-servers-article-wickedwhims:-a-conversa",
@@ -2974,7 +3204,8 @@
     "duration": "~42 min",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Modding and Community-Run Worlds"
   },
   {
     "id": "week-10-modding-and-community-runprivate-servers-playexplore-popular-mods-or-pri",
@@ -2986,7 +3217,8 @@
     "duration": "",
     "notes": "CurseForge, Google, and Bing are good places to start looking for mods or private servers for games you already own and play. Be sure to follow all installation instructions carefully, and only download mods from reputable sources to avoid malware. Or, look for playthroughs on YouTube if you don't want to install anything yourself.",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Modding and Community-Run Worlds"
   },
   {
     "id": "week-10-modding-and-community-runprivate-servers-youtube-club-penguin:-gone-but-",
@@ -2998,7 +3230,8 @@
     "duration": "~37 min",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Modding and Community-Run Worlds"
   },
   {
     "id": "week-10-modding-and-community-runprivate-servers-article-6-major-differences-bet",
@@ -3010,7 +3243,8 @@
     "duration": "~15 min",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Modding and Community-Run Worlds"
   },
   {
     "id": "week-11-competitive-and-multiplayer-gaming-book-excerpt-redeye-at-the-internatio",
@@ -3024,7 +3258,8 @@
     "learningOutcomes": [
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Competitive Gaming and Esports"
   },
   {
     "id": "week-11-competitive-and-multiplayer-gaming-ted-talk-dear-parents-this-is-why-you",
@@ -3039,7 +3274,8 @@
       2,
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Multiplayer Communities"
   },
   {
     "id": "week-11-competitive-and-multiplayer-gaming-blog-post-gaming-communities-vs-solo-",
@@ -3055,7 +3291,8 @@
       5,
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Multiplayer Communities"
   },
   {
     "id": "week-11-competitive-and-multiplayer-gaming-blog-post-the-rise-of-video-game-stre",
@@ -3069,7 +3306,8 @@
     "learningOutcomes": [
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Streaming and Content Creation"
   },
   {
     "id": "week-11-competitive-and-multiplayer-gaming-youtube-the-biggest-cheating-scandals",
@@ -3085,7 +3323,8 @@
       4,
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Competitive Gaming and Esports"
   },
   {
     "id": "week-11-competitive-and-multiplayer-gaming-research-report-the-pros-and-cons-of-",
@@ -3102,7 +3341,8 @@
       4,
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Multiplayer Communities"
   },
   {
     "id": "week-11-competitive-and-multiplayer-gaming-documentary-the-king-of-kong-:-fistfu",
@@ -3118,7 +3358,8 @@
       4,
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Competitive Gaming and Esports"
   },
   {
     "id": "week-11-competitive-and-multiplayer-gaming-book-this-is-esports-and-how-to-spell",
@@ -3130,7 +3371,8 @@
     "duration": "",
     "notes": "This Is Esports (And How to Spell It) by Paul Chaloner",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Competitive Gaming and Esports"
   },
   {
     "id": "week-11-competitive-and-multiplayer-gaming-book-reality-is-broken",
@@ -3142,7 +3384,8 @@
     "duration": "",
     "notes": "Reality is Broken by Jane McGonigal",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Competitive Gaming and Esports"
   },
   {
     "id": "week-11-competitive-and-multiplayer-gaming-book-this-gaming-life:-travels-in-thr",
@@ -3154,7 +3397,8 @@
     "duration": "",
     "notes": "This Gaming Life: Travels in Three Cities by Jim Rossignol",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Competitive Gaming and Esports"
   },
   {
     "id": "week-11-competitive-and-multiplayer-gaming-book-arena",
@@ -3166,7 +3410,8 @@
     "duration": "",
     "notes": "Arena by Holly Jennings (fiction!)",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Competitive Gaming and Esports"
   },
   {
     "id": "week-11-competitive-and-multiplayer-gaming-playershttps-tvapplecomusshowplayersu",
@@ -3178,7 +3423,8 @@
     "duration": "",
     "notes": "Players (Paramount+ series, now on Apple TV+)",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Competitive Gaming and Esports"
   },
   {
     "id": "week-11-competitive-and-multiplayer-gaming-1uphttps-wwwamazoncomgpvideodetailamz",
@@ -3190,7 +3436,8 @@
     "duration": "",
     "notes": "1UP (Amazon Prime movie)",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Competitive Gaming and Esports"
   },
   {
     "id": "week-11-competitive-and-multiplayer-gaming-falling-into-your-smilehttps-wwwnetfl",
@@ -3202,7 +3449,8 @@
     "duration": "",
     "notes": "Falling Into Your Smile (Netflix TV series \\- Mandarin audio with English subtitles: “After joining an all-male e-sports team, an amateur gamer tests her skills and leads her team to the world championships. Based on a novel.”)",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Competitive Gaming and Esports"
   },
   {
     "id": "week-11-competitive-and-multiplayer-gaming-find-and-watch-esports-event-footage-the-international-dota-2",
@@ -3216,7 +3464,8 @@
     "learningOutcomes": [
       6
     ],
-    "required": false
+    "required": false,
+    "topic": "Competitive Gaming and Esports"
   },
   {
     "id": "week-11-competitive-and-multiplayer-gaming-find-and-watch-esports-event-footage-esports-world-cup",
@@ -3230,7 +3479,8 @@
     "learningOutcomes": [
       6
     ],
-    "required": false
+    "required": false,
+    "topic": "Competitive Gaming and Esports"
   },
   {
     "id": "week-11-competitive-and-multiplayer-gaming-find-and-watch-esports-event-footage-league-of-legends-world-championship",
@@ -3244,7 +3494,8 @@
     "learningOutcomes": [
       6
     ],
-    "required": false
+    "required": false,
+    "topic": "Competitive Gaming and Esports"
   },
   {
     "id": "week-11-competitive-and-multiplayer-gaming-find-and-watch-video-game-streams-and",
@@ -3258,7 +3509,8 @@
     "learningOutcomes": [
       6
     ],
-    "required": false
+    "required": false,
+    "topic": "Streaming and Content Creation"
   },
   {
     "id": "week-11-competitive-and-multiplayer-gaming-twin-galaxieshttps-wwwtwingalaxiescom",
@@ -3270,7 +3522,8 @@
     "duration": "",
     "notes": "Twin Galaxies",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Competitive Gaming and Esports"
   },
   {
     "id": "week-11-competitive-and-multiplayer-gaming-speedruncomhttp-speedruncom",
@@ -3282,7 +3535,8 @@
     "duration": "",
     "notes": "Speedrun.com",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Competitive Gaming and Esports"
   },
   {
     "id": "week-11-competitive-and-multiplayer-gaming-youtube-the-biggest-lie-in-video-game",
@@ -3294,7 +3548,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Competitive Gaming and Esports"
   },
   {
     "id": "week-12-gaming-and-community-youtube-the-evolution-of-the-lan-party",
@@ -3310,7 +3565,8 @@
       5,
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Gaming and Community"
   },
   {
     "id": "week-12-gaming-and-community-article-the-impact-of-gaming:-a-benefit-to-society",
@@ -3325,7 +3581,8 @@
       2,
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Gaming and Community"
   },
   {
     "id": "week-12-gaming-and-community-book-excerpt-the-impact-of-video-games-on-culture-f",
@@ -3340,7 +3597,8 @@
       2,
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Gaming and Community"
   },
   {
     "id": "week-12-gaming-and-community-blog-post-what-is-toxicity-in-games",
@@ -3356,7 +3614,8 @@
       3,
       4
     ],
-    "required": true
+    "required": true,
+    "topic": "Gaming and Community"
   },
   {
     "id": "week-12-gaming-and-community-article-pros-and-cons-of-gamer-communities",
@@ -3371,7 +3630,8 @@
       2,
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Gaming and Community"
   },
   {
     "id": "week-12-gaming-and-community-article-video-games-are-social-spaces:-how-video-ga",
@@ -3388,7 +3648,8 @@
       4,
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Gaming and Community"
   },
   {
     "id": "week-12-gaming-and-community-youtube-gaming-for-healthy-social-interaction-and-c",
@@ -3405,7 +3666,8 @@
       4,
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Gaming and Community"
   },
   {
     "id": "week-12-gaming-and-community-article-how-video-games-have-changed-the-world",
@@ -3420,7 +3682,8 @@
       2,
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Gaming and Community"
   },
   {
     "id": "week-12-gaming-and-community-article-gaming-culture-around-the-world:-different-",
@@ -3435,7 +3698,8 @@
       2,
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Gaming and Community"
   },
   {
     "id": "week-12-gaming-and-community-article-video-games-from-different-cultures",
@@ -3450,7 +3714,8 @@
       2,
       6
     ],
-    "required": true
+    "required": true,
+    "topic": "Gaming and Community"
   },
   {
     "id": "week-12-gaming-and-community-book-dangerous-games-:-what-the-moral-panic-over-ro",
@@ -3462,7 +3727,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Gaming and Community"
   },
   {
     "id": "week-12-gaming-and-community-book-coin-operated-americans:-rebooting-boyhood-at-",
@@ -3474,7 +3740,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Gaming and Community"
   },
   {
     "id": "week-12-gaming-and-community-book-ultima-and-worldbuilding-in-the-computer-role-",
@@ -3486,7 +3753,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Gaming and Community"
   },
   {
     "id": "week-12-gaming-and-community-youtube-retro-90s-lan-party-spring-2025",
@@ -3498,7 +3766,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Gaming and Community"
   },
   {
     "id": "week-12-gaming-and-community-reddit-what-online-game-has-the-nicest-community",
@@ -3510,7 +3779,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Gaming and Community"
   },
   {
     "id": "week-12-gaming-and-community-blog-post-call-of-duty-anti-toxicity-disruptive-beh",
@@ -3522,7 +3792,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Gaming and Community"
   },
   {
     "id": "week-12-gaming-and-community-article-the-untapped-potential-of-the-gaming-commun",
@@ -3534,7 +3805,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Gaming and Community"
   },
   {
     "id": "week-12-gaming-and-community-article-the-psychology-of-play:-how-gaming-communit",
@@ -3546,7 +3818,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Gaming and Community"
   },
   {
     "id": "week-12-gaming-and-community-article-developing-a-measure-of-community-health-in",
@@ -3558,7 +3831,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Gaming and Community"
   },
   {
     "id": "week-12-gaming-and-community-article-video-gaming-101:-healthy-vs-problematic-ga",
@@ -3570,7 +3844,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Gaming and Community"
   },
   {
     "id": "week-12-gaming-and-community-article-online-gaming-communities-could-provide-a-l",
@@ -3582,7 +3857,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Gaming and Community"
   },
   {
     "id": "week-12-gaming-and-community-youtube-why-video-game-community-managers-suck-at-t",
@@ -3594,7 +3870,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Gaming and Community"
   },
   {
     "id": "week-12-gaming-and-community-just-for-fun-youtube-clip-from-mythic-quest-about-c",
@@ -3606,7 +3883,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Gaming and Community"
   },
   {
     "id": "week-12-gaming-and-community-documentary-gaming-in-color",
@@ -3618,7 +3896,8 @@
     "duration": "Diversity in video games is extraordinarily important - especially to the people who play them. Explore the story of the queer gaming community, 'gaymer' culture and events, and the rise of LGBTQ themes in video games.",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Gaming and Community"
   },
   {
     "id": "week-12-gaming-and-community-youtube-how-different-countries-change-videogames",
@@ -3630,7 +3909,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Gaming and Community"
   },
   {
     "id": "week-12-gaming-and-community-youtube-i-visited-every-us-state-in-video-games-thi",
@@ -3642,7 +3922,8 @@
     "duration": "",
     "notes": "I Visited Every U.S State (in video games) - this bookmark is for Maine (the Silent Hill games are set in Maine and there is a Fallout 4 DLC set in Maine as well)",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Gaming and Community"
   },
   {
     "id": "week-12-gaming-and-community-article-lets-game-it:-dangerous-games-a-new-health-",
@@ -3654,7 +3935,8 @@
     "duration": "",
     "notes": "Let’s “game” it!: Dangerous games, a new health challenge (not directly about video games, but about peer pressure)",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Gaming and Community"
   },
   {
     "id": "week-12-gaming-and-community-youtube-romchip-presents:-carly-a-kocurek-on-dolly-",
@@ -3666,7 +3948,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Gaming and Community"
   },
   {
     "id": "week-12-gaming-and-community-the-troll-projecthttps-thetrollprojectcom",
@@ -3678,7 +3961,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Gaming and Community"
   },
   {
     "id": "week-12-gaming-and-community-healthy-gamerhttps-wwwhealthygamergg",
@@ -3690,7 +3974,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Gaming and Community"
   },
   {
     "id": "week-13-immersive-gaming-and-ai-articleaudio-video-game-performers-are-on-strike",
@@ -3707,7 +3992,8 @@
       5,
       8
     ],
-    "required": true
+    "required": true,
+    "topic": "Immersive Technology and AI"
   },
   {
     "id": "week-13-immersive-gaming-and-ai-article-sag-aftra-receives-bipartisan-congressio",
@@ -3724,7 +4010,8 @@
       5,
       8
     ],
-    "required": true
+    "required": true,
+    "topic": "Immersive Technology and AI"
   },
   {
     "id": "week-13-immersive-gaming-and-ai-article-report:-candy-crush-maker-king-is-allege",
@@ -3740,7 +4027,8 @@
       5,
       8
     ],
-    "required": true
+    "required": true,
+    "topic": "Immersive Technology and AI"
   },
   {
     "id": "week-13-immersive-gaming-and-ai-blog-post-with-2-youtube-videos-history-of-ai-in",
@@ -3754,7 +4042,8 @@
     "learningOutcomes": [
       5
     ],
-    "required": true
+    "required": true,
+    "topic": "Immersive Technology and AI"
   },
   {
     "id": "week-13-immersive-gaming-and-ai-youtube-the-darth-vader-fortnite-ai-disaster",
@@ -3770,7 +4059,8 @@
       5,
       8
     ],
-    "required": true
+    "required": true,
+    "topic": "Immersive Technology and AI"
   },
   {
     "id": "week-13-immersive-gaming-and-ai-ted-talk-vr-and-ai-in-education:-the-future-of-l",
@@ -3786,7 +4076,8 @@
       5,
       8
     ],
-    "required": true
+    "required": true,
+    "topic": "Immersive Technology and AI"
   },
   {
     "id": "week-13-immersive-gaming-and-ai-ted-talk-philip-rosedale:-second-life-where-anyt",
@@ -3803,7 +4094,8 @@
       6,
       8
     ],
-    "required": true
+    "required": true,
+    "topic": "Immersive Technology and AI"
   },
   {
     "id": "week-13-immersive-gaming-and-ai-ted-talk-how-immersive-technologies-arvr-will-sh",
@@ -3819,7 +4111,8 @@
       5,
       8
     ],
-    "required": true
+    "required": true,
+    "topic": "Immersive Technology and AI"
   },
   {
     "id": "week-13-immersive-gaming-and-ai-podcastyoutube-immersive-gaming-imp-and-skizz-po",
@@ -3835,7 +4128,8 @@
       5,
       8
     ],
-    "required": true
+    "required": true,
+    "topic": "Immersive Technology and AI"
   },
   {
     "id": "week-13-immersive-gaming-and-ai-podcast-clip-a-gamer-looks-at-40-ep-117:-side-qu",
@@ -3852,7 +4146,8 @@
       5,
       8
     ],
-    "required": true
+    "required": true,
+    "topic": "Immersive Technology and AI"
   },
   {
     "id": "week-13-immersive-gaming-and-ai-youtube-interactivity-in-immersive-spaces-:-an-a",
@@ -3869,7 +4164,8 @@
       6,
       8
     ],
-    "required": true
+    "required": true,
+    "topic": "Immersive Technology and AI"
   },
   {
     "id": "week-13-immersive-gaming-and-ai-book-ready-player-one",
@@ -3881,7 +4177,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Immersive Technology and AI"
   },
   {
     "id": "week-13-immersive-gaming-and-ai-movie-ready-player-one",
@@ -3893,7 +4190,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Immersive Technology and AI"
   },
   {
     "id": "week-13-immersive-gaming-and-ai-academic-paper-three-states-and-a-plan:-the-ai-o",
@@ -3905,7 +4203,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Immersive Technology and AI"
   },
   {
     "id": "week-13-immersive-gaming-and-ai-blog-post-best-ai-in-video-games-review",
@@ -3917,7 +4216,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Immersive Technology and AI"
   },
   {
     "id": "week-13-immersive-gaming-and-ai-youtube-talking-to-smart-ai-npcs-in-unreal-engin",
@@ -3932,7 +4232,8 @@
       5,
       8
     ],
-    "required": false
+    "required": false,
+    "topic": "Immersive Technology and AI"
   },
   {
     "id": "week-13-immersive-gaming-and-ai-youtube-igloo-vision-demos-igloo-vision-immersiv",
@@ -3949,7 +4250,8 @@
       6,
       8
     ],
-    "required": false
+    "required": false,
+    "topic": "Immersive Technology and AI"
   },
   {
     "id": "week-13-immersive-gaming-and-ai-youtube-circle-of-life-breathtaking-immersive-ex",
@@ -3961,7 +4263,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Immersive Technology and AI"
   },
   {
     "id": "week-13-immersive-gaming-and-ai-youtube-crafting-immersive-spaces-with-virtual-t",
@@ -3973,7 +4276,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Immersive Technology and AI"
   },
   {
     "id": "week-13-immersive-gaming-and-ai-youtube-i-tried-real-augmented-reality-glasses",
@@ -3985,7 +4289,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Immersive Technology and AI"
   },
   {
     "id": "week-13-immersive-gaming-and-ai-youtube-second-life-community-roundtable-with-ph",
@@ -3997,7 +4302,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Immersive Technology and AI"
   },
   {
     "id": "week-13-immersive-gaming-and-ai-ted-talk-how-augmented-reality-will-change-sport",
@@ -4013,7 +4319,8 @@
       5,
       8
     ],
-    "required": false
+    "required": false,
+    "topic": "Immersive Technology and AI"
   },
   {
     "id": "week-13-immersive-gaming-and-ai-ted-talk-the-vr-dilemma:-how-ar-and-vr-redefine-",
@@ -4029,7 +4336,8 @@
       5,
       8
     ],
-    "required": false
+    "required": false,
+    "topic": "Immersive Technology and AI"
   },
   {
     "id": "week-14-wrap-up-youtube-game-changers:-the-evolution-and-impact-of-video-games",
@@ -4046,7 +4354,8 @@
       5,
       8
     ],
-    "required": true
+    "required": true,
+    "topic": "Synthesis and Future Directions"
   },
   {
     "id": "week-14-wrap-up-article-what-does-the-future-of-gaming-look-like",
@@ -4061,7 +4370,8 @@
       5,
       8
     ],
-    "required": true
+    "required": true,
+    "topic": "Synthesis and Future Directions"
   },
   {
     "id": "week-14-wrap-up-audiosummary-organized-labor-could-level-up-the-video-game-indus",
@@ -4078,7 +4388,8 @@
       4,
       8
     ],
-    "required": true
+    "required": true,
+    "topic": "Synthesis and Future Directions"
   },
   {
     "id": "week-14-wrap-up-ted-talk-how-gaming-can-be-a-force-for-good",
@@ -4090,7 +4401,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Synthesis and Future Directions"
   },
   {
     "id": "week-14-wrap-up-ted-talk-will-videogames-become-better-than-life",
@@ -4102,7 +4414,8 @@
     "duration": "",
     "notes": "",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Synthesis and Future Directions"
   },
   {
     "id": "week-14-wrap-up-2025-gdc-state-of-the-game-industry-panelhttps-gdcvaultcomplay10",
@@ -4114,6 +4427,7 @@
     "duration": "64 min",
     "notes": "2025 GDC State of the Game Industry Panel",
     "learningOutcomes": [],
-    "required": false
+    "required": false,
+    "topic": "Synthesis and Future Directions"
   }
 ]
