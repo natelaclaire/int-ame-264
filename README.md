@@ -58,6 +58,12 @@ npm run dev
 
 Open your browser to [http://localhost:5173](http://localhost:5173) to view the site.
 
+### Local Content Studio
+
+While the development server is running, open [http://localhost:5173/admin](http://localhost:5173/admin), or use the **Edit site** button in the lower-right corner. The local CMS edits the JSON and Markdown files in `data/` directly. It supports learning outcomes, modules, resources, assignments, syllabi, writings, radio episodes, and assignment/syllabus documents. Use **Rebuild ePub** after saving course content when you want to refresh the downloadable book immediately.
+
+The editor and its file-writing endpoints only exist during local development; they are not included in the production server.
+
 ### Build for Production
 
 Create an optimized production build:

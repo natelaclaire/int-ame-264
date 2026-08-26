@@ -14,6 +14,7 @@ import Syllabus from './pages/Syllabus'
 import Writings from './pages/Writings'
 import Writing from './pages/Writing'
 import Radio from './pages/Radio'
+import Admin from './pages/Admin'
 import './styles.css'
 
 const router = createBrowserRouter([
@@ -34,6 +35,7 @@ const router = createBrowserRouter([
       ,{ path: 'writings', element: <Writings /> }
       ,{ path: 'writings/:slug', element: <Writing /> }
       ,{ path: 'radio', element: <Radio /> }
+      ,{ path: 'admin', element: <Admin /> }
     ]
   }
 ])
