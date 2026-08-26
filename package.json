@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "npm run build:epub && vite build",
+    "build:epub": "node scripts/build-epub.mjs",
     "preview": "vite preview",
     "extract": "node scripts/extract-course-data.mjs"
   },

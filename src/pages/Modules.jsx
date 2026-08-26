@@ -16,7 +16,7 @@ export default function Modules() {
 
   return (
     <section>
-      <header className="page-header"><span className="eyebrow">COURSE MAP / 14 WEEKS</span><h1>Modules<span className="pixel-dot">.</span></h1><p className="lead">A guided path through the histories, communities, consequences, and possible futures of video games.</p></header>
+      <header className="page-header"><span className="eyebrow">COURSE MAP / 14 WEEKS</span><h1>Modules<span className="pixel-dot">.</span></h1><p className="lead">A guided path through the histories, communities, consequences, and possible futures of video games.</p><a className="btn epub-download" href="/downloads/int-ame-264-course.epub" download>Download the course ePub <span>↓</span></a></header>
       {Object.entries(sections).map(([section, sectionModules], sectionIndex) => (
         <section className="module-section" key={section}>
           <header className="module-section-header"><span>{String(sectionIndex + 1).padStart(2, '0')}</span><div><div className="post-meta">SECTION</div><h2>{section}</h2></div><span className="week-range">WEEKS {sectionModules[0].week}–{sectionModules.at(-1).week}</span></header>
