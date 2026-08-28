@@ -52,16 +52,22 @@ const blankArrayItem = (value, name) => {
   return Object.fromEntries(Object.entries(value[0]).map(([key, child]) => [key, typeof child === 'boolean' ? false : typeof child === 'number' ? 0 : Array.isArray(child) ? [] : '']))
 }
 
-function Field({ name, value, onChange, depth = 0 }) {
+function Field({ name, value, onChange, depth = 0, outcomeOptions = [] }) {
   const label = name.replace(/([A-Z])/g, ' $1').replace(/^./, char => char.toUpperCase())
+  if (name === 'learningOutcomes' && Array.isArray(value) && outcomeOptions.length) {
+    const toggleOutcome = (id, checked) => onChange(
+      checked ? [...new Set([...value, id])].sort((a, b) => a - b) : value.filter(current => current !== id)
+    )
+    return <fieldset className="cms-nested cms-outcomes"><legend>{label}</legend><p className="cms-field-help">Choose every learning outcome connected to this resource.</p><div className="cms-outcome-options">{outcomeOptions.map(outcome => <label className="cms-outcome-option" key={outcome.id}><input type="checkbox" checked={value.includes(outcome.id)} onChange={event => toggleOutcome(outcome.id, event.target.checked)} /><span><strong>LO {outcome.id}: {outcome.title}</strong><small>{outcome.outcome}</small></span></label>)}</div></fieldset>
+  }
   if (typeof value === 'boolean') return <label className="cms-check"><input type="checkbox" checked={value} onChange={event => onChange(event.target.checked)} /><span>{label}</span></label>
   if (typeof value === 'number') return <label className="cms-field"><span>{label}</span><input type="number" value={value} onChange={event => onChange(Number(event.target.value))} /></label>
   if (typeof value === 'string') {
     const multiline = /notes|overview|outcome|indicators|excerpt|description|content/i.test(name) || value.length > 100
     return <label className="cms-field"><span>{label}</span>{multiline ? <textarea rows={Math.min(10, Math.max(4, Math.ceil(value.length / 90)))} value={value} onChange={event => onChange(event.target.value)} /> : <input value={value} onChange={event => onChange(event.target.value)} />}</label>
   }
-  if (Array.isArray(value)) return <fieldset className="cms-nested"><legend>{label}</legend>{value.map((item, index) => <div className="cms-array-item" key={index}><Field name={`${name} ${index + 1}`} value={item} depth={depth + 1} onChange={next => onChange(value.map((current, itemIndex) => itemIndex === index ? next : current))} /><button type="button" className="cms-icon-button danger" onClick={() => onChange(value.filter((_, itemIndex) => itemIndex !== index))} aria-label={`Remove ${label} ${index + 1}`}>×</button></div>)}<button type="button" className="cms-small-button" onClick={() => onChange([...value, blankArrayItem(value, name)])}>+ Add {label.replace(/s$/, '')}</button></fieldset>
-  if (value && typeof value === 'object') return <fieldset className="cms-nested"><legend>{label}</legend>{Object.entries(value).map(([key, child]) => <Field key={key} name={key} value={child} depth={depth + 1} onChange={next => onChange({ ...value, [key]: next })} />)}</fieldset>
+  if (Array.isArray(value)) return <fieldset className="cms-nested"><legend>{label}</legend>{value.map((item, index) => <div className="cms-array-item" key={index}><Field name={`${name} ${index + 1}`} value={item} depth={depth + 1} outcomeOptions={outcomeOptions} onChange={next => onChange(value.map((current, itemIndex) => itemIndex === index ? next : current))} /><button type="button" className="cms-icon-button danger" onClick={() => onChange(value.filter((_, itemIndex) => itemIndex !== index))} aria-label={`Remove ${label} ${index + 1}`}>×</button></div>)}<button type="button" className="cms-small-button" onClick={() => onChange([...value, blankArrayItem(value, name)])}>+ Add {label.replace(/s$/, '')}</button></fieldset>
+  if (value && typeof value === 'object') return <fieldset className="cms-nested"><legend>{label}</legend>{Object.entries(value).map(([key, child]) => <Field key={key} name={key} value={child} depth={depth + 1} outcomeOptions={outcomeOptions} onChange={next => onChange({ ...value, [key]: next })} />)}</fieldset>
   return null
 }
 
@@ -71,10 +77,14 @@ function CollectionEditor({ config }) {
   const [selected, setSelected] = useState(0)
   const [query, setQuery] = useState('')
   const [status, setStatus] = useState('Loading…')
+  const [outcomeOptions, setOutcomeOptions] = useState([])
 
   useEffect(() => {
-    fetch(`/__cms/data/${config.key}`).then(response => response.json()).then(data => {
+    const requests = [fetch(`/__cms/data/${config.key}`).then(response => response.json())]
+    if (config.key === 'resources') requests.push(fetch('/__cms/data/learningOutcomes').then(response => response.json()))
+    Promise.all(requests).then(([data, outcomes = []]) => {
       const prepared = config.key === 'resources' ? normalizeResourceOrder(data) : data
+      setOutcomeOptions(outcomes)
       setItems(prepared); setSaved(deepClone(prepared)); setSelected(0); setStatus('')
     }).catch(error => setStatus(error.message))
   }, [config.key])
@@ -118,7 +128,7 @@ function CollectionEditor({ config }) {
 
   return <div className="cms-workspace">
     <aside className="cms-records"><div className="cms-record-tools"><input type="search" placeholder={`Search ${config.label.toLowerCase()}…`} value={query} onChange={event => setQuery(event.target.value)} /><button type="button" onClick={add}>+ New</button></div><div className="cms-record-list">{filtered.map(({ item, index }) => <button type="button" className={index === selected ? 'active' : ''} onClick={() => setSelected(index)} key={`${recordTitle(item, index)}-${index}`}><span>{recordTitle(item, index)}</span><small>{item.week ? `Week ${item.week}` : item.type || item.category || item.date || ''}</small></button>)}</div></aside>
-    <section className="cms-editor">{current ? <><header className="cms-editor-header"><div><div className="post-meta">EDIT {config.singular.toUpperCase()}</div><h2>{recordTitle(current, selected)}</h2></div><div className="cms-actions">{config.key === 'resources' && <><button type="button" disabled={resourcePosition <= 0} onClick={() => moveCurrent(-1)}>↑ Move up</button><button type="button" disabled={resourcePosition < 0 || resourcePosition >= resourceCount - 1} onClick={() => moveCurrent(1)}>↓ Move down</button></>}<button type="button" className="danger" onClick={remove}>Delete</button><button type="button" disabled={!dirty} onClick={save}>{dirty ? 'Save changes' : 'Saved'}</button></div></header><div className="cms-form">{Object.entries(current).map(([key, value]) => <Field key={key} name={key} value={value} onChange={next => updateCurrent({ ...current, [key]: next })} />)}</div></> : <div className="cms-empty">No records yet. Add the first one.</div>}<div className="cms-status" aria-live="polite">{status}{dirty && !status ? 'Unsaved changes' : ''}</div></section>
+    <section className="cms-editor">{current ? <><header className="cms-editor-header"><div><div className="post-meta">EDIT {config.singular.toUpperCase()}</div><h2>{recordTitle(current, selected)}</h2></div><div className="cms-actions">{config.key === 'resources' && <><button type="button" disabled={resourcePosition <= 0} onClick={() => moveCurrent(-1)}>↑ Move up</button><button type="button" disabled={resourcePosition < 0 || resourcePosition >= resourceCount - 1} onClick={() => moveCurrent(1)}>↓ Move down</button></>}<button type="button" className="danger" onClick={remove}>Delete</button><button type="button" disabled={!dirty} onClick={save}>{dirty ? 'Save changes' : 'Saved'}</button></div></header><div className="cms-form">{Object.entries(current).map(([key, value]) => <Field key={key} name={key} value={value} outcomeOptions={outcomeOptions} onChange={next => updateCurrent({ ...current, [key]: next })} />)}</div></> : <div className="cms-empty">No records yet. Add the first one.</div>}<div className="cms-status" aria-live="polite">{status}{dirty && !status ? 'Unsaved changes' : ''}</div></section>
   </div>
 }
 

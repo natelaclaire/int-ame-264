@@ -27,7 +27,7 @@
     "url": "https://www.youtube.com/watch?v=O4dPSOncwVQ",
     "type": "YouTube",
     "duration": "91 min",
-    "notes": "This documentary from 2004 is hosted by skateboarding legend Tony Hawk and traces the evolution of the video game industry from a primitive electronic novelty into a multi-billion dollar global entertainment powerhouse that rivals Hollywood. It highlights how the industry was built by visionary pioneers like Nolan Bushnell and Shiro Miyamoto, who transitioned gaming from simple dots on a screen to immersive, character-driven narratives and complex social simulations. The text further explores the cyclical nature of the business, documenting early hardware wars, the catastrophic market crash of 1983, and the eventual resurgence led by Japanese innovation and personal computing. Beyond commercial success, the source examines the cultural impact and controversies of the medium, detailing how video games have influenced military training, sparked intense legislative debates over virtual violence, and fostered massive online communities.",
+    "notes": "This documentary from 2004 is hosted by skateboarding legend Tony Hawk and traces the evolution of the video game industry from a primitive electronic novelty into a multi-billion dollar global entertainment powerhouse that rivals Hollywood. It highlights how the industry was built by visionary pioneers like Nolan Bushnell and Shiro Miyamoto, who transitioned gaming from simple dots on a screen to immersive, character-driven narratives and complex social simulations. The video further explores the cyclical nature of the business, documenting early hardware wars, the catastrophic market crash of 1983, and the eventual resurgence led by Japanese innovation and personal computing. Beyond commercial success, the source examines the cultural impact and controversies of the medium, detailing how video games have influenced military training, sparked intense legislative debates over virtual violence, and fostered massive online communities.",
     "learningOutcomes": [
       1
     ],
@@ -61,8 +61,10 @@
     "url": "https://www.youtube.com/watch?v=FBmybY8W8uU",
     "type": "YouTube",
     "duration": "",
-    "notes": "This video from YouTube creator Sambucha provides a casual chronological journey through video game history, featuring a playthrough of landmark titles starting from 1940's *Nim*. It highlights the progression from simple blips on a screen, like *Tennis for Two*, to the \"Golden Age\" triggered by the release of the NES and iconic characters like Mario and Link. The source also touches on the \"console wars\" of the 90s and the eventual rise of high-fidelity modern gaming on platforms like the PlayStation 5 and Xbox Series X. There is some overlap with the History of Video Games documentary, but this is a more recent and personal take on the subject from a popular YouTuber. A few highlights:\n\n* The **Atari game *ET*** is widely considered the worst video game ever and the video repeats the common claim that it was so poorly received that it tanked the American video game economy, leading to Japan's dominance in the industry. We'll be exploring this more in a couple of weeks.\n* Nintendo's first attempt at a video game was **Radar Scope** in 1979, which succeeded in Japan but was a complete failure in the United States.\n* The game **Snake** became a cultural phenomenon after being pre-installed on Nokia mobile phones in 1997.",
-    "learningOutcomes": [],
+    "notes": "This video from YouTube creator Sambucha provides a casual chronological journey through video game history, featuring a playthrough of landmark titles starting from 1940's *Nim*. It highlights the progression from simple blips on a screen, like *Tennis for Two*, to the \"Golden Age\" triggered by the release of the NES and iconic characters like Mario and Link. The video also touches on the \"console wars\" of the 90s and the eventual rise of high-fidelity modern gaming on platforms like the PlayStation 5 and Xbox Series X. There is some overlap with the History of Video Games documentary, but this is a more recent and personal take on the subject from a popular YouTuber. A few highlights:\n\n* The **Atari game *ET*** is widely considered the worst video game ever and the video repeats the common claim that it was so poorly received that it tanked the American video game economy, leading to Japan's dominance in the industry. We'll be exploring this more in a couple of weeks.\n* Nintendo's first attempt at a video game was **Radar Scope** in 1979, which succeeded in Japan but was a complete failure in the United States.\n* The game **Snake** became a cultural phenomenon after being pre-installed on Nokia mobile phones in 1997.",
+    "learningOutcomes": [
+      1
+    ],
     "required": false,
     "topic": "Origins, Genres, and Personal Histories"
   },
@@ -76,7 +78,10 @@
     "type": "YouTube",
     "duration": "",
     "notes": "Not directly about games, but ties into my story. This video details the creation of the BASIC programming language at Dartmouth College 50 years ago, driven by the \"nutty idea\" that all undergraduate students should be computer literate. Professors John Kemeny and Thomas Kurtz developed the language and the **Dartmouth Time-Sharing System (DTSS)** to provide students with immediate, simple access to computing resources. Remarkably, the complex software was primarily written by undergraduate students, proving that simple high-level languages could be compiled and run simultaneously by multiple users. A few highlights:\n\n* Before getting their own computer, Dartmouth had to transport punch cards to MIT every two weeks via train, resulting in a data transfer rate of only **1.67 bits per second**.\n* To pay for their first computer (the LGP-30) without a budget, the college classified it as \"furniture\" to use funds set aside for furnishings.",
-    "learningOutcomes": [],
+    "learningOutcomes": [
+      1,
+      3
+    ],
     "required": false,
     "topic": "Origins, Genres, and Personal Histories"
   },
@@ -89,8 +94,11 @@
     "url": "https://youtu.be/W8-54-9J9ns?si=GtVJ2EWE-1PZGWfg",
     "type": "YouTube",
     "duration": "",
-    "notes": "A fun historical look at early predictions about graphics technology. This BBC Horizon documentary from 1981 traces the origins and rapid evolution of computer graphics, beginning with early military applications like the Whirlwind computer and Ivan Sutherland's pioneering \"Sketchpad\". It explores the development of early video games like **Pong** and **Space War**, while also highlighting how graphics technology was being utilized in flight simulators, 3D animation, and molecular biology to model DNA. The video emphasizes that the \"magic\" of realistic computer imagery largely flowered at the **University of Utah**, where students developed mathematical formulas for shading, texture, and curved surfaces. A few highlights:\n\n* **Pong** was so successful in its initial consumer test that the machine \"broke\" simply because its coin box was completely filled with quarters.\n* Early 3D animation was so labor-intensive that a single frame could take **7 minutes** to compute, and some conventional animators initially refused to work with computers.",
-    "learningOutcomes": [],
+    "notes": "A fun historical look at early predictions about graphics technology, this BBC Horizon documentary from 1981 traces the origins and rapid evolution of computer graphics, beginning with early military applications like the Whirlwind computer and Ivan Sutherland's pioneering \"Sketchpad\". It explores the development of early video games like **Pong** and **Space War**, while also highlighting how graphics technology was being utilized in flight simulators, 3D animation, and molecular biology to model DNA. The video emphasizes that the \"magic\" of realistic computer imagery largely flowered at the **University of Utah**, where students developed mathematical formulas for shading, texture, and curved surfaces. A few highlights:\n\n* **Pong** was so successful in its initial consumer test that the machine \"broke\" simply because its coin box was completely filled with quarters.\n* Early 3D animation was so labor-intensive that a single frame could take **7 minutes** to compute, and some conventional animators initially refused to work with computers.",
+    "learningOutcomes": [
+      1,
+      5
+    ],
     "required": false,
     "topic": "Origins, Genres, and Personal Histories"
   },
@@ -104,7 +112,10 @@
     "type": "Article",
     "duration": "60 min",
     "notes": "Helpful for distinguishing game genres. A bit long, so consider skimming or bookmarking and using as a reference. This comprehensive encyclopedia defines and categorizes the vast array of video game genres and subgenres used in the industry today. It provides detailed descriptions of core categories like Action, RPG, and Strategy, while also exploring specialized types such as \"Idle Games\" and \"Advergames\". The guide serves as an educational tool, explaining how specific gameplay mechanics—like the \"blobber\" movement in first-person party RPGs—define different categories. A few highlights:\n\n* **4X strategy games** are defined by four specific goals: **Explore, Expand, Exploit, and Exterminate**.\n* **\"Exergames\"** (fitness games) became particularly important during the COVID-19 pandemic as a tool for rehabilitation and physical activity.\n* **Advergames** are promotional tools created specifically to market a brand, with examples including games for **McDonald's and Chipotle**.",
-    "learningOutcomes": [],
+    "learningOutcomes": [
+      1,
+      6
+    ],
     "required": false,
     "topic": "Origins, Genres, and Personal Histories"
   },
@@ -118,7 +129,11 @@
     "type": "Web Site",
     "duration": "",
     "notes": "**Boss Fight Books** is a publishing series that produces long-form, scholarly books focusing on specific classic video games. The collection spans a wide range of titles, from early hits like *Galaga* and *Super Mario Bros.* to modern narratives such as *Red Dead Redemption* and *Outer Wilds*. A featured upcoming title in the series is *Age of Empires* by Richard Moss, which uses **interviews with 29 former Ensemble and Microsoft staff** to tell the story of the game's development.",
-    "learningOutcomes": [],
+    "learningOutcomes": [
+      1,
+      2,
+      6
+    ],
     "required": false,
     "topic": "Origins, Genres, and Personal Histories"
   },
@@ -132,7 +147,12 @@
     "type": "Book",
     "duration": "",
     "notes": "*The Game Beat* is a collection of over 80 columns by journalist Kyle Orland that examines the history and ethics of the gaming press. Published through Carnegie Mellon University's ETC Press, the book explores the evolution of video game journalism over two decades, covering the transition from print magazines to digital media. It addresses critical industry issues such as the importance of review scores and the ethics surrounding paid press junkets. The book offers deep media analysis of how the young but rapidly growing game industry is covered by critics. You can download the book for free in PDF format.",
-    "learningOutcomes": [],
+    "learningOutcomes": [
+      1,
+      2,
+      6,
+      7
+    ],
     "required": false,
     "topic": "Origins, Genres, and Personal Histories"
   },
