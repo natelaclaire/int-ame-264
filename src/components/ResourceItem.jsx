@@ -1,5 +1,6 @@
 import Tooltip from './Tooltip'
 import { Link } from 'react-router-dom'
+import Markdown from 'react-markdown'
 
 export default function ResourceItem({ resource, loMap, showModuleMeta = false, moduleMap }) {
   const {
@@ -36,7 +37,11 @@ export default function ResourceItem({ resource, loMap, showModuleMeta = false, 
           </>
         )}
       </div>
-      {notes && <div className="notes">{notes}</div>}
+      {notes && (
+        <div className="notes resource-notes">
+          <Markdown>{notes}</Markdown>
+        </div>
+      )}
       {learningOutcomes.length > 0 && (
         <div className="los">
           {learningOutcomes.map((id) => (
