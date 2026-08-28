@@ -2,6 +2,9 @@ import { readFile, mkdir, writeFile } from 'node:fs/promises'
 import { dirname, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import JSZip from 'jszip'
+import { createElement } from 'react'
+import { renderToStaticMarkup } from 'react-dom/server'
+import Markdown from 'react-markdown'
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..')
 const readJson = async name => JSON.parse(await readFile(resolve(root, 'data', name), 'utf8'))
@@ -17,6 +20,10 @@ const escapeHtml = (value = '') => String(value)
   .replaceAll('>', '&gt;')
   .replaceAll('"', '&quot;')
   .replaceAll("'", '&#39;')
+
+const renderMarkdown = value => renderToStaticMarkup(
+  createElement(Markdown, null, String(value || ''))
+)
 
 const slugify = value => String(value).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '')
 const xhtml = (title, body) => `<?xml version="1.0" encoding="UTF-8"?>
@@ -47,7 +54,7 @@ zip.file('mimetype', 'application/epub+zip', { compression: 'STORE' })
 zip.file('META-INF/container.xml', `<?xml version="1.0" encoding="UTF-8"?>
 <container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container"><rootfiles><rootfile full-path="EPUB/package.opf" media-type="application/oebps-package+xml"/></rootfiles></container>`)
 
-const css = `body{font-family:Georgia,serif;line-height:1.55;color:#171817;margin:5%;}h1,h2,h3{font-family:Arial,sans-serif;line-height:1.15;}h1{font-size:2.2em;border-bottom:4px solid #4057f5;padding-bottom:.25em;}h2{margin-top:2em;}h3{margin-top:1.5em;}a{color:#3047d9;}nav ol{line-height:1.8;}.eyebrow,.meta,.label{font-family:monospace;text-transform:uppercase;letter-spacing:.06em;font-size:.8em}.section{page-break-before:always}.module-overview{font-size:1.1em}.resource{border-top:1px solid #aaa;padding:1em 0;break-inside:avoid}.resource h4{font-family:Arial,sans-serif;font-size:1.08em;margin:0 0 .4em}.resource dl{display:grid;grid-template-columns:max-content 1fr;gap:.25em .75em;margin:.5em 0}.resource dt{font-weight:bold}.resource dd{margin:0}.notes{margin-top:.7em}.outcome{margin-bottom:1.6em}.outcome h2{font-size:1.25em;margin-bottom:.4em}`
+const css = `body{font-family:Georgia,serif;line-height:1.55;color:#171817;margin:5%;}h1,h2,h3{font-family:Arial,sans-serif;line-height:1.15;}h1{font-size:2.2em;border-bottom:4px solid #4057f5;padding-bottom:.25em;}h2{margin-top:2em;}h3{margin-top:1.5em;}a{color:#3047d9;}nav ol{line-height:1.8;}.eyebrow,.meta,.label{font-family:monospace;text-transform:uppercase;letter-spacing:.06em;font-size:.8em}.section{page-break-before:always}.module-overview{font-size:1.1em}.resource{border-top:1px solid #aaa;padding:1em 0;break-inside:avoid}.resource h4{font-family:Arial,sans-serif;font-size:1.08em;margin:0 0 .4em}.resource dl{display:grid;grid-template-columns:max-content 1fr;gap:.25em .75em;margin:.5em 0}.resource dt{font-weight:bold}.resource dd{margin:0}.notes{margin-top:.7em}.notes .label{font-weight:bold;margin-bottom:.25em}.notes p{margin:.35em 0}.notes ul,.notes ol{margin:.35em 0;padding-left:1.5em}.notes code{font-family:monospace;background:#eee;padding:.1em .2em}.notes pre{white-space:pre-wrap;background:#eee;padding:.6em}.notes blockquote{border-left:3px solid #aaa;margin:.5em 0;padding-left:.75em}.outcome{margin-bottom:1.6em}.outcome h2{font-size:1.25em;margin-bottom:.4em}`
 zip.file('EPUB/styles.css', css)
 
 const outcomesBody = `<p class="eyebrow">INT/AME 264</p><h1>Learning Outcomes</h1>${outcomes.map(outcome => `<section class="outcome" id="lo-${outcome.id}"><h2>LO ${outcome.id}: ${escapeHtml(outcome.title)}</h2><p>${escapeHtml(outcome.outcome)}</p>${outcome.indicators ? `<p><strong>Indicators:</strong> ${escapeHtml(outcome.indicators)}</p>` : ''}</section>`).join('')}`
@@ -69,7 +76,8 @@ for (const entry of moduleEntries) {
         const outcome = outcomeMap[id]
         return outcome ? `LO ${id}: ${outcome.title}` : `LO ${id}`
       }).join('; ')
-      return `<article class="resource"><h4>${linkedTitle}</h4><dl><dt>Type</dt><dd>${escapeHtml(resource.type || 'Not specified')}</dd><dt>Duration</dt><dd>${escapeHtml(resource.duration || 'Not specified')}</dd><dt>Learning outcomes</dt><dd>${escapeHtml(learningOutcomes || 'None specified')}</dd></dl><p class="notes"><strong>Notes:</strong> ${escapeHtml(resource.notes || 'No notes provided.')}</p></article>`
+      const notes = resource.notes ? renderMarkdown(resource.notes) : '<p>No notes provided.</p>'
+      return `<article class="resource"><h4>${linkedTitle}</h4><dl><dt>Type</dt><dd>${escapeHtml(resource.type || 'Not specified')}</dd><dt>Duration</dt><dd>${escapeHtml(resource.duration || 'Not specified')}</dd><dt>Learning outcomes</dt><dd>${escapeHtml(learningOutcomes || 'None specified')}</dd></dl><div class="notes"><p class="label">Notes</p>${notes}</div></article>`
     }).join('')}</section>` : ''
     return `<section><h2>${escapeHtml(topic)}</h2>${groupMarkup('Required', topicResources.filter(resource => resource.required))}${groupMarkup('Optional', topicResources.filter(resource => !resource.required))}</section>`
   }).join('')
