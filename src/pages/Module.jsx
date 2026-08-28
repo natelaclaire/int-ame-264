@@ -5,6 +5,7 @@ import {
   exportModuleAsCommonCartridge,
   exportModuleAsBrightspaceCartridge
 } from '../utils/commonCartridge'
+import { sortResources } from '../utils/resourceOrder'
 
 export default function Module() {
   const { slug } = useParams()
@@ -28,7 +29,7 @@ export default function Module() {
 
   const module = useMemo(() => modules.find(m => m.slug === slug), [modules, slug])
   const loMap = useMemo(() => Object.fromEntries(outcomes.map(o => [o.id, o])), [outcomes])
-  const resourcesForModule = useMemo(() => resources.filter(r => r.moduleSlug === slug), [resources, slug])
+  const resourcesForModule = useMemo(() => sortResources(resources.filter(r => r.moduleSlug === slug)), [resources, slug])
   const topics = useMemo(() => resourcesForModule.reduce((groups, resource) => {
     const topic = resource.topic || 'General'
     if (!groups[topic]) groups[topic] = []

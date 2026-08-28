@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from 'react'
 import { useParams, Link } from 'react-router-dom'
 import ResourceItem from '../components/ResourceItem'
+import { compareResourceOrder } from '../utils/resourceOrder'
 
 export default function OutcomeResources() {
   const { id } = useParams()
@@ -26,7 +27,9 @@ export default function OutcomeResources() {
   }, [])
 
   const loMap = useMemo(() => Object.fromEntries(outcomes.map(o => [o.id, o])), [outcomes])
-  const filtered = useMemo(() => resources.filter(r => (r.learningOutcomes||[]).includes(loId)), [resources, loId])
+  const filtered = useMemo(() => resources
+    .filter(r => (r.learningOutcomes || []).includes(loId))
+    .sort((a, b) => (a.moduleWeek || 0) - (b.moduleWeek || 0) || compareResourceOrder(a, b)), [resources, loId])
   const moduleMap = useMemo(() => Object.fromEntries(modules.map(m => [m.slug, m])), [modules])
   const lo = loMap[loId]
 

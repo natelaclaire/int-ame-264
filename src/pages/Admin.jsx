@@ -15,7 +15,7 @@ const collections = [
 const templates = {
   learningOutcomes: { id: 0, title: 'New learning outcome', outcome: '', indicators: '', slug: 'new-learning-outcome' },
   modules: { week: 0, title: 'New module', slug: 'new-module', topic: '', overview: '', section: 'Historical Foundations' },
-  resources: { id: 'new-resource', moduleSlug: '', moduleWeek: 0, title: 'New resource', url: '', type: 'Article', duration: '', notes: '', learningOutcomes: [], required: false, topic: 'General' },
+  resources: { id: 'new-resource', moduleSlug: '', moduleWeek: 0, order: 1, title: 'New resource', url: '', type: 'Article', duration: '', notes: '', learningOutcomes: [], required: false, topic: 'General' },
   assignments: { id: 'new-assignment', title: 'New assignment', description: '', slug: 'new-assignment', markdown: '', supplemental: [] },
   syllabi: { id: 'new-syllabus', term: 'New term', startDate: '', endDate: '', slug: 'new-syllabus', markdown: '' },
   writings: { slug: 'new-post', title: 'New post', author: 'Nate LaClaire', date: '', category: 'Essay', readTime: '5 min read', excerpt: '', body: [''] },
@@ -24,6 +24,27 @@ const templates = {
 
 const deepClone = value => JSON.parse(JSON.stringify(value))
 const recordTitle = (record, index) => record?.title || record?.topic || record?.term || record?.id || `Item ${index + 1}`
+const normalizeResourceOrder = items => {
+  const weekCounts = new Map()
+  return items.map(item => {
+    const week = item.moduleSlug || `week-${item.moduleWeek || 0}`
+    const nextOrder = (weekCounts.get(week) || 0) + 1
+    weekCounts.set(week, Math.max(nextOrder, Number.isFinite(item.order) ? item.order : 0))
+    return Number.isFinite(item.order) ? item : { ...item, order: nextOrder }
+  })
+}
+const sortResourceCollection = items => {
+  const weekCounts = new Map()
+  return items
+    .map((item, index) => ({ item, index }))
+    .sort((a, b) => (a.item.moduleWeek || 0) - (b.item.moduleWeek || 0) || (a.item.order || 0) - (b.item.order || 0) || a.index - b.index)
+    .map(({ item }) => {
+      const week = item.moduleSlug || `week-${item.moduleWeek || 0}`
+      const order = (weekCounts.get(week) || 0) + 1
+      weekCounts.set(week, order)
+      return { ...item, order }
+    })
+}
 const blankArrayItem = (value, name) => {
   if (!value.length) return /learning outcomes/i.test(name) ? 0 : ''
   if (typeof value[0] === 'number') return 0
@@ -52,7 +73,10 @@ function CollectionEditor({ config }) {
   const [status, setStatus] = useState('Loading…')
 
   useEffect(() => {
-    fetch(`/__cms/data/${config.key}`).then(response => response.json()).then(data => { setItems(data); setSaved(deepClone(data)); setSelected(0); setStatus('') }).catch(error => setStatus(error.message))
+    fetch(`/__cms/data/${config.key}`).then(response => response.json()).then(data => {
+      const prepared = config.key === 'resources' ? normalizeResourceOrder(data) : data
+      setItems(prepared); setSaved(deepClone(prepared)); setSelected(0); setStatus('')
+    }).catch(error => setStatus(error.message))
   }, [config.key])
 
   const dirty = JSON.stringify(items) !== JSON.stringify(saved)
@@ -67,18 +91,34 @@ function CollectionEditor({ config }) {
 
   const save = async () => {
     setStatus('Saving…')
-    const response = await fetch(`/__cms/data/${config.key}`, { method: 'PUT', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(items) })
+    const prepared = config.key === 'resources' ? sortResourceCollection(items) : items
+    const response = await fetch(`/__cms/data/${config.key}`, { method: 'PUT', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(prepared) })
     const result = await response.json()
     if (!response.ok) return setStatus(result.error || 'Save failed.')
-    setSaved(deepClone(items)); setStatus(`Saved ${result.count} records.`)
+    setItems(prepared); setSaved(deepClone(prepared)); setSelected(Math.max(0, prepared.findIndex(item => item.id === current?.id))); setStatus(`Saved ${result.count} records.`)
   }
 
   const add = () => { const next = [...items, deepClone(templates[config.key])]; setItems(next); setSelected(next.length - 1) }
   const remove = () => { if (!current || !window.confirm(`Delete “${recordTitle(current, selected)}”?`)) return; const next = items.filter((_, index) => index !== selected); setItems(next); setSelected(Math.max(0, selected - 1)) }
+  const moveCurrent = direction => {
+    if (!current || config.key !== 'resources') return
+    const siblings = items
+      .map((item, index) => ({ item, index }))
+      .filter(({ item }) => item.moduleSlug === current.moduleSlug)
+      .sort((a, b) => a.item.order - b.item.order || a.index - b.index)
+    const position = siblings.findIndex(({ index }) => index === selected)
+    const target = siblings[position + direction]
+    if (!target) return
+    const currentOrder = current.order
+    const next = items.map((item, index) => index === selected ? { ...item, order: target.item.order } : index === target.index ? { ...item, order: currentOrder } : item)
+    setItems(next)
+  }
+  const resourcePosition = config.key === 'resources' && current ? items.filter(item => item.moduleSlug === current.moduleSlug).sort((a, b) => a.order - b.order).findIndex(item => item.id === current.id) : -1
+  const resourceCount = config.key === 'resources' && current ? items.filter(item => item.moduleSlug === current.moduleSlug).length : 0
 
   return <div className="cms-workspace">
     <aside className="cms-records"><div className="cms-record-tools"><input type="search" placeholder={`Search ${config.label.toLowerCase()}…`} value={query} onChange={event => setQuery(event.target.value)} /><button type="button" onClick={add}>+ New</button></div><div className="cms-record-list">{filtered.map(({ item, index }) => <button type="button" className={index === selected ? 'active' : ''} onClick={() => setSelected(index)} key={`${recordTitle(item, index)}-${index}`}><span>{recordTitle(item, index)}</span><small>{item.week ? `Week ${item.week}` : item.type || item.category || item.date || ''}</small></button>)}</div></aside>
-    <section className="cms-editor">{current ? <><header className="cms-editor-header"><div><div className="post-meta">EDIT {config.singular.toUpperCase()}</div><h2>{recordTitle(current, selected)}</h2></div><div className="cms-actions"><button type="button" className="danger" onClick={remove}>Delete</button><button type="button" disabled={!dirty} onClick={save}>{dirty ? 'Save changes' : 'Saved'}</button></div></header><div className="cms-form">{Object.entries(current).map(([key, value]) => <Field key={key} name={key} value={value} onChange={next => updateCurrent({ ...current, [key]: next })} />)}</div></> : <div className="cms-empty">No records yet. Add the first one.</div>}<div className="cms-status" aria-live="polite">{status}{dirty && !status ? 'Unsaved changes' : ''}</div></section>
+    <section className="cms-editor">{current ? <><header className="cms-editor-header"><div><div className="post-meta">EDIT {config.singular.toUpperCase()}</div><h2>{recordTitle(current, selected)}</h2></div><div className="cms-actions">{config.key === 'resources' && <><button type="button" disabled={resourcePosition <= 0} onClick={() => moveCurrent(-1)}>↑ Move up</button><button type="button" disabled={resourcePosition < 0 || resourcePosition >= resourceCount - 1} onClick={() => moveCurrent(1)}>↓ Move down</button></>}<button type="button" className="danger" onClick={remove}>Delete</button><button type="button" disabled={!dirty} onClick={save}>{dirty ? 'Save changes' : 'Saved'}</button></div></header><div className="cms-form">{Object.entries(current).map(([key, value]) => <Field key={key} name={key} value={value} onChange={next => updateCurrent({ ...current, [key]: next })} />)}</div></> : <div className="cms-empty">No records yet. Add the first one.</div>}<div className="cms-status" aria-live="polite">{status}{dirty && !status ? 'Unsaved changes' : ''}</div></section>
   </div>
 }
 
