@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import heroImage from '../assets/gaming-history-image.png'
+import heroImage from '../assets/controllers.jpg'
 
 export default function Home() {
   return (
@@ -18,8 +18,8 @@ export default function Home() {
         </div>
       </div>
       <div className="home-image">
-        <img src={heroImage} alt="Retro game controller and pixel art scene" />
-        <div className="image-caption"><span>ARCHIVE_001</span><span>PLAY / STUDY / QUESTION</span></div>
+        <img src={heroImage} alt="Retro game controllers" />
+        <div className="image-caption"><span>Photo by <a href="https://unsplash.com/photos/white-sony-ps-4-game-controller-gSstgCAgd3U" target="_blank" rel="noopener noreferrer">Mis Tesoros</a></span><span>on <a href="https://unsplash.com/" target="_blank" rel="noopener noreferrer">Unsplash</a></span></div>
       </div>
     </section>
     <section className="home-grid">
