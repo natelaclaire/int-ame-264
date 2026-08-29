@@ -157,6 +157,39 @@
     "topic": "Origins, Genres, and Personal Histories"
   },
   {
+    "id": "week-1-lets-buy-commodore",
+    "moduleSlug": "week-1-introduction:-your-video-game-story",
+    "moduleWeek": 1,
+    "order": 10,
+    "title": "Let's Buy Commodore®",
+    "url": "https://www.youtube.com/show/VLPL7QScsJIdNE2O3TDlOxYsJB3bazVoBCi7?sbp=KgtsTjhyNExSY09YY0AB",
+    "type": "YouTube Playlist",
+    "duration": "",
+    "notes": "Follow Peri Fractic and crew as set embark on a mission to rescue the most beloved tech brand of all time, as they proclaim, \"Let's Buy Commodore!\"",
+    "learningOutcomes": [
+      1,
+      8
+    ],
+    "required": false,
+    "topic": "Origins, Genres, and Personal Histories"
+  },
+  {
+    "id": "week-1-commodore-77",
+    "moduleSlug": "week-1-introduction:-your-video-game-story",
+    "moduleWeek": 1,
+    "order": 11,
+    "title": "They Really Didn’t Have to Go This Hard for the Cyberpunk 2077 Edition of the Commodore 64",
+    "url": "https://gizmodo.com/they-really-didnt-have-to-go-this-hard-for-the-cyberpunk-2077-edition-of-the-commodore-64-2000803455",
+    "type": "Article",
+    "duration": "2 min",
+    "notes": "This article highlights a unique hardware collaboration between Commodore and CD Projekt Red, introducing a specialized version of the classic 1980s computer rebranded as the Commodore 77. The author establishes a historical connection between the legacy of the Commodore 64 and the origins of the cyberpunk genre, noting how early tech influenced the tabletop RPG that eventually became the hit video game. While the new machine features modern internal upgrades such as a 77MHz processor and increased memory, it maintains broad compatibility with the vast library of original software and peripherals. Ultimately, the article serves as both a nostalgic deep dive and a product announcement for a stylized collector's item designed to appeal to retro enthusiasts and fans of the sci-fi franchise.",
+    "learningOutcomes": [
+      1
+    ],
+    "required": false,
+    "topic": "Origins, Genres, and Personal Histories"
+  },
+  {
     "id": "week-2-arcade-and-location-based-games-article-history-of-coin-operated-arcade-g",
     "moduleSlug": "week-2-arcade-and-location-based-games",
     "moduleWeek": 2,
