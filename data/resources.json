@@ -198,7 +198,7 @@
     "url": "https://www.betson.com/the-history-of-arcade-games/",
     "type": "Article",
     "duration": "10 min",
-    "notes": "",
+    "notes": "This article chronicles the evolution of the coin-operated gaming industry, tracing its journey from early amusement halls filled with pinball and slot machines to the modern era of family entertainment centers. The narrative highlights how pioneering titles like Pong and Space Invaders catalyzed the Golden Age of Arcades, a period defined by the introduction of iconic mascots and diverse genres ranging from maze chases to platformers. It further explores the shift toward competitive culture through versus fighting games in the 1990s and analyzes how the rise of home consoles eventually forced arcades to reinvent themselves as nostalgic \"barcades\" or multifaceted social hubs. Ultimately, the article serves to honor the technological and cultural legacy of the arcade, asserting that these public spaces laid the essential foundation for the global video game industry of today.",
     "learningOutcomes": [
       1
     ],
@@ -214,7 +214,7 @@
     "url": "https://youtu.be/GUN2bP8XQKI?si=i_2qOJQig0sj3Hsy&t=2036",
     "type": "YouTube",
     "duration": "10 min",
-    "notes": "Insert Coin, from 33:56 to 43:55 (Documentary on Midway Games)",
+    "notes": "Watch from 33:56 to 43:55, which discusses Mortal Kombat. This documentary chronicles the golden age and eventual decline of Midway Games, a rebellious force in the video game industry that prioritized aggressive, boundary-pushing innovation over traditional rules. It traces the company’s evolution from the early success of titles like Defender through the industry crash of 1984, highlighting how they reclaimed dominance by pioneering video digitization to create realistic, gritty experiences in NARC and Mortal Kombat. Key themes include the intense internal competition between design teams, the \"punk rock\" defiance of cultural norms regarding video game violence, and the massive commercial impact of licensed hits like NBA Jam. Ultimately, the documentary illustrates a technological and cultural shift, as the rise of home consoles and the internet dismantled the social arcade scene, leading Midway to pivot away from its coin-operated roots.",
     "learningOutcomes": [
       4
     ],
@@ -222,11 +222,28 @@
     "topic": "Arcades and Public Play"
   },
   {
-    "id": "week-2-arcade-and-location-based-games-youtube-how-arcades-are-reinventing-fun",
+    "id": "week-2-arcades-the-universal-language",
     "moduleSlug": "week-2-arcade-and-location-based-games",
     "moduleWeek": 2,
     "order": 3,
-    "title": "How Arcades Are Reinventing Fun",
+    "title": "Arcades : The Universal Language : 1970-1999 (Directors Cut)",
+    "url": "https://www.youtube.com/watch?v=v8rhq5YKJPg",
+    "type": "YouTube",
+    "duration": "~27 min",
+    "notes": "Watch at least the first 27 minutes. Feel free to watch more. The video's description includes links to chronological \"chapters\" in the video. The video is 10 hours long, so don't watch the whole thing! This documentary serves as a chronological history of arcade gaming, evolving from its early 20th-century origins into a global cultural phenomenon spanning the 1970s and 1980s. The video details the industry's transition from mechanical penny arcades and pinball to the birth of the video game era, highlighted by foundational titles like Pong, Space Invaders, and Pac-Man. Key themes include the fierce competition between industry giants like Atari, Nintendo, and Namco, the technological shift toward microprocessors and vector graphics, and the social transformation of arcades from \"seedy\" establishments into family-friendly entertainment centers. Ultimately, it preserves the legacy of the Golden Age of gaming, illustrating how early innovations in genres and hardware established the universal language of modern interactive entertainment.",
+    "learningOutcomes": [
+      1,
+      2
+    ],
+    "required": false,
+    "topic": "General"
+  },
+  {
+    "id": "week-2-arcade-and-location-based-games-youtube-how-arcades-are-reinventing-fun",
+    "moduleSlug": "week-2-arcade-and-location-based-games",
+    "moduleWeek": 2,
+    "order": 4,
+    "title": "How Arcades Really Make Money",
     "url": "https://youtu.be/LFaxqJJLOZc?si=gVuHUssWo2kROvGq",
     "type": "YouTube",
     "duration": "47 min",
@@ -243,7 +260,7 @@
     "id": "week-2-arcade-and-location-based-games-article-what-is-location-based-entertainm",
     "moduleSlug": "week-2-arcade-and-location-based-games",
     "moduleWeek": 2,
-    "order": 4,
+    "order": 5,
     "title": "What is Location-Based Entertainment - A Clear Explanation",
     "url": "https://drawandcode.com/learning-zone/what-is-location-based-entertainment/",
     "type": "Article",
@@ -260,7 +277,7 @@
     "id": "week-2-arcade-and-location-based-games-youtube-what-is-location-based-vr",
     "moduleSlug": "week-2-arcade-and-location-based-games",
     "moduleWeek": 2,
-    "order": 5,
+    "order": 6,
     "title": "What is \"location-based\" VR?",
     "url": "https://www.youtube.com/watch?v=JCKwAznXaSM&ab_channel=MakayplaysVR",
     "type": "YouTube",
@@ -274,44 +291,38 @@
     "topic": "Arcades and Public Play"
   },
   {
-    "id": "week-2-arcade-and-location-based-games-article-the-history-of-atari:-1971-1977",
-    "moduleSlug": "week-2-arcade-and-location-based-games",
-    "moduleWeek": 2,
-    "order": 6,
-    "title": "The History of Atari: 1971-1977",
-    "url": "https://www.gamedeveloper.com/business/the-history-of-atari-1971-1977",
-    "type": "Article",
-    "duration": "",
-    "notes": "",
-    "learningOutcomes": [],
-    "required": false,
-    "topic": "Arcades and Public Play"
-  },
-  {
-    "id": "week-2-arcade-and-location-based-games-comic-rise-and-fall-of-atari:-atari-backs",
+    "id": "week-2-projections-location-based-vr",
     "moduleSlug": "week-2-arcade-and-location-based-games",
     "moduleWeek": 2,
     "order": 7,
-    "title": "Rise and fall of Atari: Atari backstory",
-    "url": "https://consolers.webcomic.ws/archive/18245",
-    "type": "Comic",
-    "duration": "",
-    "notes": "",
-    "learningOutcomes": [],
+    "title": "PROJECTIONS: Spaces' Location-Based VR Experience",
+    "url": "https://www.youtube.com/watch?v=U9qiUundJ8c",
+    "type": "YouTube",
+    "duration": "~24 min",
+    "notes": "Watch at least the first 24 minutes.",
+    "learningOutcomes": [
+      1,
+      5,
+      8
+    ],
     "required": false,
-    "topic": "Arcades and Public Play"
+    "topic": "General"
   },
   {
-    "id": "week-2-arcade-and-location-based-games-article-coin-op-century:-a-brief-history-",
+    "id": "week-2-arcade-and-location-based-games-youtube-the-arcade-project:-a-cultural-hi",
     "moduleSlug": "week-2-arcade-and-location-based-games",
     "moduleWeek": 2,
     "order": 8,
-    "title": "Coin-Op Century: A Brief History of the American Arcade",
-    "url": "https://www.museumofplay.org/blog/coin-op-century-a-brief-history-of-the-american-arcade/",
-    "type": "Article",
+    "title": "The Arcade Project: A Cultural History of Gaming Spaces",
+    "url": "https://www.youtube.com/watch?v=nkm8_2hb9VQ&ab_channel=CSULBCenterfortheHistoryofVideoGamesandCriticalPlay",
+    "type": "YouTube",
     "duration": "",
     "notes": "",
-    "learningOutcomes": [],
+    "learningOutcomes": [
+      1,
+      2,
+      4
+    ],
     "required": false,
     "topic": "Arcades and Public Play"
   },
@@ -325,7 +336,58 @@
     "type": "Podcast",
     "duration": "",
     "notes": "",
-    "learningOutcomes": [],
+    "learningOutcomes": [
+      1
+    ],
+    "required": false,
+    "topic": "Arcades and Public Play"
+  },
+  {
+    "id": "week-2-arcade-and-location-based-games-article-the-history-of-atari:-1971-1977",
+    "moduleSlug": "week-2-arcade-and-location-based-games",
+    "moduleWeek": 2,
+    "order": 10,
+    "title": "The History of Atari: 1971-1977",
+    "url": "https://www.gamedeveloper.com/business/the-history-of-atari-1971-1977",
+    "type": "Article",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [
+      1
+    ],
+    "required": false,
+    "topic": "Arcades and Public Play"
+  },
+  {
+    "id": "week-2-arcade-and-location-based-games-comic-rise-and-fall-of-atari:-atari-backs",
+    "moduleSlug": "week-2-arcade-and-location-based-games",
+    "moduleWeek": 2,
+    "order": 11,
+    "title": "Rise and fall of Atari: Atari backstory",
+    "url": "https://consolers.webcomic.ws/archive/18245",
+    "type": "Comic",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [
+      1,
+      4
+    ],
+    "required": false,
+    "topic": "Arcades and Public Play"
+  },
+  {
+    "id": "week-2-arcade-and-location-based-games-article-coin-op-century:-a-brief-history-",
+    "moduleSlug": "week-2-arcade-and-location-based-games",
+    "moduleWeek": 2,
+    "order": 12,
+    "title": "Coin-Op Century: A Brief History of the American Arcade",
+    "url": "https://www.museumofplay.org/blog/coin-op-century-a-brief-history-of-the-american-arcade/",
+    "type": "Article",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [
+      1
+    ],
     "required": false,
     "topic": "Arcades and Public Play"
   },
@@ -333,13 +395,15 @@
     "id": "week-2-arcade-and-location-based-games-article-space-invaders:-tomohiro-nishikad",
     "moduleSlug": "week-2-arcade-and-location-based-games",
     "moduleWeek": 2,
-    "order": 10,
+    "order": 13,
     "title": "Space Invaders: Tomohiro Nishikado Reveals Why the Main Villains Were Octopuses",
     "url": "https://www.cbr.com/space-invaders-octopus-villains-war-worlds/",
     "type": "Article",
     "duration": "",
     "notes": "",
-    "learningOutcomes": [],
+    "learningOutcomes": [
+      1
+    ],
     "required": false,
     "topic": "Arcades and Public Play"
   },
@@ -347,13 +411,15 @@
     "id": "week-2-arcade-and-location-based-games-book-replay:-the-history-of-video-games",
     "moduleSlug": "week-2-arcade-and-location-based-games",
     "moduleWeek": 2,
-    "order": 11,
-    "title": "*Replay: The History of Video Games*",
+    "order": 14,
+    "title": "*Replay: The History of Video Games* by Tristan Donovan",
     "url": "https://www.amazon.com/Replay-History-Video-Tristan-Donovan/dp/0956507204",
     "type": "Book",
     "duration": "",
     "notes": "*Replay: The History of Video Games* by Tristan Donovan (especially chapters 1-3 and 18)",
-    "learningOutcomes": [],
+    "learningOutcomes": [
+      1
+    ],
     "required": false,
     "topic": "Arcades and Public Play"
   },
@@ -361,41 +427,15 @@
     "id": "week-2-arcade-and-location-based-games-youtube-1971:-the-video-game-arcade-is-bo",
     "moduleSlug": "week-2-arcade-and-location-based-games",
     "moduleWeek": 2,
-    "order": 12,
+    "order": 15,
     "title": "1971: The Video Game Arcade is Born! Galaxy Game and Computer Space!",
     "url": "https://www.youtube.com/watch?v=flV7x26wp0U&ab_channel=ChronologicallyGaming",
     "type": "YouTube",
     "duration": "5 min",
     "notes": "",
-    "learningOutcomes": [],
-    "required": false,
-    "topic": "Arcades and Public Play"
-  },
-  {
-    "id": "week-2-arcade-and-location-based-games-youtube-arcades-:-the-universal-language-",
-    "moduleSlug": "week-2-arcade-and-location-based-games",
-    "moduleWeek": 2,
-    "order": 13,
-    "title": "Arcades : The Universal Language : 1970-1999 (Directors Cut)",
-    "url": "https://www.youtube.com/watch?v=v8rhq5YKJPg&ab_channel=BastichB64K",
-    "type": "YouTube",
-    "duration": "",
-    "notes": "",
-    "learningOutcomes": [],
-    "required": false,
-    "topic": "Arcades and Public Play"
-  },
-  {
-    "id": "week-2-arcade-and-location-based-games-youtube-the-arcade-project:-a-cultural-hi",
-    "moduleSlug": "week-2-arcade-and-location-based-games",
-    "moduleWeek": 2,
-    "order": 14,
-    "title": "The Arcade Project: A Cultural History of Gaming Spaces",
-    "url": "https://www.youtube.com/watch?v=nkm8_2hb9VQ&ab_channel=CSULBCenterfortheHistoryofVideoGamesandCriticalPlay",
-    "type": "YouTube",
-    "duration": "",
-    "notes": "",
-    "learningOutcomes": [],
+    "learningOutcomes": [
+      1
+    ],
     "required": false,
     "topic": "Arcades and Public Play"
   },
@@ -403,13 +443,17 @@
     "id": "week-2-arcade-and-location-based-games-youtube-the-infinite-immersive-experience",
     "moduleSlug": "week-2-arcade-and-location-based-games",
     "moduleWeek": 2,
-    "order": 15,
+    "order": 16,
     "title": "'The Infinite' immersive experience takes guests to space",
     "url": "https://www.youtube.com/watch?v=pkIa859O49o&ab_channel=FOX13Seattle",
     "type": "YouTube",
     "duration": "",
     "notes": "",
-    "learningOutcomes": [],
+    "learningOutcomes": [
+      3,
+      5,
+      8
+    ],
     "required": false,
     "topic": "Arcades and Public Play"
   },
@@ -417,27 +461,17 @@
     "id": "week-2-arcade-and-location-based-games-youtube-vr-gym-and-vr-gaming-arena-all-in",
     "moduleSlug": "week-2-arcade-and-location-based-games",
     "moduleWeek": 2,
-    "order": 16,
+    "order": 17,
     "title": "VR Gym and VR Gaming Arena All In One: ThriVR!",
     "url": "https://www.youtube.com/watch?v=3FI4q5I4Ik4&list=PLIpvHCj8Tnt2spgTRQqbPEdNiayRBbmT8&index=2&ab_channel=JayBratt",
     "type": "YouTube",
     "duration": "",
     "notes": "",
-    "learningOutcomes": [],
-    "required": false,
-    "topic": "Arcades and Public Play"
-  },
-  {
-    "id": "week-2-arcade-and-location-based-games-youtube-nomadic-location-based-vr-experie",
-    "moduleSlug": "week-2-arcade-and-location-based-games",
-    "moduleWeek": 2,
-    "order": 17,
-    "title": "Nomadic Location-Based VR Experience Trailer",
-    "url": "https://www.youtube.com/watch?v=GR4xj0dftnc&ab_channel=UploadVR",
-    "type": "YouTube",
-    "duration": "",
-    "notes": "",
-    "learningOutcomes": [],
+    "learningOutcomes": [
+      3,
+      5,
+      8
+    ],
     "required": false,
     "topic": "Arcades and Public Play"
   },
@@ -451,21 +485,10 @@
     "type": "YouTube",
     "duration": "",
     "notes": "",
-    "learningOutcomes": [],
-    "required": false,
-    "topic": "Arcades and Public Play"
-  },
-  {
-    "id": "week-2-arcade-and-location-based-games-high-scorehttps-wwwnetflixcomtitle8101908",
-    "moduleSlug": "week-2-arcade-and-location-based-games",
-    "moduleWeek": 2,
-    "order": 19,
-    "title": "High Score (Netflix series)",
-    "url": "https://www.netflix.com/title/81019087",
-    "type": "Netflix",
-    "duration": "",
-    "notes": "High Score (Netflix series)",
-    "learningOutcomes": [],
+    "learningOutcomes": [
+      5,
+      8
+    ],
     "required": false,
     "topic": "Arcades and Public Play"
   },
@@ -473,7 +496,7 @@
     "id": "week-2-arcade-and-location-based-games-visit-an-arcade",
     "moduleSlug": "week-2-arcade-and-location-based-games",
     "moduleWeek": 2,
-    "order": 20,
+    "order": 19,
     "title": "Visit an arcade",
     "url": null,
     "type": "",
@@ -482,6 +505,87 @@
     "learningOutcomes": [],
     "required": false,
     "topic": "Arcades and Public Play"
+  },
+  {
+    "id": "week-2-stranger-things",
+    "moduleSlug": "week-2-arcade-and-location-based-games",
+    "moduleWeek": 2,
+    "order": 20,
+    "title": "Stranger Things (Netflix)",
+    "url": "https://www.netflix.com/title/80057281",
+    "type": "TV Series",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [
+      1
+    ],
+    "required": false,
+    "topic": "General"
+  },
+  {
+    "id": "week-2-the-goldbergs",
+    "moduleSlug": "week-2-arcade-and-location-based-games",
+    "moduleWeek": 2,
+    "order": 21,
+    "title": "The Goldbergs (ABC/Hulu)",
+    "url": "https://www.hulu.com/series/a43a85fb-d4c8-4d11-9c28-070153643bec",
+    "type": "TV Series",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [
+      1
+    ],
+    "required": false,
+    "topic": "General"
+  },
+  {
+    "id": "week-2-arcade-and-location-based-games-high-scorehttps-wwwnetflixcomtitle8101908",
+    "moduleSlug": "week-2-arcade-and-location-based-games",
+    "moduleWeek": 2,
+    "order": 22,
+    "title": "High Score (Netflix)",
+    "url": "https://www.netflix.com/title/81019087",
+    "type": "Documentary TV Series",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [
+      1
+    ],
+    "required": false,
+    "topic": "Arcades and Public Play"
+  },
+  {
+    "id": "week-2-bob-lawton-death",
+    "moduleSlug": "week-2-arcade-and-location-based-games",
+    "moduleWeek": 2,
+    "order": 23,
+    "title": "Bob Lawton, owner of world’s largest arcade, dies at 90",
+    "url": "https://apnews.com/article/lifestyle-new-hampshire-laconia-1e62be5b5af1d35ecc01ea4cf30b4ce7",
+    "type": "Article",
+    "duration": "",
+    "notes": "About the founder of Funspot in Laconia, NH - sorry, in the video I say that he founded the American Classic Arcade Museum, but I don't see evidence of that, just that the American Classic Arcade Museum is at Funspot, which he founded.",
+    "learningOutcomes": [
+      1
+    ],
+    "required": false,
+    "topic": "General"
+  },
+  {
+    "id": "week-2-barcades",
+    "moduleSlug": "week-2-arcade-and-location-based-games",
+    "moduleWeek": 2,
+    "order": 24,
+    "title": "Arcade bars take up quarters in southern Maine",
+    "url": "https://www.pressherald.com/2022/04/04/arcade-bars-take-up-quarters-in-southern-maine/",
+    "type": "Article",
+    "duration": "",
+    "notes": "",
+    "learningOutcomes": [
+      1,
+      8
+    ],
+    "required": false,
+    "topic": "General"
   },
   {
     "id": "week-3-gaming-consoles-and-pc-gaming-youtube-the-evolution-of-gaming-pcs",
