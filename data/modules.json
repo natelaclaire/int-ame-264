@@ -1,7 +1,7 @@
 [
   {
     "week": 1,
-    "title": "Introduction: Your Video Game Story",
+    "title": "Your Video Game Story & Introduction to Gaming History",
     "slug": "week-1-introduction:-your-video-game-story",
     "topic": "Share personal gaming experiences.",
     "overview": "This week, we introduce the course by sharing personal gaming experiences. Students will reflect on their own history with video games, discussing favorite games, memorable moments, and how gaming has influenced their lives.",
@@ -9,7 +9,7 @@
   },
   {
     "week": 2,
-    "title": "Arcade and Location-Based Games",
+    "title": "Arcades and Location-Based Gaming",
     "slug": "week-2-arcade-and-location-based-games",
     "topic": "A look at the rise of arcades and public gaming culture.",
     "overview": "This week, we take a look at the rise of arcades and public gaming culture. We will explore how arcades served as social hubs and influenced gaming trends, as well as the impact of location-based games on player interaction and community building.",
@@ -17,34 +17,34 @@
   },
   {
     "week": 3,
-    "title": "Gaming Consoles and PC Gaming",
+    "title": "Home Consoles, PC Gaming, and the Rise of Genres",
     "slug": "week-3-gaming-consoles-and-pc-gaming",
     "topic": "Exploration of early consoles and the growth of PC gaming and shareware.",
-    "overview": "This week, we explore the development of early gaming consoles and the rise of PC gaming, including the impact of shareware distribution on the gaming industry.",
+    "overview": "This week, we explore the development of early gaming consoles and the rise of PC gaming, including the impact of shareware distribution on the gaming industry. We will also discuss the emergence of various game genres and how they shaped player experiences.",
     "section": "Historical Foundations"
   },
   {
     "week": 4,
-    "title": "Portable Gaming",
+    "title": "Portable Gaming, Mobile Gaming, and Monetization",
     "slug": "week-4-portable-gaming",
     "topic": "Mobile gaming, portable devices, and the economics of monetization.",
-    "overview": "This week we talk about mobile gaming, portable devices, and the economics of monetization. We will discuss how mobile platforms have transformed gaming accessibility and the various monetization strategies employed in mobile games.",
+    "overview": "This week we talk about mobile gaming, portable devices, and the economics of monetization. We will discuss how mobile platforms have transformed the industry by introducing new business models, gameplay experiences, and accessibility for players on the go.",
     "section": "Historical Foundations"
   },
   {
     "week": 5,
-    "title": "Gender and Minority Representation",
+    "title": "Representation, Inclusion, and Accessibility",
     "slug": "week-5-gender-and-minority-representation",
     "topic": "Analyzing representation and inclusivity in gaming.",
-    "overview": "This week we analyze representation and inclusivity in gaming, discussing how different groups are portrayed and the efforts to create a more inclusive gaming environment. This includes a look at character design, storylines, representation among the game development community, and community dynamics.",
+    "overview": "This week we analyze representation and inclusivity in gaming, discussing how different groups are portrayed and the efforts to create a more inclusive gaming environment, including the role of features that make games more accessible to all players. This includes assistive technologies and design principles. We will also take a look at character design, storylines, representation among the game development community, and community dynamics.",
     "section": "Gaming's Impact on People and Society"
   },
   {
     "week": 6,
-    "title": "Civic Engagement in Video Games / War and Violence in Video Games",
+    "title": "Games, Society, Religion, War, and Ethics",
     "slug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
     "topic": "Exploring the impact of video games on civic engagement and the portrayal of war and violence.",
-    "overview": "This week, we explore how video games influence civic engagement and discuss the representation of war and violence in gaming. We will analyze the social and political implications of these themes and their effects on players and communities.",
+    "overview": "This week, we explore how video games influence civic engagement and discuss the representation of war and violence in gaming. We will analyze the social and political implications of these themes and their effects on players and communities. And we'll also discuss the ethical considerations of game design and content, including the responsibilities of developers and the impact of gaming on societal norms. Finally, we'll explore how religion and spirituality are represented in games, examining the ways in which games can reflect, challenge, or reinforce religious beliefs and practices.",
     "section": "Gaming's Impact on People and Society"
   },
   {
@@ -57,7 +57,7 @@
   },
   {
     "week": 8,
-    "title": "Edutainment",
+    "title": "Gaming and Education",
     "slug": "week-8-edutainment",
     "topic": "The intersection of education and gaming.",
     "overview": "This week, we explore the intersection of education and gaming, discussing how games can be used as educational tools and the impact of edutainment on learning experiences.",
@@ -73,7 +73,7 @@
   },
   {
     "week": 10,
-    "title": "Modding and Community-Run/Private Servers",
+    "title": "Modding, Private Servers, Preservation, and Fan Communities",
     "slug": "week-10-modding-and-community-runprivate-servers",
     "topic": "Exploring fan-driven content and private servers.",
     "overview": "This week, we explore fan-driven content creation through modding and the role of community-run and private servers in gaming.",
@@ -81,7 +81,7 @@
   },
   {
     "week": 11,
-    "title": "Competitive and Multiplayer Gaming",
+    "title": "Competitive Gaming, Streaming, and Content Creation",
     "slug": "week-11-competitive-and-multiplayer-gaming",
     "topic": "The rise of competitive gaming and multiplayer communities as well as exploring streaming culture and video content creation.",
     "overview": "This week, we examine the rise of competitive gaming and multiplayer communities, as well as exploring streaming culture and video content creation. We will discuss how these elements have transformed the gaming experience and fostered new forms of social interaction.",
@@ -89,15 +89,15 @@
   },
   {
     "week": 12,
-    "title": "Gaming and Community",
+    "title": "Gaming Communities and Tabletop Role-Playing Games",
     "slug": "week-12-gaming-and-community",
     "topic": "How gaming brings us together / divides us.",
-    "overview": "This week, we explore how gaming brings people together and how it can also create divisions within communities. We will discuss the social dynamics of gaming, including both positive and negative aspects.",
+    "overview": "This week, we explore how gaming brings people together and how it can also create divisions within communities. We will discuss the social dynamics of gaming, including both positive and negative aspects. We'll also take a look at tabletop role-playing games (TTRPGs) and their impact on gaming culture, examining how these games foster creativity, collaboration, and storytelling within communities.",
     "section": "Communities, Creativity, and Player Culture"
   },
   {
     "week": 13,
-    "title": "Immersive Gaming and AI",
+    "title": "Virtual Reality, AI, and the Future of Gaming",
     "slug": "week-13-immersive-gaming-and-ai",
     "topic": "The role of XR and AI in creating lifelike environments.",
     "overview": "This week, we explore the role of virtual reality (VR), augmented reality (AR), mixed reality (MR), and artificial intelligence (AI) in creating immersive and lifelike gaming environments. We will discuss the technological advancements and their impact on player experience.",
@@ -105,8 +105,16 @@
   },
   {
     "week": 14,
-    "title": "Wrap-Up",
-    "slug": "week-14-wrap-up",
+    "title": "Student Choice Topics",
+    "slug": "week-14-student-choice-topics",
+    "topic": "Whatever you want to talk about!",
+    "overview": "You decide what we discuss this week! Students will vote on topics of interest to explore in depth, allowing for a more personalized and engaging learning experience.",
+    "section": "Future Directions and Synthesis"
+  },
+  {
+    "week": 15,
+    "title": "Final Reflection: Gaming's Past, Present, and Future",
+    "slug": "week-15-final-reflection",
     "topic": "So What? What Now?",
     "overview": "This week, we wrap up the course by reflecting on the key themes and insights we've explored. We will discuss the future of gaming and its potential impact on society, culture, and technology.",
     "section": "Future Directions and Synthesis"
