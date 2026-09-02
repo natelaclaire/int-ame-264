@@ -40,7 +40,7 @@ export default function OutcomeResources() {
       <p><Link to="/learning-outcomes" className="btn">← Back to all outcomes</Link></p>
       <ul className="resources">
         {filtered.map(r => (
-          <ResourceItem key={r.id} resource={r} loMap={loMap} showModuleMeta moduleMap={moduleMap} />
+          <ResourceItem key={r.id} resource={r} loMap={loMap} showModuleMeta moduleMap={moduleMap} titleHeadingLevel={2} />
         ))}
       </ul>
     </section>

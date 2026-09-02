@@ -2,7 +2,7 @@ import Tooltip from './Tooltip'
 import { Link } from 'react-router-dom'
 import Markdown from 'react-markdown'
 
-export default function ResourceItem({ resource, loMap, showModuleMeta = false, moduleMap }) {
+export default function ResourceItem({ resource, loMap, showModuleMeta = false, moduleMap, titleHeadingLevel = 4 }) {
   const {
     title,
     url,
@@ -13,15 +13,16 @@ export default function ResourceItem({ resource, loMap, showModuleMeta = false, 
     required
   } = resource
   const moduleInfo = showModuleMeta && moduleMap ? moduleMap[resource.moduleSlug] : null
+  const TitleHeading = `h${titleHeadingLevel}`
 
   return (
     <li className={`resource ${required ? 'required' : 'optional'}`}>
       <div className="resource-main">
-        {url ? (
-          <a href={url} target="_blank" rel="noreferrer noopener">{title}</a>
-        ) : (
-          <span>{title}</span>
-        )}
+        <TitleHeading className="resource-title">
+          {url ? (
+            <a href={url} target="_blank" rel="noreferrer noopener">{title}</a>
+          ) : title}
+        </TitleHeading>
         {type && <span className="badge type">{type}</span>}
         {duration && <span className="badge duration">{duration}</span>}
         {showModuleMeta && (
