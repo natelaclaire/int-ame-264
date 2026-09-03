@@ -136,13 +136,7 @@ export default defineConfig({
             );
           });
 
-          // GitHub Pages SPA fallback: serve app shell for unknown routes.
-          copyFileSync(
-            resolve(__dirname, 'dist', 'index.html'),
-            resolve(__dirname, 'dist', '404.html')
-          );
-          
-          console.log('✓ Copied data/*.json, Markdown document folders, and SPA 404 fallback');
+          console.log('✓ Copied data/*.json and Markdown document folders');
         } catch (err) {
           console.error('Failed to copy data files:', err);
         }
