@@ -5,8 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "npm run build:epub && vite build",
+    "build": "npm run build:epub && npm run build:pdfs && vite build",
     "build:epub": "node scripts/build-epub.mjs",
+    "build:pdfs": "node scripts/build-module-pdfs.mjs",
     "preview": "vite preview",
     "extract": "node scripts/extract-course-data.mjs"
   },
@@ -15,6 +16,7 @@
     "@fortawesome/free-solid-svg-icons": "^7.3.1",
     "@fortawesome/react-fontawesome": "^3.5.0",
     "jszip": "^3.10.1",
+    "pdfkit": "^0.20.2",
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "react-markdown": "^10.1.0",

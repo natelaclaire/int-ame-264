@@ -36,6 +36,7 @@ export default function Module() {
     groups[topic].push(resource)
     return groups
   }, {}), [resourcesForModule])
+  const pdfUrl = module ? `/downloads/modules/week-${String(module.week).padStart(2, '0')}-module-guide.pdf` : ''
 
   const handleExport = async (kind) => {
     if (!module) return
@@ -69,6 +70,9 @@ export default function Module() {
       <p>{module.overview || <span className="muted">Overview coming soon.</span>}</p>
       <div className="cta-row">
         <Link to="/modules" className="btn">← Back to all modules</Link>
+        <a className="btn btn-pdf" href={pdfUrl} download>
+          Download module PDF
+        </a>
         <button type="button" className="btn" onClick={() => handleExport('standard')} disabled={Boolean(exporting)}>
           {exporting === 'standard' ? 'Exporting…' : 'Export Module (.imscc)'}
         </button>
