@@ -9,7 +9,8 @@ const collections = [
   { key: 'writings', label: 'Writings', singular: 'Post' },
   { key: 'radio', label: 'Radio', singular: 'Episode' },
   { key: 'assignmentDocs', label: 'Assignment Documents', singular: 'Document', documents: 'assignments' },
-  { key: 'syllabusDocs', label: 'Syllabus Documents', singular: 'Document', documents: 'syllabi' }
+  { key: 'syllabusDocs', label: 'Syllabus Documents', singular: 'Document', documents: 'syllabi' },
+  { key: 'writingDocs', label: 'Writing Documents', singular: 'Document', documents: 'writings' }
 ]
 
 const templates = {
@@ -18,7 +19,7 @@ const templates = {
   resources: { id: 'new-resource', moduleSlug: '', moduleWeek: 0, order: 1, title: 'New resource', url: '', type: 'Article', duration: '', notes: '', learningOutcomes: [], required: false, topic: 'General' },
   assignments: { id: 'new-assignment', title: 'New assignment', description: '', slug: 'new-assignment', markdown: '', supplemental: [] },
   syllabi: { id: 'new-syllabus', term: 'New term', startDate: '', endDate: '', slug: 'new-syllabus', markdown: '' },
-  writings: { slug: 'new-post', title: 'New post', author: 'Nate LaClaire', date: '', category: 'Essay', readTime: '5 min read', excerpt: '', body: [''] },
+  writings: { slug: 'new-post', title: 'New post', author: 'Nate LaClaire', date: '', category: 'Essay', readTime: '5 min read', excerpt: '', markdown: 'new-post.md' },
   radio: { id: 'new-episode', date: '', duration: '', topic: 'New episode', notes: '', songs: [] }
 }
 

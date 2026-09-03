@@ -12,7 +12,7 @@ export default function Syllabi() {
 
   return (
     <section>
-      <h1>Syllabi</h1>
+      <h1>Syllabi<span className="pixel-dot">.</span></h1>
       <p>Course syllabi by term.</p>
 
       <div className="assignments-list">

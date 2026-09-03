@@ -12,7 +12,7 @@ export default function Assignments() {
 
   return (
     <section>
-      <h1>Assignments</h1>
+      <h1>Assignments<span className="pixel-dot">.</span></h1>
       <p>Complete course assignments to practice your skills and demonstrate learning outcomes.</p>
       
       <div className="assignments-list">

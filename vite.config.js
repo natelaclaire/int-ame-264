@@ -5,7 +5,7 @@ import { resolve, basename } from 'path';
 import { spawn } from 'child_process';
 
 const cmsCollections = new Set(['learningOutcomes', 'modules', 'resources', 'assignments', 'syllabi', 'writings', 'radio']);
-const cmsDocumentFolders = new Set(['assignments', 'syllabi']);
+const cmsDocumentFolders = new Set(['assignments', 'syllabi', 'writings']);
 
 function readBody(req) {
   return new Promise((resolveBody, reject) => {
@@ -125,13 +125,24 @@ export default defineConfig({
             );
           });
 
+          // Copy writing Markdown files
+          const writingsDir = resolve(__dirname, 'data/writings');
+          const distWritingsDir = resolve(dataDir, 'writings');
+          mkdirSync(distWritingsDir, { recursive: true });
+          readdirSync(writingsDir).forEach(file => {
+            copyFileSync(
+              resolve(writingsDir, file),
+              resolve(distWritingsDir, file)
+            );
+          });
+
           // GitHub Pages SPA fallback: serve app shell for unknown routes.
           copyFileSync(
             resolve(__dirname, 'dist', 'index.html'),
             resolve(__dirname, 'dist', '404.html')
           );
           
-          console.log('✓ Copied data/*.json, data/assignments/, data/syllabi/, and SPA 404 fallback');
+          console.log('✓ Copied data/*.json, Markdown document folders, and SPA 404 fallback');
         } catch (err) {
           console.error('Failed to copy data files:', err);
         }

@@ -9,7 +9,7 @@ export default function LearningOutcomes() {
 
   return (
     <section>
-      <h1>Learning Outcomes</h1>
+      <h1>Learning Outcomes<span className="pixel-dot">.</span></h1>
       <ul className="lo-list">
         {outcomes.map(lo => (
           <li key={lo.id} className="lo-card">
