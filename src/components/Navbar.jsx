@@ -9,8 +9,12 @@ export default function Navbar() {
 
   return (
     <header className={`navbar ${isOpen ? 'open' : ''}`}>
-      <NavLink to="/" className="brand" onClick={closeMenu} aria-label="INT AME 264 home">
-        <span className="brand-mark"><FontAwesomeIcon icon={faGamepad} /></span><span>INT/AME 264</span>
+      <NavLink to="/" className="brand" onClick={closeMenu} aria-label="GamingHistory.org home">
+        <span className="brand-mark"><FontAwesomeIcon icon={faGamepad} /></span>
+        <span className="brand-copy">
+          <span className="brand-name">GamingHistory.org</span>
+          <span className="brand-tagline">A companion Web site to UMA's INT/AME 264</span>
+        </span>
       </NavLink>
       <button
         className="navbar-toggle"

@@ -24,7 +24,7 @@ export default function Home() {
     </section>
     <section className="home-grid">
       <Link to="/modules" className="feature-card feature-card-wide">
-        <span className="card-index">01</span><div><span className="kicker">Course</span><h2>Fourteen weeks.<br/>One playable history.</h2><p>Move from arcades to AI through readings, games, debate, and cultural analysis.</p></div><span className="card-arrow">↗</span>
+        <span className="card-index">01</span><div><span className="kicker">Course</span><h2>Fifteen weeks.<br/>One playable history.</h2><p>Move from arcades to AI through readings, games, debate, and cultural analysis.</p></div><span className="card-arrow">↗</span>
       </Link>
       <Link to="/writings" className="feature-card coral">
         <span className="card-index">02</span><div><span className="kicker">Writings</span><h2>Notes from the edge of play.</h2></div><span className="card-arrow">↗</span>
