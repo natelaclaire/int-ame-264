@@ -1,11 +1,37 @@
-import { useState } from 'react'
-import { NavLink } from 'react-router-dom'
+import { useEffect, useRef, useState } from 'react'
+import { NavLink, useLocation } from 'react-router-dom'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faGamepad } from '@fortawesome/free-solid-svg-icons'
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false)
-  const closeMenu = () => setIsOpen(false)
+  const [courseOpen, setCourseOpen] = useState(false)
+  const courseRef = useRef(null)
+  const courseButtonRef = useRef(null)
+  const { pathname } = useLocation()
+  const courseLinks = [
+    ['/learning-outcomes', 'Learning Outcomes'],
+    ['/modules', 'Modules'],
+    ['/assignments', 'Assignments'],
+    ['/syllabi', 'Syllabi'],
+  ]
+  const courseActive = courseLinks.some(([path]) => pathname === path || pathname.startsWith(`${path}/`))
+  const closeMenu = () => {
+    setIsOpen(false)
+    setCourseOpen(false)
+  }
+
+  useEffect(() => {
+    const closeOnOutsideClick = event => {
+      if (!courseRef.current?.contains(event.target)) setCourseOpen(false)
+    }
+    document.addEventListener('pointerdown', closeOnOutsideClick)
+    return () => document.removeEventListener('pointerdown', closeOnOutsideClick)
+  }, [])
+
+  useEffect(() => {
+    closeMenu()
+  }, [pathname])
 
   return (
     <header className={`navbar ${isOpen ? 'open' : ''}`}>
@@ -21,7 +47,10 @@ export default function Navbar() {
         type="button"
         aria-label="Toggle navigation"
         aria-expanded={isOpen}
-        onClick={() => setIsOpen(open => !open)}
+        onClick={() => {
+          setIsOpen(open => !open)
+          setCourseOpen(false)
+        }}
       >
         <span className="navbar-toggle-bar" />
         <span className="navbar-toggle-bar" />
@@ -29,10 +58,36 @@ export default function Navbar() {
       </button>
       <nav>
         <NavLink to="/" onClick={closeMenu} className={({isActive}) => isActive ? 'active' : ''}>Home</NavLink>
-        <NavLink to="/learning-outcomes" onClick={closeMenu} className={({isActive}) => isActive ? 'active' : ''}>Learning Outcomes</NavLink>
-        <NavLink to="/modules" onClick={closeMenu} className={({isActive}) => isActive ? 'active' : ''}>Modules</NavLink>
-        <NavLink to="/assignments" onClick={closeMenu} className={({isActive}) => isActive ? 'active' : ''}>Assignments</NavLink>
-        <NavLink to="/syllabi" onClick={closeMenu} className={({isActive}) => isActive ? 'active' : ''}>Syllabi</NavLink>
+        <div
+          className="course-menu"
+          ref={courseRef}
+          onBlur={event => {
+            if (!event.currentTarget.contains(event.relatedTarget)) setCourseOpen(false)
+          }}
+          onKeyDown={event => {
+            if (event.key === 'Escape' && courseOpen) {
+              event.preventDefault()
+              setCourseOpen(false)
+              courseButtonRef.current?.focus()
+            }
+          }}
+        >
+          <button
+            ref={courseButtonRef}
+            type="button"
+            className={`course-toggle ${courseActive ? 'active' : ''}`}
+            aria-expanded={courseOpen}
+            aria-controls="course-links"
+            onClick={() => setCourseOpen(open => !open)}
+          >
+            Course <span aria-hidden="true">{courseOpen ? '▴' : '▾'}</span>
+          </button>
+          <div id="course-links" className="course-links" hidden={!courseOpen}>
+            {courseLinks.map(([path, label]) => (
+              <NavLink key={path} to={path} onClick={closeMenu} className={({isActive}) => isActive ? 'active' : ''}>{label}</NavLink>
+            ))}
+          </div>
+        </div>
         <NavLink to="/writings" onClick={closeMenu} className={({isActive}) => isActive ? 'active' : ''}>Writings</NavLink>
         <NavLink to="/radio" onClick={closeMenu} className={({isActive}) => isActive ? 'active' : ''}>Radio</NavLink>
       </nav>
