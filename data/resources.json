@@ -1186,6 +1186,22 @@
     "topic": "Consoles, Computers, and Distribution"
   },
   {
+    "id": "week-3-gaming-consoles-and-pc-gaming-next-level",
+    "moduleSlug": "week-3-gaming-consoles-and-pc-gaming",
+    "moduleWeek": 3,
+    "order": 38,
+    "title": "Next Level with DanTDM",
+    "url": "https://www.classicfm.com/radio/shows-presenters/next-level-dan-tdm/",
+    "type": "Radio Show",
+    "duration": "",
+    "notes": "\"Daniel Middleton, aka DanTDM, who is one of the biggest content creators on YouTube with more than 29 million subscribers, hosts video game music show on Classic FM. Every Saturday evening, Dan will showcase the greatest gaming music, packed into each two-hour programme. He celebrates gaming’s most legendary soundtracks including The Legend of Zelda, Final Fantasy VII, Street Fighter II and one of his favourite games, Minecraft.\"",
+    "learningOutcomes": [
+      1
+    ],
+    "required": false,
+    "topic": "Consoles, Computers, and Distribution"
+  },
+  {
     "id": "week-4-portable-gaming-youtube-the-evolution-of-handheld-gaming",
     "moduleSlug": "week-4-portable-gaming",
     "moduleWeek": 4,
