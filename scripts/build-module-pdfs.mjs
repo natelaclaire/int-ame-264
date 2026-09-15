@@ -115,9 +115,10 @@ async function createModulePdf(module) {
   } })
   const stream = fs.createWriteStream(outputPath)
   doc.pipe(stream)
-  doc.registerFont('CourseSans', 'C:/Windows/Fonts/arial.ttf')
-  doc.registerFont('CourseSans-Bold', 'C:/Windows/Fonts/arialbd.ttf')
-  doc.registerFont('CourseSans-Italic', 'C:/Windows/Fonts/ariali.ttf')
+  const fontDir = path.join(root, 'fonts', 'Arimo', 'static')
+  doc.registerFont('CourseSans', path.join(fontDir, 'Arimo-Regular.ttf'))
+  doc.registerFont('CourseSans-Bold', path.join(fontDir, 'Arimo-Bold.ttf'))
+  doc.registerFont('CourseSans-Italic', path.join(fontDir, 'Arimo-Italic.ttf'))
 
   doc.rect(0, 0, doc.page.width, 13).fill(colors.lime)
   doc.fillColor(colors.ink).font('CourseSans-Bold').fontSize(9)
