@@ -5,9 +5,10 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "npm run build:epub && npm run build:pdfs && vite build",
+    "build": "npm run build:epub && npm run build:pdfs && npm run build:markdown && vite build",
     "build:epub": "node scripts/build-epub.mjs",
     "build:pdfs": "node scripts/build-module-pdfs.mjs",
+    "build:markdown": "node scripts/build-module-markdown.mjs",
     "preview": "vite preview",
     "extract": "node scripts/extract-course-data.mjs"
   },

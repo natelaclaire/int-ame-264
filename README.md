@@ -78,6 +78,10 @@ The output will be in the `dist/` folder. You can serve it with:
 npm run preview
 ```
 
+Each module page offers PDF and Markdown downloads. The production build regenerates both formats from the same course data, with matching topic/resource order, required/optional labels, notes, links, and full learning outcome descriptions. Files are saved in `public/downloads/modules/` and copied into `dist/downloads/modules/`.
+
+To refresh just the Markdown guides during development, run `npm run build:markdown`.
+
 ---
 
 ## Updating Content

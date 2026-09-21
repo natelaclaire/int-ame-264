@@ -37,6 +37,7 @@ export default function Module() {
     return groups
   }, {}), [resourcesForModule])
   const pdfUrl = module ? `/downloads/modules/week-${String(module.week).padStart(2, '0')}-module-guide.pdf` : ''
+  const markdownUrl = module ? `/downloads/modules/week-${String(module.week).padStart(2, '0')}-module-guide.md` : ''
 
   const handleExport = async (kind) => {
     if (!module) return
@@ -72,6 +73,9 @@ export default function Module() {
         <Link to="/modules" className="btn">← Back to all modules</Link>
         <a className="btn btn-pdf" href={pdfUrl} download>
           Download module PDF
+        </a>
+        <a className="btn" href={markdownUrl} download>
+          Download module Markdown
         </a>
         <button type="button" className="btn" onClick={() => handleExport('standard')} disabled={Boolean(exporting)}>
           {exporting === 'standard' ? 'Exporting…' : 'Export Module (.imscc)'}

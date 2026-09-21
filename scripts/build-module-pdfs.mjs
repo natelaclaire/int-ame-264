@@ -1,13 +1,7 @@
 import fs from 'node:fs'
 import path from 'node:path'
-import { fileURLToPath } from 'node:url'
+import { root, modules, outcomes, outputDir, sortedResourcesFor, groupByTopic } from './module-guide-data.mjs'
 import PDFDocument from 'pdfkit'
-
-const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
-const modules = JSON.parse(fs.readFileSync(path.join(root, 'data/modules.json'), 'utf8'))
-const resources = JSON.parse(fs.readFileSync(path.join(root, 'data/resources.json'), 'utf8'))
-const outcomes = JSON.parse(fs.readFileSync(path.join(root, 'data/learningOutcomes.json'), 'utf8'))
-const outputDir = path.join(root, 'public/downloads/modules')
 
 fs.mkdirSync(outputDir, { recursive: true })
 
@@ -36,27 +30,6 @@ function plainMarkdown(value) {
     .replace(/^\s*#{1,6}\s+/gm, '')
     .replace(/`([^`]+)`/g, '$1')
     .trim()
-}
-
-function sortedResourcesFor(slug) {
-  return resources
-    .map((resource, index) => ({ resource, index }))
-    .filter(({ resource }) => resource.moduleSlug === slug)
-    .sort((a, b) => {
-      const aOrder = Number.isFinite(a.resource.order) ? a.resource.order : Number.MAX_SAFE_INTEGER
-      const bOrder = Number.isFinite(b.resource.order) ? b.resource.order : Number.MAX_SAFE_INTEGER
-      return aOrder - bOrder || a.index - b.index
-    })
-    .map(({ resource }) => resource)
-}
-
-function groupByTopic(items) {
-  return items.reduce((groups, resource) => {
-    const topic = resource.topic || 'General'
-    if (!groups.has(topic)) groups.set(topic, [])
-    groups.get(topic).push(resource)
-    return groups
-  }, new Map())
 }
 
 function ensureSpace(doc, height) {
