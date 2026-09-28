@@ -2224,40 +2224,6 @@
     "topic": "Representation and Inclusion"
   },
   {
-    "id": "week-5-gender-and-minority-representation-tell-me-why",
-    "moduleSlug": "week-5-gender-and-minority-representation",
-    "moduleWeek": 5,
-    "order": 43,
-    "title": "Tell Me Why",
-    "url": "https://store.steampowered.com/app/1180660/Tell_Me_Why/",
-    "type": "Game",
-    "duration": "",
-    "notes": "Tell Me Why is a 2020 episodic narrative adventure video game developed by Dontnod Entertainment and published by Xbox Game Studios. It has been noted for being the first major studio video game to feature a playable transgender main character. The game explores childhood trauma and the fallibility of memory. The studio generally gives away the full game (all 3 episodes) on Steam during the month of June, and the first episode is available free year-round.",
-    "learningOutcomes": [
-      2,
-      6
-    ],
-    "required": false,
-    "topic": "Representation and Inclusion"
-  },
-  {
-    "id": "week-5-gender-and-minority-representation-tell-me-why-playthrough",
-    "moduleSlug": "week-5-gender-and-minority-representation",
-    "moduleWeek": 5,
-    "order": 44,
-    "title": "Commentary-free playthrough of Tell Me Why",
-    "url": "https://www.youtube.com/watch?v=D9vr6WYQFVc&ab_channel=Rubhen925",
-    "type": "YouTube",
-    "duration": "",
-    "notes": "If you're interested in the game but don't want to play it, check out this playthrough.",
-    "learningOutcomes": [
-      2,
-      6
-    ],
-    "required": false,
-    "topic": "Representation and Inclusion"
-  },
-  {
     "id": "week-5-gender-and-minority-representation-article-the-kiss-that-changed-video-ga",
     "moduleSlug": "week-5-gender-and-minority-representation",
     "moduleWeek": 5,
@@ -2394,6 +2360,60 @@
     "type": "Audio",
     "duration": "~9 min",
     "notes": "",
+    "learningOutcomes": [
+      2,
+      3,
+      4
+    ],
+    "required": true,
+    "topic": "Civic Engagement, War, and Violence"
+  },
+  {
+    "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-religious-themes-in-games-podcast",
+    "moduleSlug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "moduleWeek": 6,
+    "order": 8,
+    "title": "I Dream of Indie Games Podcast: What Religious Themes in Games Make Us Feel—And Why It Matters",
+    "url": "https://www.youtube.com/watch?v=vlwiU-IdMG0&t=1920s",
+    "type": "YouTube",
+    "duration": "~13 min",
+    "notes": "Listen to just this one segment from the larger video, 32:00 to 44:27.",
+    "learningOutcomes": [
+      2,
+      3,
+      4
+    ],
+    "required": true,
+    "topic": "Civic Engagement, War, and Violence"
+  },
+  {
+    "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-efms-religion-in-video-games",
+    "moduleSlug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "moduleWeek": 6,
+    "order": 8,
+    "title": "EFMS - Religion in Video Games",
+    "url": "https://www.youtube.com/watch?v=snYrwGow9jE",
+    "type": "YouTube",
+    "duration": "~14 min",
+    "notes": "This commentary explores the complex intersection of faith and interactive entertainment, examining how video games often shy away from religious themes despite their profound cultural significance. The text traces the evolution of the industry from 'god games' like Populous to modern narratives in BioShock and Skyrim that use fiction to address secularism, persecution, and political control. By highlighting the lack of authentic representation for religions like Islam, the source argues that developers frequently rely on stereotypes or avoid the subject entirely to escape controversy. Ultimately, the piece advocates for intelligent and subtle inclusion of religious identity, suggesting that embracing these sensitive topics can provide deeper emotional resonance and a more inclusive experience for players.",
+    "learningOutcomes": [
+      2,
+      3,
+      4
+    ],
+    "required": true,
+    "topic": "Civic Engagement, War, and Violence"
+  },
+  {
+    "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-word-has-become-game",
+    "moduleSlug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "moduleWeek": 6,
+    "order": 8,
+    "title": "The Word Has Become Game: Researching Religion in Digital Games",
+    "url": "https://research.tilburguniversity.edu/en/publications/the-word-has-become-game-researching-religion-in-digital-games/",
+    "type": "Article",
+    "duration": "~14 min",
+    "notes": "In this academic article, Frank Bosman outlines a comprehensive framework for analyzing the intersection of theology and digital media. He first establishes a nuanced definition of video games as digital, playable, and narrative texts, bridging the traditional gap between game mechanics and storytelling. To organize how faith appears in these spaces, Bosman identifies five distinct levels of religious engagement, ranging from explicit material content and external references to deep existential reflection and player-led rituals. Finally, he advocates for a four-step research methodology that requires scholars to combine immersive personal gameplay with a thorough investigation of developer intent and community reception.",
     "learningOutcomes": [
       2,
       3,
@@ -2683,6 +2703,62 @@
     "type": "Steam",
     "duration": "~11 min",
     "notes": "Play and discuss This War of Mine or Papers, Please (addressing civic and ethical issues), or watch the Papers, Please short film on Steam or YouTube, or find gameplay on Twitch/YouTube",
+    "learningOutcomes": [],
+    "required": false,
+    "topic": "Civic Engagement, War, and Violence"
+  },
+  {
+    "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-religious-imagery-in-video-games",
+    "moduleSlug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "moduleWeek": 6,
+    "order": 28,
+    "title": "Religious Imagery in Video Games",
+    "url": "https://themeliorist.ca/2022/11/30/religious-imagery-in-video-games/",
+    "type": "Article",
+    "duration": "~11 min",
+    "notes": "This article explores how modern video games utilize religious imagery and mythology to create immersive, awe-inspiring narratives that resonate with players’ real-world cultural understanding. By examining specific examples—such as the creation lore of Pokémon, the angelic aesthetics in Super Smash Bros., and the Eastern deities found in Final Fantasy—the author demonstrates that these digital worlds often function as modern mirrors of ancient faith. Rather than mocking spirituality, these games lean into the sense of wonder inherent in theological concepts to deepen their own fictional histories and emotional impact. Ultimately, the text highlights how borrowing from diverse religious traditions enriches the gaming experience, transforming entertainment into a sophisticated platform for exploring the extraordinary and the divine.",
+    "learningOutcomes": [],
+    "required": false,
+    "topic": "Civic Engagement, War, and Violence"
+  },
+  {
+    "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-diablo-4s-strange-dismissive-relationship-with-paganism",
+    "moduleSlug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "moduleWeek": 6,
+    "order": 28,
+    "title": "Diablo 4’s strange, dismissive relationship with paganism",
+    "url": "https://medium.com/@tilfolkvang/diablo-4s-strange-dismissive-relationship-with-paganism-43c7e78a8e7a",
+    "type": "Article",
+    "duration": "~11 min",
+    "notes": "The author explores how the Diablo IV universe reinforces a dualistic Christian cosmology, ultimately framing alternative, pagan-inspired spiritualities as mere superstition. While the game world vividly brings the iconography of Heaven and Hell to life, it relegates the nature-based practices of the Scosglen druids to the status of ineffective folk beliefs that lack the mechanical reality of the central angelic-demonic conflict. By contrasting this with the animistic world-building of The Witcher, the text argues that Diablo’s narrative structure forces a secular humanist morality into a rigid, Judeo-Christian framework. The piece concludes that by treating decentralized, Earth-focused faiths as legitimate forces rather than background flavor, developers could achieve a more diverse and compelling mythological landscape.",
+    "learningOutcomes": [],
+    "required": false,
+    "topic": "Civic Engagement, War, and Violence"
+  },
+  {
+    "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-the-religious-symbolism-of-halo-ft-wendigoon",
+    "moduleSlug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "moduleWeek": 6,
+    "order": 28,
+    "title": "The Religious Symbolism of Halo ft. @Wendigoon",
+    "url": "https://www.youtube.com/watch?v=IvvzhxO_P5A",
+    "type": "YouTube",
+    "duration": "~23 min",
+    "notes": "This video analysis explores how the Halo franchise is deeply anchored in religious scripture and symbolism, featuring insights from biblical enthusiast Wendigoon to bridge the gap between game lore and theology. The narrative structure pairs specific in-game terminology—such as the Halo rings, the Covenant, and the Flood—with their scriptural counterparts, illustrating how these elements serve as a galactic retelling of concepts like the Ark and the Apocalypse. Central to this discussion is the character of Master Chief, whose designation as 'John 117' is examined as a potential reference to Christ-like divinity or justice. By tracing these parallels, the text reveals that Halo’s universe is not merely science fiction, but a sophisticated modern mythology built upon ancient themes of sacrifice, false prophecy, and the preservation of life.",
+    "learningOutcomes": [],
+    "required": false,
+    "topic": "Civic Engagement, War, and Violence"
+  },
+  {
+    "id": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games-assassins-creed-was-always-anti-religion",
+    "moduleSlug": "week-6-civic-engagement-in-video-games-war-and-violence-in-video-games",
+    "moduleWeek": 6,
+    "order": 28,
+    "title": "Assassin's Creed Was Always Anti-Religion?",
+    "url": "https://www.youtube.com/watch?v=_nhdNwxXrvU",
+    "type": "YouTube",
+    "duration": "~35 min",
+    "notes": "The provided transcript explores the controversy surrounding Assassin’s Creed Shadows and argues that the franchise has a long-standing history of being critically skeptical toward religion. The speakers contend that recent backlash regarding the desecration of a Japanese shrine in the game ignores the fact that previous entries frequently portrayed major religious figures and deities as mere humans wielding technological artifacts. By examining past installments—such as the depiction of a corrupt Pope and the reinterpretation of religious miracles as precursor technology—the source suggests that the series has consistently treated spiritual traditions as subjective fiction. Ultimately, the authors lament that these cultural sensitivities and 'red herring' controversies are distracting from valid criticisms concerning Ubisoft’s business practices and historical inaccuracies.",
     "learningOutcomes": [],
     "required": false,
     "topic": "Civic Engagement, War, and Violence"

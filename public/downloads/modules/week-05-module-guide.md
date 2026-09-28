@@ -8,7 +8,7 @@ Analyzing representation and inclusivity in gaming.
 
 This week we analyze representation and inclusivity in gaming, discussing how different groups are portrayed and the efforts to create a more inclusive gaming environment, including the role of features that make games more accessible to all players. This includes assistive technologies and design principles. We will also take a look at character design, storylines, representation among the game development community, and community dynamics.
 
-45 resources / 1 topic
+43 resources / 1 topic
 
 ## Topic 01: Representation and Inclusion
 
@@ -633,32 +633,6 @@ YouTube
 [https://www.youtube.com/watch?v=YTm92X47Q00&ab\_channel=YesterYear%27sMacGames](<https://www.youtube.com/watch?v=YTm92X47Q00&ab_channel=YesterYear%27sMacGames>)
 
 Video review of Caper in the Castro including gameplay footage. Or, if you prefer, you can [play the game yourself](https://archive.org/details/hypercard_caper-in-the-castro).
-
-- LO 2: Students will be able to critically assess how video games reflect and shape cultural values, norms, and societal issues.
-- LO 6: Students will understand the variety of gaming experiences, from indie games to eSports, and will recognize the contributions of diverse communities within the gaming industry.
-
-### Tell Me Why
-
-**EXPLORE FURTHER**
-
-Game
-
-[https://store.steampowered.com/app/1180660/Tell\_Me\_Why/](<https://store.steampowered.com/app/1180660/Tell_Me_Why/>)
-
-Tell Me Why is a 2020 episodic narrative adventure video game developed by Dontnod Entertainment and published by Xbox Game Studios. It has been noted for being the first major studio video game to feature a playable transgender main character. The game explores childhood trauma and the fallibility of memory. The studio generally gives away the full game (all 3 episodes) on Steam during the month of June, and the first episode is available free year-round.
-
-- LO 2: Students will be able to critically assess how video games reflect and shape cultural values, norms, and societal issues.
-- LO 6: Students will understand the variety of gaming experiences, from indie games to eSports, and will recognize the contributions of diverse communities within the gaming industry.
-
-### Commentary-free playthrough of Tell Me Why
-
-**EXPLORE FURTHER**
-
-YouTube
-
-[https://www.youtube.com/watch?v=D9vr6WYQFVc&ab\_channel=Rubhen925](<https://www.youtube.com/watch?v=D9vr6WYQFVc&ab_channel=Rubhen925>)
-
-If you're interested in the game but don't want to play it, check out this playthrough.
 
 - LO 2: Students will be able to critically assess how video games reflect and shape cultural values, norms, and societal issues.
 - LO 6: Students will understand the variety of gaming experiences, from indie games to eSports, and will recognize the contributions of diverse communities within the gaming industry.
