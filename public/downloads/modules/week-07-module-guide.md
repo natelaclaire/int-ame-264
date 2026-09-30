@@ -8,7 +8,7 @@ The use of gaming in medical therapy and mental health.
 
 This week we explore the use of gaming in medical therapy and mental health, discussing how video games can be utilized for therapeutic purposes and their potential benefits for mental well-being.
 
-30 resources / 1 topic
+31 resources / 2 topics
 
 ## Topic 01: Games, Health, and Medicine
 
@@ -304,3 +304,17 @@ Website
 [https://home.liebertpub.com/publications/journal-of-medical-extended-reality/680](<https://home.liebertpub.com/publications/journal-of-medical-extended-reality/680>)
 
 Journal of Medical Extended Reality
+
+## Topic 02: Civic Engagement, War, and Violence
+
+### When A Video Game Becomes An Addiction
+
+**EXPLORE FURTHER**
+
+TED Talk | ~15 min
+
+[https://www.ted.com/talks/khurram\_sadiq\_when\_a\_video\_game\_becomes\_an\_addiction?subtitle=en](<https://www.ted.com/talks/khurram_sadiq_when_a_video_game_becomes_an_addiction?subtitle=en>)
+
+In this TEDx presentation description, Dr. Khurram Sadiq shares his personal struggle with compulsive gaming during his medical training to highlight a growing public health concern. The text details how medical professionals are increasingly recognizing the severe physical and psychological consequences tied to contemporary interactive entertainment, particularly focusing on issues like physical blood clots, extreme emotional outbursts, and insular online communities. Ultimately, the speaker aims to raise awareness about Internet Gaming Disorder and urges players to maintain a healthy equilibrium between virtual worlds and everyday life.
+
+- LO 4: Students will be able to discuss ethical concerns surrounding gaming, including issues related to violence, addiction, monetization practices, labor concerns, and virtual identities.
