@@ -72,11 +72,20 @@ function Field({ name, value, onChange, depth = 0, outcomeOptions = [] }) {
   return null
 }
 
+function usePersisted(key, initial) {
+  const [value, setValue] = useState(() => {
+    try { const stored = localStorage.getItem(`cms:${key}`); return stored === null ? initial : JSON.parse(stored) } catch { return initial }
+  })
+  useEffect(() => { try { localStorage.setItem(`cms:${key}`, JSON.stringify(value)) } catch { /* storage unavailable */ } }, [key, value])
+  return [value, setValue]
+}
+
 function CollectionEditor({ config }) {
   const [items, setItems] = useState([])
   const [saved, setSaved] = useState([])
-  const [selected, setSelected] = useState(0)
-  const [query, setQuery] = useState('')
+  const [selected, setSelected] = usePersisted(`collection:${config.key}:selected`, 0)
+  const [query, setQuery] = usePersisted(`collection:${config.key}:query`, '')
+  const [moduleFilter, setModuleFilter] = usePersisted('resources:module', '')
   const [status, setStatus] = useState('Loading…')
   const [outcomeOptions, setOutcomeOptions] = useState([])
 
@@ -86,7 +95,7 @@ function CollectionEditor({ config }) {
     Promise.all(requests).then(([data, outcomes = []]) => {
       const prepared = config.key === 'resources' ? normalizeResourceOrder(data) : data
       setOutcomeOptions(outcomes)
-      setItems(prepared); setSaved(deepClone(prepared)); setSelected(0); setStatus('')
+      setItems(prepared); setSaved(deepClone(prepared)); setSelected(index => Math.min(Math.max(0, index), Math.max(0, prepared.length - 1))); setStatus('')
     }).catch(error => setStatus(error.message))
   }, [config.key])
 
@@ -96,7 +105,8 @@ function CollectionEditor({ config }) {
     window.addEventListener('beforeunload', warn)
     return () => window.removeEventListener('beforeunload', warn)
   }, [dirty])
-  const filtered = useMemo(() => items.map((item, index) => ({ item, index })).filter(({ item }) => JSON.stringify(item).toLowerCase().includes(query.toLowerCase())), [items, query])
+  const filtered = useMemo(() => items.map((item, index) => ({ item, index })).filter(({ item }) => config.key !== 'resources' || !moduleFilter || item.moduleSlug === moduleFilter).filter(({ item }) => JSON.stringify(item).toLowerCase().includes(query.toLowerCase())), [items, query, moduleFilter, config.key])
+  const moduleOptions = useMemo(() => [...new Set(items.map(item => item.moduleSlug).filter(Boolean))], [items])
   const current = items[selected]
   const updateCurrent = next => setItems(items.map((item, index) => index === selected ? next : item))
 
@@ -128,14 +138,14 @@ function CollectionEditor({ config }) {
   const resourceCount = config.key === 'resources' && current ? items.filter(item => item.moduleSlug === current.moduleSlug).length : 0
 
   return <div className="cms-workspace">
-    <aside className="cms-records"><div className="cms-record-tools"><input type="search" placeholder={`Search ${config.label.toLowerCase()}…`} value={query} onChange={event => setQuery(event.target.value)} /><button type="button" onClick={add}>+ New</button></div><div className="cms-record-list">{filtered.map(({ item, index }) => <button type="button" className={index === selected ? 'active' : ''} onClick={() => setSelected(index)} key={`${recordTitle(item, index)}-${index}`}><span>{recordTitle(item, index)}</span><small>{item.week ? `Week ${item.week}` : item.type || item.category || item.date || ''}</small></button>)}</div></aside>
+    <aside className="cms-records"><div className="cms-record-tools"><input type="search" placeholder={`Search ${config.label.toLowerCase()}…`} value={query} onChange={event => setQuery(event.target.value)} /><button type="button" onClick={add}>+ New</button></div>{config.key === 'resources' && <select aria-label="Filter by module" value={moduleFilter} onChange={event => setModuleFilter(event.target.value)}><option value="">All modules</option>{moduleOptions.map(slug => <option value={slug} key={slug}>{slug}</option>)}</select>}<div className="cms-record-list">{filtered.map(({ item, index }) => <button type="button" className={index === selected ? 'active' : ''} onClick={() => setSelected(index)} key={`${recordTitle(item, index)}-${index}`}><span>{recordTitle(item, index)}</span><small>{item.week ? `Week ${item.week}` : item.type || item.category || item.date || ''}</small></button>)}</div></aside>
     <section className="cms-editor">{current ? <><header className="cms-editor-header"><div><div className="post-meta">EDIT {config.singular.toUpperCase()}</div><h2>{recordTitle(current, selected)}</h2></div><div className="cms-actions">{config.key === 'resources' && <><button type="button" disabled={resourcePosition <= 0} onClick={() => moveCurrent(-1)}>↑ Move up</button><button type="button" disabled={resourcePosition < 0 || resourcePosition >= resourceCount - 1} onClick={() => moveCurrent(1)}>↓ Move down</button></>}<button type="button" className="danger" onClick={remove}>Delete</button><button type="button" disabled={!dirty} onClick={save}>{dirty ? 'Save changes' : 'Saved'}</button></div></header><div className="cms-form">{Object.entries(current).map(([key, value]) => <Field key={key} name={key} value={value} outcomeOptions={outcomeOptions} onChange={next => updateCurrent({ ...current, [key]: next })} />)}</div></> : <div className="cms-empty">No records yet. Add the first one.</div>}<div className="cms-status" aria-live="polite">{status}{dirty && !status ? 'Unsaved changes' : ''}</div></section>
   </div>
 }
 
 function DocumentEditor({ config }) {
-  const [files, setFiles] = useState([]); const [selected, setSelected] = useState(''); const [content, setContent] = useState(''); const [saved, setSaved] = useState(''); const [status, setStatus] = useState('Loading…')
-  useEffect(() => { fetch(`/__cms/documents/${config.documents}`).then(r => r.json()).then(list => { setFiles(list); setSelected(list[0] || ''); setStatus('') }) }, [config.documents])
+  const [files, setFiles] = useState([]); const [selected, setSelected] = usePersisted(`doc:${config.documents}`, ''); const [content, setContent] = useState(''); const [saved, setSaved] = useState(''); const [status, setStatus] = useState('Loading…')
+  useEffect(() => { fetch(`/__cms/documents/${config.documents}`).then(r => r.json()).then(list => { setFiles(list); setSelected(current => list.includes(current) ? current : list[0] || ''); setStatus('') }) }, [config.documents])
   useEffect(() => { if (!selected) return; fetch(`/__cms/document/${config.documents}/${encodeURIComponent(selected)}`).then(r => r.json()).then(doc => { setContent(doc.content); setSaved(doc.content) }) }, [config.documents, selected])
   const save = async () => { setStatus('Saving…'); const response = await fetch(`/__cms/document/${config.documents}/${encodeURIComponent(selected)}`, { method: 'PUT', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ content }) }); const result = await response.json(); if (response.ok) { setSaved(content); setStatus('Document saved.') } else setStatus(result.error || 'Save failed.') }
   useEffect(() => {
@@ -147,9 +157,10 @@ function DocumentEditor({ config }) {
 }
 
 export default function Admin() {
-  const [active, setActive] = useState(collections[0])
+  const [activeKey, setActiveKey] = usePersisted('tab', collections[0].key)
+  const active = collections.find(c => c.key === activeKey) || collections[0]
   const [epubStatus, setEpubStatus] = useState('')
   if (!import.meta.env.DEV) return <section className="page-header"><span className="eyebrow">LOCAL TOOL</span><h1>CMS unavailable<span className="pixel-dot">.</span></h1><p className="lead">The editor only runs on your local development server so production content cannot be changed accidentally.</p></section>
   const rebuildEpub = async () => { setEpubStatus('Building…'); const response = await fetch('/__cms/build-epub', { method: 'POST' }); const result = await response.json(); setEpubStatus(response.ok ? 'ePub rebuilt.' : result.error) }
-  return <section className="cms-page"><header className="cms-header"><div><span className="eyebrow">LOCAL CONTENT STUDIO</span><h1>Course CMS<span className="pixel-dot">.</span></h1><p>Edit the source files directly. Changes appear on the site after saving.</p></div><div><button type="button" className="btn" onClick={rebuildEpub}>Rebuild ePub ↓</button><small>{epubStatus}</small></div></header><nav className="cms-tabs" aria-label="Content types">{collections.map(config => <button type="button" className={active.key === config.key ? 'active' : ''} onClick={() => setActive(config)} key={config.key}>{config.label}</button>)}</nav>{active.documents ? <DocumentEditor config={active} /> : <CollectionEditor config={active} />}</section>
+  return <section className="cms-page"><header className="cms-header"><div><span className="eyebrow">LOCAL CONTENT STUDIO</span><h1>Course CMS<span className="pixel-dot">.</span></h1><p>Edit the source files directly. Changes appear on the site after saving.</p></div><div><button type="button" className="btn" onClick={rebuildEpub}>Rebuild ePub ↓</button><small>{epubStatus}</small></div></header><nav className="cms-tabs" aria-label="Content types">{collections.map(config => <button type="button" className={active.key === config.key ? 'active' : ''} onClick={() => setActiveKey(config.key)} key={config.key}>{config.label}</button>)}</nav>{active.documents ? <DocumentEditor config={active} /> : <CollectionEditor config={active} />}</section>
 }
