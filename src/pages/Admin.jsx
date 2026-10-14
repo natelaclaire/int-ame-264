@@ -121,6 +121,16 @@ function CollectionEditor({ config }) {
 
   const add = () => { const next = [...items, deepClone(templates[config.key])]; setItems(next); setSelected(next.length - 1) }
   const remove = () => { if (!current || !window.confirm(`Delete “${recordTitle(current, selected)}”?`)) return; const next = items.filter((_, index) => index !== selected); setItems(next); setSelected(Math.max(0, selected - 1)) }
+  const duplicateCurrent = () => {
+    if (!current || config.key !== 'resources') return
+    const ids = new Set(items.map(item => item.id))
+    let id = `${current.id}-copy`
+    for (let n = 2; ids.has(id); n++) id = `${current.id}-copy-${n}`
+    const order = (Number.isFinite(current.order) ? current.order : 0) + 1
+    const shifted = items.map(item => item.moduleSlug === current.moduleSlug && item.order >= order ? { ...item, order: item.order + 1 } : item)
+    const next = [...shifted.slice(0, selected + 1), { ...deepClone(current), id, order }, ...shifted.slice(selected + 1)]
+    setItems(next); setSelected(selected + 1)
+  }
   const moveCurrent = direction => {
     if (!current || config.key !== 'resources') return
     const siblings = items
@@ -139,7 +149,7 @@ function CollectionEditor({ config }) {
 
   return <div className="cms-workspace">
     <aside className="cms-records"><div className="cms-record-tools"><input type="search" placeholder={`Search ${config.label.toLowerCase()}…`} value={query} onChange={event => setQuery(event.target.value)} /><button type="button" onClick={add}>+ New</button></div>{config.key === 'resources' && <select aria-label="Filter by module" value={moduleFilter} onChange={event => setModuleFilter(event.target.value)}><option value="">All modules</option>{moduleOptions.map(slug => <option value={slug} key={slug}>{slug}</option>)}</select>}<div className="cms-record-list">{filtered.map(({ item, index }) => <button type="button" className={index === selected ? 'active' : ''} onClick={() => setSelected(index)} key={`${recordTitle(item, index)}-${index}`}><span>{recordTitle(item, index)}</span><small>{item.week ? `Week ${item.week}` : item.type || item.category || item.date || ''}</small></button>)}</div></aside>
-    <section className="cms-editor">{current ? <><header className="cms-editor-header"><div><div className="post-meta">EDIT {config.singular.toUpperCase()}</div><h2>{recordTitle(current, selected)}</h2></div><div className="cms-actions">{config.key === 'resources' && <><button type="button" disabled={resourcePosition <= 0} onClick={() => moveCurrent(-1)}>↑ Move up</button><button type="button" disabled={resourcePosition < 0 || resourcePosition >= resourceCount - 1} onClick={() => moveCurrent(1)}>↓ Move down</button></>}<button type="button" className="danger" onClick={remove}>Delete</button><button type="button" disabled={!dirty} onClick={save}>{dirty ? 'Save changes' : 'Saved'}</button></div></header><div className="cms-form">{Object.entries(current).map(([key, value]) => <Field key={key} name={key} value={value} outcomeOptions={outcomeOptions} onChange={next => updateCurrent({ ...current, [key]: next })} />)}</div></> : <div className="cms-empty">No records yet. Add the first one.</div>}<div className="cms-status" aria-live="polite">{status}{dirty && !status ? 'Unsaved changes' : ''}</div></section>
+    <section className="cms-editor">{current ? <><header className="cms-editor-header"><div><div className="post-meta">EDIT {config.singular.toUpperCase()}</div><h2>{recordTitle(current, selected)}</h2></div><div className="cms-actions">{config.key === 'resources' && <><button type="button" disabled={resourcePosition <= 0} onClick={() => moveCurrent(-1)}>↑ Move up</button><button type="button" disabled={resourcePosition < 0 || resourcePosition >= resourceCount - 1} onClick={() => moveCurrent(1)}>↓ Move down</button></>}{config.key === 'resources' && <button type="button" onClick={duplicateCurrent}>⧉ Duplicate</button>}<button type="button" className="danger" onClick={remove}>Delete</button><button type="button" disabled={!dirty} onClick={save}>{dirty ? 'Save changes' : 'Saved'}</button></div></header><div className="cms-form">{Object.entries(current).map(([key, value]) => <Field key={key} name={key} value={value} outcomeOptions={outcomeOptions} onChange={next => updateCurrent({ ...current, [key]: next })} />)}</div></> : <div className="cms-empty">No records yet. Add the first one.</div>}<div className="cms-status" aria-live="polite">{status}{dirty && !status ? 'Unsaved changes' : ''}</div></section>
   </div>
 }
 
