@@ -8,7 +8,7 @@ The rise of indie games and the shift toward player-driven development.
 
 This week we discuss the rise of indie games and the shift toward player-driven development, exploring how independent developers are shaping the gaming landscape and the unique experiences they offer.
 
-30 resources / 1 topic
+31 resources / 1 topic
 
 ## Topic 01: Independent Games and Development
 
@@ -247,6 +247,19 @@ Highlights:
 * Developers should focus on the "core experience" or "fantasy" they want players to live out, keeping the game small but highly polished, and avoid scope creep.  
 * Prioritizing physical and mental health is essential to prevent burnout from intense crunch periods, which can last for months.
 
+- LO 6: Students will understand the variety of gaming experiences, from indie games to eSports, and will recognize the contributions of diverse communities within the gaming industry.
+
+### What it feels like to launch an indie hit
+
+**EXPLORE FURTHER**
+
+Article | ~19 min
+
+[https://www.polygon.com/features/2014/7/2/5858032/towerfall-matt-thorson/](<https://www.polygon.com/features/2014/7/2/5858032/towerfall-matt-thorson/>)
+
+The source article tells the compelling story of independent game developer Matt Thorson and his creative community living together in a Vancouver home known as Indie House. It details the journey of developing and launching TowerFall Ascension, a critically acclaimed multiplayer game that eventually brings its creator financial success and a half a million dollars in revenue. Ultimately, the narrative explores the tension between newfound wealth and the desire for relational stability, highlighting how Thorson values his shared lifestyle with close friends above the disruptive changes that come with commercial achievement.
+
+- LO 2: Students will be able to critically assess how video games reflect and shape cultural values, norms, and societal issues.
 - LO 6: Students will understand the variety of gaming experiences, from indie games to eSports, and will recognize the contributions of diverse communities within the gaming industry.
 
 ### Spelkollektivet: To Build a Castle
