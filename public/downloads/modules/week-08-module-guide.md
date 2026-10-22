@@ -20,7 +20,7 @@ YouTube | ~6 min
 
 [https://www.youtube.com/watch?v=LNfPdaKYOPI&ab\_channel=ConnectedLearningAlliance](<https://www.youtube.com/watch?v=LNfPdaKYOPI&ab_channel=ConnectedLearningAlliance>)
 
-James Paul Gee (JEE), a scholar in games and education, discusses how video games are fundamentally sets of problems that teach players to solve them in order to win. He highlights that the "design and learning" of games are often more trusted for assessment than traditional school methods, because games integrate assessment directly into the learning process.
+James Paul Gee, a scholar in games and education, discusses how video games are fundamentally sets of problems that teach players to solve them in order to win. He highlights that the "design and learning" of games are often more trusted for assessment than traditional school methods, because games integrate assessment directly into the learning process.
 
 * Video games, from **Civilization** (history problems) to **Halo** (fantasy fighting), are essentially **complex sets of problems** that players must solve to succeed.  
 * Unlike traditional schooling where testing is often separate and external, games inherently **assess a player's mastery through gameplay**, eliminating the need for separate tests.  
@@ -55,7 +55,7 @@ TED Talk | ~12 min
 
 Patrick Lynch discusses the transformative potential of AI immersive learning, highlighting its roots in ancient storytelling and its relevance for preparing for a future with human-AI collaboration. He emphasizes that job security will increasingly depend on the ability to apply creative thinking with AI.
 
-* **Immersive storytelling is an "ancient learning technique"** affirmed by archaeological findings, where knowledge was passed down through visual means and direct engagement. This contrasts with traditional "stage on the stage" lectures.  
+* **Immersive storytelling is an "ancient learning technique"** affirmed by archaeological findings, where knowledge was passed down through visual means and direct engagement. This contrasts with traditional "sage on the stage" lectures.  
 * Modern immersive experiences, such as **interactive escape rooms and live-action role-play (LARP), allow executives and students to become "crew members" or "ship captains"** to collaborate, solve problems, and build creative solutions, especially when working with generative AI as teammates or coaches.  
 * The future of AI immersive learning involves a **blurring of digital and physical realities through technologies like AR and VR**, enabling experiences like virtual oil rig firefighting or customer service training from home, accessible through wearables.
 
