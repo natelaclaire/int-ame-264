@@ -4058,23 +4058,6 @@
     "topic": "Independent Games and Development"
   },
   {
-    "id": "week-9-indie-games-indie-hit-towerfall",
-    "moduleSlug": "week-9-indie-games",
-    "moduleWeek": 9,
-    "order": 12,
-    "title": "What it feels like to launch an indie hit",
-    "url": "https://www.polygon.com/features/2014/7/2/5858032/towerfall-matt-thorson/",
-    "type": "Article",
-    "duration": "~19 min",
-    "notes": "The source article tells the compelling story of independent game developer Matt Thorson and his creative community living together in a Vancouver home known as Indie House. It details the journey of developing and launching TowerFall Ascension, a critically acclaimed multiplayer game that eventually brings its creator financial success and a half a million dollars in revenue. Ultimately, the narrative explores the tension between newfound wealth and the desire for relational stability, highlighting how Thorson values his shared lifestyle with close friends above the disruptive changes that come with commercial achievement.",
-    "learningOutcomes": [
-      2,
-      6
-    ],
-    "required": false,
-    "topic": "Independent Games and Development"
-  },
-  {
     "id": "week-9-indie-games-spelkollektivet",
     "moduleSlug": "week-9-indie-games",
     "moduleWeek": 9,
