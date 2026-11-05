@@ -8,7 +8,7 @@ So What? What Now?
 
 This week, we wrap up the course by reflecting on the key themes and insights we've explored. We will discuss the future of gaming and its potential impact on society, culture, and technology.
 
-6 resources / 1 topic
+7 resources / 1 topic
 
 ## Topic 01: Synthesis and Future Directions
 
@@ -74,3 +74,15 @@ Panel Recording | 64 min
 [https://gdcvault.com/play/1034964/2025-GDC-State-of-the?\_mc=em\_gdcsf\_x\_le\_x\_07monthly\_x\_2025&sp\_aid=130571&elq\_cid=48662221&sp\_eh=2efa3328470884738b2637e8dfca828ba32f7293f0eeeaa2da563c02bcf10afa&sp\_eh=2efa3328470884738b2637e8dfca828ba32f7293f0eeeaa2da563c02bcf10afa&utm\_source=eloqua&utm\_medium=email&utm\_campaign=13\_NL\_GDCNL25\_Batch7\_A\_EDNLSUB\_SUBS\_7132329447\_July\_20250731&sp\_cid=58845&utm\_content=13\_NL\_GDCNL25\_Batch7\_A\_EDNLSUB\_SUBS\_7132329447\_July\_20250731](<https://gdcvault.com/play/1034964/2025-GDC-State-of-the?_mc=em_gdcsf_x_le_x_07monthly_x_2025&sp_aid=130571&elq_cid=48662221&sp_eh=2efa3328470884738b2637e8dfca828ba32f7293f0eeeaa2da563c02bcf10afa&sp_eh=2efa3328470884738b2637e8dfca828ba32f7293f0eeeaa2da563c02bcf10afa&utm_source=eloqua&utm_medium=email&utm_campaign=13_NL_GDCNL25_Batch7_A_EDNLSUB_SUBS_7132329447_July_20250731&sp_cid=58845&utm_content=13_NL_GDCNL25_Batch7_A_EDNLSUB_SUBS_7132329447_July_20250731>)
 
 2025 GDC State of the Game Industry Panel
+
+### The History of Every Video Game Genre
+
+**EXPLORE FURTHER**
+
+YouTube | ~70 min
+
+[https://www.youtube.com/watch?v=Dbgdi7BzMR0](<https://www.youtube.com/watch?v=Dbgdi7BzMR0>)
+
+This is a recent video that I will use at the beginning of the course going forward but thought was worth sharing now - enjoy!
+
+- LO 1: Students will be able to explain the historical development of video games, from early arcade games to contemporary digital gaming platforms.
