@@ -8,9 +8,9 @@ The rise of competitive gaming and multiplayer communities as well as exploring 
 
 This week, we examine the rise of competitive gaming and multiplayer communities, as well as exploring streaming culture and video content creation. We will discuss how these elements have transformed the gaming experience and fostered new forms of social interaction.
 
-23 resources / 3 topics
+23 resources / 1 topic
 
-## Topic 01: Competitive Gaming and Esports
+## Topic 01: Competitive Gaming and Esports, Multiplayer Communities, Streaming and Content Creation
 
 ### Redeye at The International 8: An excerpt from This is esports (and How to Spell it)
 
@@ -27,6 +27,57 @@ This excerpt from Paul 'Redeye' Chaloner's book chronicles the remarkable evolut
 * Esports has rapidly escalated into a global spectacle, attracting millions of unique viewers for major tournaments, such as the League of Legends World Championship in 2018, which garnered 76 million unique viewers worldwide.  
 * The industry is characterized by its high commercial value and professionalization, demonstrated by substantial brand sponsorships (e.g., Amazon, Audi, Coca-Cola) and enormous prize pools, with TI8 alone offering $25 million.  
 * Esports has achieved its current level of success by maintaining its authenticity and not compromising game formats for traditional TV. Its growth is fueled by a passionate audience of gamers who enjoy both playing and watching top-level competition, connected globally by the internet.
+
+- LO 6: Students will understand the variety of gaming experiences, from indie games to eSports, and will recognize the contributions of diverse communities within the gaming industry.
+
+### Dear Parents, This is Why You SHOULD Let Kids Play Video Games\!
+
+**REQUIRED**
+
+TED Talk | ~9 min
+
+[https://www.youtube.com/watch?v=OHX26iN85kM&ab\_channel=TEDxTalks](<https://www.youtube.com/watch?v=OHX26iN85kM&ab_channel=TEDxTalks>)
+
+Avery Eun's TEDx talk challenges common parental concerns about video games by highlighting the positive impacts of competitive esports and gaming communities. They share personal anecdotes, explaining how video games like Minecraft and Overwatch helped them maintain friendships across geographical distances and bond with new peers after moving to California. Eun emphasizes that video games, contrary to popular belief, promote strong relationships and social connections. They also detail the inclusive and diverse nature of the gaming community, contrasting it with traditional sports by showcasing examples like professional female Overwatch player Geguri who competes alongside men based solely on skill. Eun concludes by arguing that competitive video games demand significant practice, talent, and communication skills, similar to physical sports, and highlights the booming growth and commercialization of esports.
+
+**Some Highlights:**
+
+* Video games, particularly online multiplayer games, are highly social. Surveys show 83% of American teen gamers play with friends in the same room, 76% play with friends online, and 36% make new friends while gaming. Discord, an app for the gaming community, had 115 million registered users and processed 530 million daily messages in August 2018.  
+* In 2018, the League of Legends World Championship had a peak viewership of over 200 million viewers, while the Super Bowl in the same year had a little over 100 million viewers.  
+* The gaming community is incredibly inclusive and diverse, transcending age, gender, nationality, and geographical barriers. This stands in contrast to traditional sports communities, which are often divided.  
+* Competitive video games require intensive practice, talent, focus, and communication skills, similar to traditional physical sports like soccer or volleyball. Esports has seen explosive growth, with over 120 universities having collegiate esports programs and major brands like Nike signing sponsorship deals with professional leagues.
+
+- LO 2: Students will be able to critically assess how video games reflect and shape cultural values, norms, and societal issues.
+- LO 6: Students will understand the variety of gaming experiences, from indie games to eSports, and will recognize the contributions of diverse communities within the gaming industry.
+
+### Benefits of multiplayer games: what the research shows
+
+**REQUIRED**
+
+Blog Post | ~12 min
+
+[https://guul.games/blog/embracing-the-social-side-benefits-of-multiplayer-online-gaming-with-friends](<https://guul.games/blog/embracing-the-social-side-benefits-of-multiplayer-online-gaming-with-friends>)
+
+This post explores scientific evidence regarding the social, cognitive, and emotional advantages of playing multiplayer games. It systematically categorizes research findings to show how collaborative gaming fosters meaningful social capital and strengthens interpersonal bonds rather than isolating players from reality. Furthermore, the source highlights that these benefits—ranging from improved strategic problem-solving to enhanced mood regulation—are most effective when participation is voluntary and consistent. Ultimately, the article serves to bridge the gap between casual entertainment and professional team-building by demonstrating how structured digital play can positively impact individual well-being and community cohesion. This is a great source to find and explore the research further.
+
+- LO 2: Students will be able to critically assess how video games reflect and shape cultural values, norms, and societal issues.
+- LO 5: Students will gain insights into how technologies like artificial intelligence, virtual reality, and online connectivity shape gaming experiences.
+
+### The Rise of Video Game Streaming: A New Era of Entertainment
+
+**REQUIRED**
+
+Blog Post | ~4 min
+
+[https://medium.com/@cook.benjamin/the-rise-of-video-game-streaming-a-new-era-of-entertainment-591ea50e0d6c](<https://medium.com/@cook.benjamin/the-rise-of-video-game-streaming-a-new-era-of-entertainment-591ea50e0d6c>)
+
+This article examines the explosive growth of video game streaming, driven by platforms like Twitch and YouTube Gaming, as a transformative force in the entertainment industry. It highlights the live, interactive nature of streaming, which cultivates a strong sense of community and engagement between streamers and their viewers. The rise of streaming has led to a new class of professional gamers who monetize their passion through sponsorships, donations, and ad revenue, achieving celebrity status comparable to traditional entertainers. The article also details the broad benefits for both players (showcasing skills, brand building, income) and viewers (discovering games, learning strategies, entertainment). Furthermore, streaming has significantly impacted the gaming industry by creating new marketing avenues and providing crucial exposure for indie game developers. The future of streaming is envisioned with further accessibility through cloud gaming and enhanced immersion via VR/AR technologies.
+
+**Highlights:**
+
+* Video game streaming provides a highly interactive and social experience, enabling real-time communication between players and audiences, which fosters a global community united by a shared passion for gaming.  
+* The platform has created a new class of professional gamers who earn a living from streaming, gaining celebrity status and substantial fan followings by showcasing their skills and entertaining a global audience.  
+* Streaming has a profound impact on the gaming industry, revolutionizing game marketing through influencer partnerships and offering a vital platform for indie game developers to gain exposure and reach a wider audience without large marketing budgets.
 
 - LO 6: Students will understand the variety of gaming experiences, from indie games to eSports, and will recognize the contributions of diverse communities within the gaming industry.
 
@@ -47,6 +98,27 @@ This video delves into notable cheating scandals within the competitive Minecraf
 * Motivations for cheating can include gaining credibility, recognition, and financial benefits through building a public brand, as revealed by Flowbee's confession. Such actions carry significant reputational risks and consequences within the gaming community.
 
 - LO 2: Students will be able to critically assess how video games reflect and shape cultural values, norms, and societal issues.
+- LO 4: Students will be able to discuss ethical concerns surrounding gaming, including issues related to violence, addiction, monetization practices, labor concerns, and virtual identities.
+- LO 6: Students will understand the variety of gaming experiences, from indie games to eSports, and will recognize the contributions of diverse communities within the gaming industry.
+
+### The Pros and Cons of Online Competitive Gaming: An Evidence-Based Approach to Assessing Young Players' Well-Being
+
+**REQUIRED**
+
+Research Report | ~22 min
+
+[https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.651530/full](<https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.651530/full>)
+
+This research paper explores the health and well-being outcomes associated with competitive online gaming and esports among young people aged 12-24 in Australia. The study's findings suggest that moderated gaming engagement is preferable for health. It identifies that heavy/frequent gamers exhibit more harmful outcomes, such as increased sedentary time, higher consumption of soft drinks and alcohol, higher rates of smoking, and more sleep difficulties, compared to light/casual gamers and non-gamers. Conversely, light/casual gamers reported similar health and well-being to non-gamers. The research also highlights the effectiveness of parental strategies, like setting time limits and encouraging physical activity, in mitigating negative gaming behaviors in minors.
+
+**Highlights:**
+
+* Heavy/frequent online competitive gaming is linked to various adverse well-being outcomes in young people, including increased sedentary time (up to 3.84 hours on weekends for minors), higher soft drink consumption, increased harmful drinking among young adults, higher smoking incidence, and more frequent sleep troubles for minors.  
+* Casual/light gamers show similar health and well-being outcomes to non-gamers, suggesting that gaming in moderation does not necessarily lead to negative health impacts. Some research indicates competitive gaming can even enhance cognitive abilities and decision-making when balanced with physical activity.  
+* Parental mitigation strategies are effective in influencing minors' gaming habits and health behaviors. For instance, parents setting time limits was associated with reduced weekday gaming hours, and encouraging physical activity led to more active days for children.
+
+- LO 2: Students will be able to critically assess how video games reflect and shape cultural values, norms, and societal issues.
+- LO 3: Students will explore the applications of video games beyond entertainment, including their use in medicine, education, and social engagement.
 - LO 4: Students will be able to discuss ethical concerns surrounding gaming, including issues related to violence, addiction, monetization practices, labor concerns, and virtual identities.
 - LO 6: Students will understand the variety of gaming experiences, from indie games to eSports, and will recognize the contributions of diverse communities within the gaming industry.
 
@@ -206,6 +278,18 @@ Documentary TV series
 
 - LO 6: Students will understand the variety of gaming experiences, from indie games to eSports, and will recognize the contributions of diverse communities within the gaming industry.
 
+### Twitch
+
+**EXPLORE FURTHER**
+
+Streaming Platform
+
+[https://www.twitch.tv/](<https://www.twitch.tv/>)
+
+Find and watch video game streams and/or on-demand content on YouTube, Twitch, or other streaming / video on-demand platforms
+
+- LO 6: Students will understand the variety of gaming experiences, from indie games to eSports, and will recognize the contributions of diverse communities within the gaming industry.
+
 ### Twin Galaxies
 
 **EXPLORE FURTHER**
@@ -239,93 +323,5 @@ Website
 [https://esportsinsider.com/](<https://esportsinsider.com/>)
 
 A news site all about esports. **Please note that this site includes news and advertisements related to esports betting - I am not endorsing such activity.**
-
-- LO 6: Students will understand the variety of gaming experiences, from indie games to eSports, and will recognize the contributions of diverse communities within the gaming industry.
-
-## Topic 02: Multiplayer Communities
-
-### Dear Parents, This is Why You SHOULD Let Kids Play Video Games\!
-
-**REQUIRED**
-
-TED Talk | ~9 min
-
-[https://www.youtube.com/watch?v=OHX26iN85kM&ab\_channel=TEDxTalks](<https://www.youtube.com/watch?v=OHX26iN85kM&ab_channel=TEDxTalks>)
-
-Avery Eun's TEDx talk challenges common parental concerns about video games by highlighting the positive impacts of competitive esports and gaming communities. They share personal anecdotes, explaining how video games like Minecraft and Overwatch helped them maintain friendships across geographical distances and bond with new peers after moving to California. Eun emphasizes that video games, contrary to popular belief, promote strong relationships and social connections. They also detail the inclusive and diverse nature of the gaming community, contrasting it with traditional sports by showcasing examples like professional female Overwatch player Geguri who competes alongside men based solely on skill. Eun concludes by arguing that competitive video games demand significant practice, talent, and communication skills, similar to physical sports, and highlights the booming growth and commercialization of esports.
-
-**Some Highlights:**
-
-* Video games, particularly online multiplayer games, are highly social. Surveys show 83% of American teen gamers play with friends in the same room, 76% play with friends online, and 36% make new friends while gaming. Discord, an app for the gaming community, had 115 million registered users and processed 530 million daily messages in August 2018.  
-* In 2018, the League of Legends World Championship had a peak viewership of over 200 million viewers, while the Super Bowl in the same year had a little over 100 million viewers.  
-* The gaming community is incredibly inclusive and diverse, transcending age, gender, nationality, and geographical barriers. This stands in contrast to traditional sports communities, which are often divided.  
-* Competitive video games require intensive practice, talent, focus, and communication skills, similar to traditional physical sports like soccer or volleyball. Esports has seen explosive growth, with over 120 universities having collegiate esports programs and major brands like Nike signing sponsorship deals with professional leagues.
-
-- LO 2: Students will be able to critically assess how video games reflect and shape cultural values, norms, and societal issues.
-- LO 6: Students will understand the variety of gaming experiences, from indie games to eSports, and will recognize the contributions of diverse communities within the gaming industry.
-
-### Benefits of multiplayer games: what the research shows
-
-**REQUIRED**
-
-Blog Post | ~12 min
-
-[https://guul.games/blog/embracing-the-social-side-benefits-of-multiplayer-online-gaming-with-friends](<https://guul.games/blog/embracing-the-social-side-benefits-of-multiplayer-online-gaming-with-friends>)
-
-This post explores scientific evidence regarding the social, cognitive, and emotional advantages of playing multiplayer games. It systematically categorizes research findings to show how collaborative gaming fosters meaningful social capital and strengthens interpersonal bonds rather than isolating players from reality. Furthermore, the source highlights that these benefits—ranging from improved strategic problem-solving to enhanced mood regulation—are most effective when participation is voluntary and consistent. Ultimately, the article serves to bridge the gap between casual entertainment and professional team-building by demonstrating how structured digital play can positively impact individual well-being and community cohesion. This is a great source to find and explore the research further.
-
-- LO 2: Students will be able to critically assess how video games reflect and shape cultural values, norms, and societal issues.
-- LO 5: Students will gain insights into how technologies like artificial intelligence, virtual reality, and online connectivity shape gaming experiences.
-
-### The Pros and Cons of Online Competitive Gaming: An Evidence-Based Approach to Assessing Young Players' Well-Being
-
-**REQUIRED**
-
-Research Report | ~22 min
-
-[https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.651530/full](<https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.651530/full>)
-
-This research paper explores the health and well-being outcomes associated with competitive online gaming and esports among young people aged 12-24 in Australia. The study's findings suggest that moderated gaming engagement is preferable for health. It identifies that heavy/frequent gamers exhibit more harmful outcomes, such as increased sedentary time, higher consumption of soft drinks and alcohol, higher rates of smoking, and more sleep difficulties, compared to light/casual gamers and non-gamers. Conversely, light/casual gamers reported similar health and well-being to non-gamers. The research also highlights the effectiveness of parental strategies, like setting time limits and encouraging physical activity, in mitigating negative gaming behaviors in minors.
-
-**Highlights:**
-
-* Heavy/frequent online competitive gaming is linked to various adverse well-being outcomes in young people, including increased sedentary time (up to 3.84 hours on weekends for minors), higher soft drink consumption, increased harmful drinking among young adults, higher smoking incidence, and more frequent sleep troubles for minors.  
-* Casual/light gamers show similar health and well-being outcomes to non-gamers, suggesting that gaming in moderation does not necessarily lead to negative health impacts. Some research indicates competitive gaming can even enhance cognitive abilities and decision-making when balanced with physical activity.  
-* Parental mitigation strategies are effective in influencing minors' gaming habits and health behaviors. For instance, parents setting time limits was associated with reduced weekday gaming hours, and encouraging physical activity led to more active days for children.
-
-- LO 2: Students will be able to critically assess how video games reflect and shape cultural values, norms, and societal issues.
-- LO 3: Students will explore the applications of video games beyond entertainment, including their use in medicine, education, and social engagement.
-- LO 4: Students will be able to discuss ethical concerns surrounding gaming, including issues related to violence, addiction, monetization practices, labor concerns, and virtual identities.
-- LO 6: Students will understand the variety of gaming experiences, from indie games to eSports, and will recognize the contributions of diverse communities within the gaming industry.
-
-## Topic 03: Streaming and Content Creation
-
-### The Rise of Video Game Streaming: A New Era of Entertainment
-
-**REQUIRED**
-
-Blog Post | ~4 min
-
-[https://medium.com/@cook.benjamin/the-rise-of-video-game-streaming-a-new-era-of-entertainment-591ea50e0d6c](<https://medium.com/@cook.benjamin/the-rise-of-video-game-streaming-a-new-era-of-entertainment-591ea50e0d6c>)
-
-This article examines the explosive growth of video game streaming, driven by platforms like Twitch and YouTube Gaming, as a transformative force in the entertainment industry. It highlights the live, interactive nature of streaming, which cultivates a strong sense of community and engagement between streamers and their viewers. The rise of streaming has led to a new class of professional gamers who monetize their passion through sponsorships, donations, and ad revenue, achieving celebrity status comparable to traditional entertainers. The article also details the broad benefits for both players (showcasing skills, brand building, income) and viewers (discovering games, learning strategies, entertainment). Furthermore, streaming has significantly impacted the gaming industry by creating new marketing avenues and providing crucial exposure for indie game developers. The future of streaming is envisioned with further accessibility through cloud gaming and enhanced immersion via VR/AR technologies.
-
-**Highlights:**
-
-* Video game streaming provides a highly interactive and social experience, enabling real-time communication between players and audiences, which fosters a global community united by a shared passion for gaming.  
-* The platform has created a new class of professional gamers who earn a living from streaming, gaining celebrity status and substantial fan followings by showcasing their skills and entertaining a global audience.  
-* Streaming has a profound impact on the gaming industry, revolutionizing game marketing through influencer partnerships and offering a vital platform for indie game developers to gain exposure and reach a wider audience without large marketing budgets.
-
-- LO 6: Students will understand the variety of gaming experiences, from indie games to eSports, and will recognize the contributions of diverse communities within the gaming industry.
-
-### Twitch
-
-**EXPLORE FURTHER**
-
-Streaming Platform
-
-[https://www.twitch.tv/](<https://www.twitch.tv/>)
-
-Find and watch video game streams and/or on-demand content on YouTube, Twitch, or other streaming / video on-demand platforms
 
 - LO 6: Students will understand the variety of gaming experiences, from indie games to eSports, and will recognize the contributions of diverse communities within the gaming industry.
