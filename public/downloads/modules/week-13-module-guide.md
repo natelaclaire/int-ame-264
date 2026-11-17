@@ -8,7 +8,7 @@ The role of XR and AI in creating lifelike environments.
 
 This week, we explore the role of virtual reality (VR), augmented reality (AR), mixed reality (MR), and artificial intelligence (AI) in creating immersive and lifelike gaming environments. We will discuss the technological advancements and their impact on player experience.
 
-36 resources / 1 topic
+37 resources / 1 topic
 
 ## Topic 01: Immersive Technology and AI
 
@@ -58,6 +58,21 @@ This report claims that King, the developer behind *Candy Crush*, is allegedly r
 
 - LO 4: Students will be able to discuss ethical concerns surrounding gaming, including issues related to violence, addiction, monetization practices, labor concerns, and virtual identities.
 - LO 5: Students will gain insights into how technologies like artificial intelligence, virtual reality, and online connectivity shape gaming experiences.
+- LO 8: Students will be able to discuss potential future trends in gaming, reflecting on emerging technologies, cultural shifts, and player expectations.
+
+### How it feels to have your game cloned
+
+**REQUIRED**
+
+YouTube | ~21 min
+
+[https://www.youtube.com/watch?v=8LMau1qXPYE](<https://www.youtube.com/watch?v=8LMau1qXPYE>)
+
+Indie game creator Mark Brown wrestles with a complex emotional dilemma after receiving an email from hobbyist developers who used an advanced AI tool to quickly clone his successful puzzle game, Word Play. He evaluates this jarring experience through various perspectives, acknowledging that video games naturally evolve from previous works and that he is flattered by the inspiration, yet he remains deeply frustrated by the financial threat of AI-generated rip-offs and the effortless speed at which technology can replicate months of human labor. Ultimately, Brown remains profoundly conflicted about whether to permit the release of this clone, as he questions the broader societal impact of hasty technological disruption and struggles to balance his need to earn a living with the realization that generative AI has fundamentally transformed the landscape of game development.
+
+- LO 4: Students will be able to discuss ethical concerns surrounding gaming, including issues related to violence, addiction, monetization practices, labor concerns, and virtual identities.
+- LO 5: Students will gain insights into how technologies like artificial intelligence, virtual reality, and online connectivity shape gaming experiences.
+- LO 6: Students will understand the variety of gaming experiences, from indie games to eSports, and will recognize the contributions of diverse communities within the gaming industry.
 - LO 8: Students will be able to discuss potential future trends in gaming, reflecting on emerging technologies, cultural shifts, and player expectations.
 
 ### F.E.A.R. - The Retrospective \| AI and Games
